@@ -4,7 +4,8 @@ date:   2019-11-12 20:00:00 -0700
 ---
 
 Welcome back to my guide to NYU CAS CS! Hope you enjoyed the last
-post.
+post. Here's a few other topics that I feel are important for CS
+majors to know.
 
 # Class Consciousness
 
@@ -50,7 +51,7 @@ You've heard this a million times and honestly this advice isn't gonna
 stop most people from skipping class. But at least I can say I told ya
 so.
 
-# Meetups and Events
+# (Event)ual Consistency
 
 I'm always amazed at how few students take advantage of NYC tech
 events. There's always something cool happening in New York. Whether
@@ -129,8 +130,12 @@ people who can contribute. Whether it's figuring out the logistics of
 room reservations or helping teach a workshop on front end
 development, every bit is appreciated.
 
+BUGS in particular has some very cool projects that they're working
+on, such as a [schedule
+generator](https://github.com/nicholaslyang/schedge). If you want some
+stuff to put on your resume, hit them up.
 
-# Git
+# Git Good
 
 Learn git. This is a rehash of my CSO advice, but really it's
 applicable to every single CS student. You can have a job that doesn't
@@ -142,9 +147,56 @@ There's quite a few [great](https://try.github.io/)
 [resources](https://www.atlassian.com/git/tutorials)
 [online](https://git-scm.com/book/en/v2) for git.
 
+And yeah, it is a pain at first. And you will run into complications
+where your git repo gets mangled or has to be rebuilt. But in the long
+run it's certainly worth it.
+
 [^3]: Google is actually a very notable example. They use their own
     *shudder* proprietary system called Piper. If you've ever worked
     at a large tech company, you probably know why I'd shudder at the
     mention of proprietary internal tech.
 
 
+# Open Source
+
+Another benefit of learning git is that you can start to participate
+in open source! Open source is great because it allows you to build a
+portfolio and contribute to some major projects. You can work on
+anything from the internals of programming languages to front end
+frameworks to other people's personal projects. This is an amazing way
+to practice contributing to large codebases. Which, ultimately, is
+going to be a lot of your work if you program for a living. Knowing
+how to write code is great. Learning to read code is arguably as
+important.
+
+Plus it's a great way to get your name out there. If you can get some
+recognition in the open source community, then you could easily parlay
+some of those contacts into a job.
+
+# Email: Use It
+
+I've found that people don't use email to its fullest. For one, you
+should email as many people as possible. Met someone cool at an event
+and want to keep in touch? Shoot them an email? A conference costs too
+much? Send them an email asking about scholarship tickets. Want a job?
+Write an email asking for one[^4].
+
+[^4]: That has legitimately gotten me a job.
+
+The important part is to be utterly shameless about email. Send emails
+to *everybody*. I mean I've sent emails to CEOs of billion dollar
+companies. I've sent emails to the creators of Python and of
+C#/TypeScript. Send emails asking for jobs. Send emails asking for
+money (for your club, obviously not for yourself). And definitely send
+follow up emails. Chances are the person who didn't respond to you
+just forgot about your email. Or the email got buried in their
+inbox. Think about all the emails you forget about in your
+inbox. Unless you've sent two or three follow up emails, you haven't
+done enough.
+
+# Conclusion
+
+That's all for now. If I come up with more general topics to write
+about for CS majors (or if someone emails me with other topic ideas), I'll
+write a third part. But until then, I hope this advice is useful and
+that you make the best of your time at NYU, studying CS or otherwise.

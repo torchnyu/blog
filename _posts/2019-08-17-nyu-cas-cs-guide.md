@@ -164,7 +164,7 @@ character. Programming is a lot of figuring it out, whatever *it[^2]*
 may be. Putting yourself in a situation where you need to figure it
 out, no matter what, is an excellent way to determine if you like
 programming. If you're trawling through pointers and you realize you
-hate it, then great! You got this realization before you graduated
+hate it, then great! You had this realization before you graduated
 with a degree in Computer Science. And if you love it, then you know
 that nothing can stop you.
 
@@ -187,7 +187,8 @@ showering (yes, even you Stallman).
 On the flip side, programming and CS are not subjects restricted to
 just the nerdy. You can program and dress well. You can program and
 ice skate or dance or sing. You can program and go to parties (though
-probably not at the same time).
+probably not at the same time). Programming is not about your
+nerdiness, but about your work ethic and abilities.
 
 Programming belongs to those who do it well and with passion. That's
 it.
