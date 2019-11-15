@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Burn Rate
-email: your-email@example.com
+email: nick@nicholasyang.com
 description: >- # this means to ignore newlines until "baseurl:"
- A blog for TORCH, an incubator for CS students to foster their technical
+ A blog for Torch, an incubator for CS students to foster their technical
  talent and future career
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.torchnyu.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,7 +31,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
 theme_color: red
-  
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

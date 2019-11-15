@@ -35,7 +35,7 @@ Too far behind? Going to class will at least give you a roadmap of
 what you need to learn. Class isn't just about learning new
 material. It's about learning what you don't know. Getting confused is
 a sign that you don't know something that you should know. Which is
-great! Better to be confused in class than in an exam.
+great! Better to be confused in class than on an exam.
 
 And if you don't have the willpower to show up to two classes a week,
 something tells me you're not gonna have the willpower to sit through
@@ -51,17 +51,16 @@ You've heard this a million times and honestly this advice isn't gonna
 stop most people from skipping class. But at least I can say I told ya
 so.
 
-# (Event)ual Consistency
+# Eventual Consistency
 
 I'm always amazed at how few students take advantage of NYC tech
 events. There's always something cool happening in New York. Whether
 it's [Brooklyn JS](http://brooklynjs.com/), [React
 NYC](http://brooklynjs.com/), [Rust
 NYC](https://www.meetup.com/Rust-NYC/), [DigitalOcean
-NYC](https://www.meetup.com/DigitalOceanNYC/)[^2], there's always some
+NYC](https://www.meetup.com/DigitalOceanNYC/) (best food), there's always some
 sort of cool tech meetup going on.
 
-[^2]: Probably the best food and drinks for NYC Meetups
 
 But why attend non NYU meetups? After all, NYU has plenty of tech
 clubs and non NYU peole are scary. For one, you get to interact with
@@ -70,11 +69,12 @@ you're looking for work. Or just getting a feel for what programming
 is like as an everyday job. Or want to find someone who can
 mentor/teach you.
 
-Another great benefit are the talks. Meetup talks aren't super
+Another great benefit are the talks. Meetup talks aren't always
 consistent since they're done completely on a volunteer basis, but
-when they're on point, they can be fun, interesting, and remarkably
-informative. Definitely read the talk descriptions before you go, but
-even if they aren't great, consider attending just for the people.
+when they're on point, they're on point. A great meetup talk can be
+fun, interesting, and remarkably informative. Definitely read the talk
+descriptions before you go, but even if they aren't great, consider
+attending just for the people.
 
 Also there's every college student's favorite thing: free food. And
 sometimes it's *good* free food---catered stuff with soda, beer and
@@ -185,14 +185,14 @@ Write an email asking for one[^4].
 
 The important part is to be utterly shameless about email. Send emails
 to *everybody*. I mean I've sent emails to CEOs of billion dollar
-companies. I've sent emails to the creators of Python and of
-C#/TypeScript. Send emails asking for jobs. Send emails asking for
-money (for your club, obviously not for yourself). And definitely send
-follow up emails. Chances are the person who didn't respond to you
-just forgot about your email. Or the email got buried in their
-inbox. Think about all the emails you forget about in your
-inbox. Unless you've sent two or three follow up emails, you haven't
-done enough.
+companies. I've sent emails to the creators of Python, of
+C#/TypeScript and of Swift/Clang. Send emails asking for jobs. Send
+emails asking for money (for your club, obviously not for
+yourself). And definitely send follow up emails. Chances are the
+person who didn't respond to you just forgot about your email. Or the
+email got buried in their inbox. Think about all the emails you forget
+about in your inbox. Unless you've sent two or three follow up emails,
+you haven't done enough.
 
 # Conclusion
 
