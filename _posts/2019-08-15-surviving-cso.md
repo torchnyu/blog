@@ -193,7 +193,7 @@ Papyrus](https://www.youtube.com/watch?v=jVhlJNJopOQ), whatever.
 For C, "all" you need to learn is pointers. What are pointers? A
 pointer is a memory address. Think of it as essentially an index into
 the reeeaallly big array that is computer memory. Pointers are the one
-and only way of handling memory in C. 
+and only way of handling memory in C.
 
 Languages like Java or Python abstract away pointers with the idea of
 references. C has no such concept. Instead, you have pointers that
