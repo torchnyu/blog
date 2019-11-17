@@ -8,7 +8,7 @@ Google, Facebook, Amazon, Microsoft, etc. In programmer parlance,
 these are called "Big N" companies. As in, the Big 5, Big 10, Big "N"
 companies in the tech world.
 
-With these companies, I'd also include some of the newer, larger
+With these companies, I'm also including some of the newer, larger
 startups, especially "unicorn" startups, or startups valued at over a
 billion dollars. Places like Stripe, Lyft, AirBnb, Uber, Palantir,
 Coinbase, GitHub, Reddit, etc. are all excellent places to intern and
@@ -30,16 +30,16 @@ money, or the awesome people, you want this job. How do you get it?
 
 # Reality of Rejection
 
-Be prepared for a lot of rejection. Doesn't matter who you are, or
-what you've done, you'll get rejected from *somewhere*. Sometimes your
-application gets ghosted. Sometimes you finish an interview and get
-rejected for no apparent reason. Don't take it personally, even though
-it totally sucks.
+For one, be prepared for a lot of rejection. Doesn't matter who you
+are, or what you've done, you'll get rejected from
+*somewhere*. Sometimes your application gets ghosted. Sometimes you
+finish an interview and get rejected for no apparent reason. Don't
+take it personally, even though it totally sucks.
 
 Therefore, you should apply to a whole bunch of Big N companies. Don't
-just apply to Google and call it a day. If you don't want to work at a
-specific Big N company, for whatever reasons, don't apply there. But
-if you want a Big N job, apply to as many as you can.
+just apply to Google and call it a day. Of course if you don't want
+to work at a specific Big N company, for whatever reasons, don't apply
+there. But if you want a Big N job, apply to as many as you can.
 
 # Roles
 
@@ -53,7 +53,9 @@ programmer Harry.
 Product roles are not as technical but more about digging into
 requirements for a project, comparing them with the programmers'
 responses, then doing stuff like creating estimates, managing
-features, and so on.
+features, and so on. In some companies they're also in charge of
+developer operations, or basically the infrastructure and deployment
+aspect of products.
 
 The early career roles are interesting cases. These are the
 programs like Google STEP, Microsoft Explore, Facebook University and
@@ -126,7 +128,8 @@ Having gotten the foobar challenge myself, I'm not sure if it was
 worth it. I spent a lot of time working through the levels, only to
 have it plop me into the first stage of the Google recruiting
 process. Which, I guess is better than being ghosted, but it took a
-lot of work just to get sent another online coding screen.
+lot of work just to get sent another online coding screen after I
+finished the challenge.
 
 You can try to get to the recruiter assigned to NYU (often recruiters
 work like admissions officers in that they have specific domains). But
@@ -142,7 +145,7 @@ recruiters are contractors and are identified with a separate
 recruiting firm.
 
 Check your spam and double check that the email addressed to "Nicolas
-Yan"" about a job opportunity isn't actually an email from Facebook
+Yan" about a job opportunity isn't actually an email from Facebook
 recruiting.
 
 
@@ -178,18 +181,20 @@ practicing interview questions can be good, I find that programming
 regularly and have taken a halfway decent data structures/algorithms
 course is enough for interview questions. If you are not programming
 regularly or have not taken a decent data structures and algorithms
-course, try to do so to prepare for interviews. Cracking The Coding
-Interview will have some sections on data structures and
-algorithms. If you want a more thorough treatment, you can use
-something like [Introduction to Algorithms by Cormen, Leiserson,
-Rivest and
+course, try to do some work on your own to prepare for
+interviews. Cracking The Coding Interview will have some sections on
+data structures and algorithms. If you want a more thorough treatment,
+you can use something like [Introduction to Algorithms by Cormen,
+Leiserson, Rivest and
 Stein](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1)
-also known as CLRS. As for programming regularly, you can reference my
-[CAS CS
+also known as CLRS. But it's totally okay if you find something like
+CLRS boring and overkill. In that case, I suppose a little bit of
+Leetcode might be in order. As for programming regularly, you can
+reference my [CAS CS
 guide](https://blog.torchnyu.com/2019/08/19/nyu-cas-cs-guide.html) for
 some tips.
 
-Again, don't worry too much about learning every algorithm or data
+But don't worry too much about learning every algorithm or data
 structure under the sun. The questions that your interviewers come up
 with are questions where they understand the solution and can judge
 potential answers. They're probably not gonna ask you about red black
@@ -238,10 +243,10 @@ you. Some...more realpolitik people than myself have recommended
 accepting the offer, then rescinding if you find something better. I
 disagree with that approach. For one, it's a little unprofessional in
 my view. Companies may be massive machines worth billions of dollars,
-but you are screwing over your recruiter. But also that strategy can
-backfire as some companies may or may not remember your
-rescinding. Plus if you're rescinding Amazon to take Google, does it
-really matter that much?
+but you are screwing over your recruiter, who is just a person. But
+also that strategy can backfire as some companies may or may not
+remember your rescinding. Plus if you're rescinding Amazon to take
+Google, does it really matter that much?
 
 So yeah, there's not a great answer to this issue. Just make your
 choices and try to not look back[^1].
@@ -261,7 +266,8 @@ down with an employee who will explain the details of your offer and
 what team/division you will be in. Or, at the very least they'll
 explain the general format of your internship. This is an important
 session. You are now the person in control. You should try to ask as
-many questions as you can to eek out whether you want to work there. Some good questions to ask include:
+many questions as you can to eek out whether you want to work
+there. Some good questions to ask include:
 
 "Do interns get new projects or are they fixing bugs?"
 
