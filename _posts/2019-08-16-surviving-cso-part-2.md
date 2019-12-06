@@ -18,11 +18,12 @@ understand the gist. Instead, it's kinda like a really complicated
 version of the cups and the balls. You have to keep track of how the
 memory is flowing and which register has which variable. Sometimes the
 compiler does some tricky sleight of hand and you have to puzzle out
-what just happened. 
+what just happened.
 
- You can run it, you can generate it, etc. A good way
-to read assembly is to write some C, compile it with the `-S` flag and
-look at the assembly. The [Godbolt compiler
+Another important thing to remember is that assembly is just another
+programming language. You can run it, you can generate it, you can
+debug it, etc. A good way to read assembly is to write some C, compile
+it with the `-S` flag and look at the assembly. The [Godbolt compiler
 explorer](https://godbolt.org/) is a nice interactive tool for this as
 well.
 

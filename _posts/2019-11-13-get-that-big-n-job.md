@@ -3,7 +3,7 @@ title:  "Get That Big N Job"
 date:   2019-11-14 20:00:00 -0700
 ---
 
-So you want a job. Not just any job though. A job at a place like
+So you want a job. Not just any job though. A job at a place like 
 Google, Facebook, Amazon, Microsoft, etc. In programmer parlance,
 these are called "Big N" companies. As in, the Big 5, Big 10, Big "N"
 companies in the tech world.
@@ -43,7 +43,7 @@ there. But if you want a Big N job, apply to as many as you can.
 
 # Roles
 
-There's basically three main divisons for interns at tech
+There's basically three main divisions for interns at tech
 companies. There's software engineering (SWE), product management
 (PM), and early-career roles.
 
@@ -79,7 +79,7 @@ The reason you should apply early, beyond the possibility that all the
 spots fill up, has to due with the way big companies recruit. There's
 two parts of the recruitment process: hiring and team placement. In
 some companies, such as Google, the team placement is done alongside
-hiring. In others, companies recruit for a divison, then place interns
+hiring. In others, companies recruit for a division, then place interns
 in specific teams later. Either way, the teams/divisions that are more
 desirable tend to fill up early, whether due to returning interns
 requesting that team, or specific requests by applicants. While any
@@ -240,12 +240,12 @@ time if you still have other applications going on.
 
 There's no real good answer on what to do if this happens to
 you. Some...more realpolitik people than myself have recommended
-accepting the offer, then rescinding if you find something better. I
+accepting the offer, then reneging if you find something better. I
 disagree with that approach. For one, it's a little unprofessional in
 my view. Companies may be massive machines worth billions of dollars,
 but you are screwing over your recruiter, who is just a person. But
 also that strategy can backfire as some companies may or may not
-remember your rescinding. Plus if you're rescinding Amazon to take
+remember your reneging. Plus if you're reneging Amazon to take
 Google, does it really matter that much?
 
 So yeah, there's not a great answer to this issue. Just make your
