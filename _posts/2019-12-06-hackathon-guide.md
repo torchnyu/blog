@@ -1,12 +1,12 @@
 ---
-title:  "Hackathons: Some Guidelines"
+title:  "Hacking the Hackathon"
 date:   2019-12-05 20:00:00 -0700
 ---
 
 Hackathons. Love 'em, hate 'em, they're everywhere. It seems like
 every college has one. Whether you're a computer science student or
-just someone adjacent to programming, you pretty much always have the
-opportunity to attend some sort of hackathon.
+simply adjacent to programming, you always have the opportunity to
+attend some sort of hackathon.
 
 Here's some guidelines for how hackathons work, whether you should
 attend or not, and tips for making the best of your experience.
@@ -16,8 +16,8 @@ attend or not, and tips for making the best of your experience.
 A hackathon, fundamentally, is an event where people come together and
 make cool stuff. Generally people will work together on teams to
 create a new project that they will then submit for judging and
-prizes. There's generally free food, swag and companies who sponsor
-the event. Hackathons range in length from 12 hours to 48 hours. Some
+prizes. There's usually free food, swag and companies who sponsor the
+event. Hackathons range in length from 12 hours to 48 hours. Some
 attendees will stay at the venue and (maybe) sleep.
 
 Making stuff doesn't necessarily mean programming by the way. You can
@@ -25,9 +25,7 @@ go around surveying people and getting a feel for product fit[^1]. You
 can design mockups for websites or apps. You can polish pitches. You
 can solder stuff or debug hardware.
 
-[1]: I had a member of a team do exactly that at a recent hackathon
- and their work was extremely valuable. Turns out asking "do people
- want this?" before presenting is a good idea!
+[^1]: I had a member of a team do exactly that at a recent hackathon  and their work was extremely valuable. Turns out asking "do people  want this?" before presenting is a good idea!
 
 You can also go to a hackathon and do none of that! Hackathons are
 great in that they aren't super restrictive. You can just go there eat
@@ -96,11 +94,12 @@ Decent headphones to block out noise. Essential for programming in
 what's basically the largest, most uncomfortable open office.
 
 A change of clothes. Especially socks. For some reason there's nothing
-worse (imo) than wearing the saame pair of socks for too long.
+worse (imo) than wearing the same pair of socks for too long.
 
 Warm jackets. I don't know why, but hackathons always get super
 cold. Maybe they pump the AC. Maybe it just gets really cold at 4am. I
-don't know. I like having a light down layer.
+don't know. I like having a light down layer in warmer months/climates
+and a heavy layer, even a parka in cold weather.
 
 Shower supplies. This means a towel, soap, flip-flops and extra
 underwear. Lots of hackathons will provide showers, so take advantage.
@@ -123,12 +122,12 @@ hackathon. Vitamins help with that. Maybe pack some fruit too.
 # How Do I Win?
 
 
-Ahh yes. The question you *really* want me to answer. You've seen the
+Ah yes. The question you *really* want me to answer. You've seen the
 awesome prizes, the Facebook likes and potential internships that
 hackathon winners can achieve. You want that Oculus, that iPad, that
 whatever on the DevPost listing.
 
-## Please Don't
+## Disclaimer: Please Don't
 
 Before we get into the frankly cynical winning tactics, I want to
 caution that winning is a pretty lame reason to go to a
@@ -140,17 +139,16 @@ there's no guarantee you'll win a prize.
 
 Putting money aside, the amount of stress and lack of sleep that you
 endure by working like mad to win isn't worth the *possibility* of
-winning a prize.
-
-Obsessing too much about winning poisons the whole experience and
-makes hackathons a lot less fun. Plus it leads to various cynical,
-deceptive tactics which, unfortunately, are pretty effective.
+winning a prize. Obsessing too much about winning poisons the whole
+experience and makes hackathons a lot less fun. Plus it leads to
+forthcoming cynical, deceptive tactics which, unfortunately, are
+pretty effective but also ruin how you see hackathons.
 
 Winning a prize now and then is great. Obsessing about winning isn't.
 
-With that said, let's get down to some nice cynical strategy.
-
 ## Win At All Costs
+
+With that said, let's get down to some nice cynical strategy.
 
 Hackathons fundamentally are about convincing the judges that your
 project is cool and interesting. As a general rule, judges tend to not
@@ -166,9 +164,12 @@ and that's far more important than anything in the backend.
 
 For front end development, I'd generally recommend learning plenty of
 JavaScript and some basic HTML and CSS. People for some reason have an
-obsession with React at hackathons, which I think is wildly
+obsession with React at hackathons, which I think is a little
 misplaced. As someone who is fairly decent at React, I like it but
-it's also tricky to get right and has a somewhat steep learning curve.
+it's also tricky to get right and has a somewhat steep learning
+curve. I'd learn to use something like Materialize or Bootstrap, then
+get really good at CSS. An okay CSS developer is so much more useful
+than an amazing Flask dev at a hackathon.
 
 For social impact, make sure your app does something that can be sold
 as good for the world. Doesn't matter if it's actually feasible. For
@@ -184,8 +185,9 @@ hackathon instead? But I digress.
 
 Wow factor is probably the most important aspect. Let's face
 it. Judges aren't gonna look at your code. They're not gonna remember
-your lofty pitches on saving the rainforest. They're gonna remember
-that VR/AI/ML/NLP/etc. project that's gonna revolutionize the world.
+your lofty pitches on saving the rainforest. Maybe they're remember a
+tiny bit of your slick UI. But they'll remember above all the crazy
+VR/AI/ML/NLP/etc. project that's gonna revolutionize the world.
 
 This is definitely true with less technical judges. It's pretty easy
 to get non technical people impressed by just saying "machine
@@ -198,7 +200,11 @@ bet. Especially because there's some great off the shelf ML APIs from
 Google, IBM, etc. that work decently well.
 
 Blockchain is a little dicey. I'd say maybe 2-3 years ago it'd be a
-good idea, but now I think people are cooling off on it.
+good idea, but now I think people are cooling off on it. Try to keep
+it to relevant, hot buzzwords.
+
+Hit the right balance of aesthetics, social good and wow factor, and
+you'll be well on your way to impressing judges.
 
 ## Misc Winning Advice
 
@@ -216,7 +222,7 @@ React autocomplete libraries all suck. Now I could have slogged
 through, gotten it working, etc., but I would have lost a significant
 amount of time, momentum and most importantly, morale. Not worth it.
 
-[2]: Just because I use it doesn't mean you should.
+[^2]: Just because I use it doesn't mean you should.
 
 Hard coding is your friend. Unless it's super super easy to implement,
 just hard code it. But hard code intelligently. I like to add a little
@@ -231,3 +237,49 @@ later." I've won prizes working just by myself and I've lost them
 with 4 person teams. Quite frankly it's hard to get 4 people assembled
 who are all on the same page, good programmers/workers and who can
 work together effectively.
+
+## What You Should Not Do
+
+Please don't cheat. I know, I just went over a whole list of kinda
+dubious things like hard coding features or manipulating buzzwords to
+appeal to judges. But there's a difference between playing the game
+cynically and cheating. Please don't start projects weeks in advance
+then claim you did it all at the hackathon. Please don't reuse
+projects. Please don't copy projects.
+
+It's not cool and a little lame to be cheating a college hackathon.
+
+# A Quick Message To Hackathon Organizers
+
+Hey organizers. I wanna give a quick message. First of all, thanks for
+everything you do. It's a lot of work to run a hackathon, with the
+around the clock logistics issues, technical issues of maintaining a
+site and the constant hustle for sponsors.
+
+But for recommendations, *please* factor health into your
+planning. For instance, please offer better dietary options like fruit
+and vegetables. I went to the Y Combinator hackathon recently, where
+they served plenty of vegetables with apples and oranges as snacks and
+LaCroix as drinks. And lemme tell you, eating apples instead of pizza
+makes all the difference when you're up all night coding. I came into
+the hackathon already sick, but I left feeling not terrible cause of
+the great food. If I had Insomnia Cookies followed by Panera Bread
+followed by pizza, I would have felt horrendous by the end.
+
+Another aspect is sleep. I really think hackathons need to emphasize
+sleep more. It's just not healthy to stay up all night. And sure,
+hackathons are a once in a while deal. But it's selling a lifestyle,
+which has far broader implications. Have plenty of places to sleep for
+people.
+
+Finally, please vet your judges. Find people who are somewhat
+skeptical and have a little technical knowledge. Maybe give them a
+briefing on how to judge a hackathon project. It's important that they
+have some barometer for the bullshit.
+
+# Conclusion
+
+Hackathons can be great experiences and I definitely recommend that
+you attend at least one in your CS career. But they're not exactly
+essential. If you don't like them, then there's a whole bunch of other
+ways you can spend your time.
