@@ -119,6 +119,35 @@ reading this, *please* consider serving healthy options like fruit)
 and the sleep deprivation, I tend to feel not great by the end of a
 hackathon. Vitamins help with that. Maybe pack some fruit too.
 
+# Other Frequently Asked Questions
+
+*Do I need a team?*
+
+Nope! I've gone to plenty of hackathons by myself. Just be open to
+talking to random people and you'll have a good time. I've done a few
+hackathons where I met the team at the event and proceeded to do quite
+well. In general you shouldn't restrict events/activities because you
+don't know anybody there. Just go and meet new people!
+
+*Help! I don't know how to program/I only know Python/Java/Racket*
+
+That's fine! Hackathons should be about learning. You can spend the
+event learning just what you need to get started. Don't compare
+yourself to other people with different experience levels and
+expectations. Plus as mentioned before, you don't need to know how to
+code to be a helpful team member. Gather product data, design
+marketing material or even provide manual data (many a successful
+project has been built upon manual data entry).
+
+*This project isn't a good hackathon project but I still want to build it...*
+
+Go for it! I mean, don't expect to win or anything, but you might as
+well work on a project that you actually want to make. You'd be
+surprised what judges like too. I've won with projects that I never
+expected judges to like. Besides, if you want to continue, you can
+work on the project after the hackathon. Which is far better than any
+half built project that's immediately tossed once the event's over.
+
 # How Do I Win?
 
 
@@ -146,7 +175,7 @@ pretty effective but also ruin how you see hackathons.
 
 Winning a prize now and then is great. Obsessing about winning isn't.
 
-## Win At All Costs
+## Okay Fine
 
 With that said, let's get down to some nice cynical strategy.
 
@@ -270,7 +299,8 @@ Another aspect is sleep. I really think hackathons need to emphasize
 sleep more. It's just not healthy to stay up all night. And sure,
 hackathons are a once in a while deal. But it's selling a lifestyle,
 which has far broader implications. Have plenty of places to sleep for
-people.
+people. And maybe reduce nighttime activities/actively turn off the
+lights.
 
 Finally, please vet your judges. Find people who are somewhat
 skeptical and have a little technical knowledge. Maybe give them a
