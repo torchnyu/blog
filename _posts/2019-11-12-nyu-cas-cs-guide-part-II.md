@@ -63,7 +63,7 @@ sort of cool tech meetup going on.
 
 
 But why attend non NYU meetups? After all, NYU has plenty of tech
-clubs and non NYU peole are scary. For one, you get to interact with
+clubs and non NYU people are scary. For one, you get to interact with
 bona-fide software developers. Which can be a really great thing if
 you're looking for work. Or just getting a feel for what programming
 is like as an everyday job. Or want to find someone who can

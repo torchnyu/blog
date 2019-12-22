@@ -1,6 +1,6 @@
 ---
-title:  "Email: A Quick Guide"
-date:   2019-11-20 20:00:00 -0700
+title:  "Sent From My iPhone: A Guide to Emails"
+date:   2019-12-19 13:00:00 -0700
 ---
 
 People don't use email to its full potential. They hem and haw about
@@ -10,11 +10,27 @@ benefit them.
 
 Email is a tool. It can be used as a crowbar, prying open previously
 closed doors. It can be used as looking glass into a multitude of open
-source communities. And it can be used as a weapon, to trade insult
-and parry potential attacks.
+source communities. And it can be used as a ledger, storing promises
+and responsibilities.
 
 I am by no means a master of email. But I've learned a few things
 about sending emails. Let's explore them together.
+
+# TL;DR
+
+Because y'all are impatient, here's a quick summary:
+
+- Don't overthink email etiquette. Write politely but not stilted or
+  overly formal.
+- Keep the email terse. Omit needless words.
+- Reach out to people via email. Even if you don't know them
+  personally.
+- Subscribe to open source mailing lists
+- Get important promises or statements in an email.
+- Be careful how you phrase emails, even to friends.
+- Secure your email (use MFA!)
+
+Now *please* read the rest to get the details.
 
 # Email Etiquette
 
@@ -32,12 +48,11 @@ the email with their first name and I feel that their comportment is
 casual enough, I'll switch to their first name. One cultural rule of
 thumb I use is that Americans tend to be a lot more casual. In general
 born and bred Americans will be fine with first names. Other countries
-vary. Some countries definitely have more decorum between professors
-and students, such as France, Germany and other north-western European
-countries. If in doubt, just keep using professor.
+vary, so I won't give any overgeneralizations. If in doubt, just keep
+using professor.
 
-By the way, anybody who teaches, whether an adjunct or a tenured
-professor, can be addressed as professor. At worst it's flattering.
+Anybody who teaches, whether an adjunct or a tenured professor, can be
+addressed as professor.
 
 In a work environment, I use first names with colleagues. This may
 seem counterintuitive, but in a modern day workplace, that's totally
@@ -45,15 +60,16 @@ normal. Anything more formal just appears stilted or cold.
 
 I sign emails with "Best", "Thanks", or "Sincerely", depending on the
 context. Generally "Best" is a good bet no matter what. "Sincerely"
-sounds a little too formal for everyday use. Always put "Best", a
-comma, then a new line and your name:
+sounds a little too formal for everyday use. "Cheers" is another
+excellent casual closing. Always put Best/Thanks/Sincerely, a comma,
+then a new line and your name:
 
 <pre>Best,
 Nicholas</pre>
 
 As the email chain progresses, I use fewer and fewer greeting/closing
 statements. The first email will use "Dear Professor" and
-"Sincerely/Best". After that *maybe* I will put in a "Hi" and
+"Thanks/Best". After that *maybe* I will put in a "Hi" and
 "Nicholas", but most likely I'll just skip to the actual
 content. Especially if the other person is doing that as well.
 
@@ -72,7 +88,7 @@ Try to think about the rhythm of your prose. If you want something to
 be blunt and well understood, perhaps you should go for a short,
 staccato sentence. Try to vary the length of your sentences to avoid
 sounding like Hemingway or David Foster Wallace (too staccato versus
-too legato). Does your prose read like an endless slog? Do yourp
+too legato). Does your prose read like an endless slog? Do your
 sentences just go on and on and on? Or does your writing snap along,
 fast and witty and easily digestible?
 
@@ -80,8 +96,10 @@ Read the email out loud and see if any words stick out as awkward. At
 the same time avoid writing like you speak. We use far too many filler
 words in our speech.
 
-Keep in mind length. Nobody likes getting Tolstoy in email form. Maybe
-you can move it to a separate medium, such as a blog post?
+Keep in mind length. Nobody likes getting Tolstoy in email form. Try
+to keep an email to one single topic or one single question. Otherwise
+perhaps you can move the text to a separate medium, such as a blog
+post?
 
 But enough pedantic nonsense about form. Let's talk about email's
 uses.
@@ -105,6 +123,10 @@ an email from a random person, it needs to be enticing from the
 start. Explain why you're emailing them and what you want in the first
 few sentences.
 
+You'd be surprised who responds to emails. Especially if you're a
+student. There's something charming about a young novitiate reaching
+out for mentorship.
+
 # Mailing Lists
 
 Mailing lists are how a lot of open source projects organize their
@@ -112,6 +134,9 @@ discussions. I'm personally subscribed to the Python and Ruby mailing
 lists. They're a great way to see how an open source community is run,
 as well as to see the decision making process for major programming
 languages.
+
+Plus you can get people's emails through mailing lists, since a lot of
+big names are active on them.
 
 There's also other mailing lists such as the NYU CS Opportunities
 list. The opportunities list can be pretty useful for keeping track of
@@ -144,9 +169,12 @@ you send. If your email will hurt you if forwarded to the wrong
 person, then don't send it. Either reword it or communicate via a
 different channel.
 
+Y'know how mobsters in movies never talk on the phone about their
+dirty business? You should do the same.
+
 You may say "but Bob is totally my friend! He won't forward that email
-to Edward!" And sure, Bob could be your friend right now. But that
-might not always be the case. And even so, what if Bob's emails are
+to Eve!" And sure, Bob could be your friend right now. But that
+might not always be the case. Even so, what if Bob's emails are
 compromised? Better to just not send it.
 
 Also keep in mind your style. Even though it's totally cool to add
@@ -164,7 +192,8 @@ our NYU accounts, but I actually think it's a very good idea. If an
 attacker gained access to your NYU account, they could unregister you
 from courses, effectively unenrolling you from NYU. Most importantly,
 they have total access to your email. Think about how many accounts,
-i.e. Facebook, Twitter, Reddit, you may have linked to that email. If
-an attacker has access to your email, they can reset all of those
-accounts' passwords and basically take over your life. Let alone read
-all your embarrassing emails.
+i.e. Facebook, Twitter, Reddit, you may have linked to that
+email. Think about how much damage one single email to the wrong
+person could do. If an attacker has access to your email, they can
+reset all of those accounts' passwords, send emails in your name and
+basically take over your life. Always secure your email.

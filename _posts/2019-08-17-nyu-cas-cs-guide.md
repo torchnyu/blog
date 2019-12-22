@@ -12,12 +12,12 @@ your CS career, *as long as you know what to do*.
 
 NYU has a lot going for it: world class faculty, an amazing location
 in a top tier tech city, and a plethora of tech companies in the
-vicinity. At the same time, NYU doesn't quite have the same benefit
-that schools like MIT, Berkeley or CMU offer. Our recruiting scene
-isn't as active; our tech community not as vibrant and our course
-options not as deep. How does an ambitious, driven CS major such as
-yourself surmount these problems? How do you show up your jerk friend
-who got into MIT? Well read on to find out!
+vicinity. At the same time, NYU doesn't offer quite the same benefits
+that schools like MIT, Berkeley or CMU do. Our recruiting scene isn't
+as active; our tech community not as vibrant and our course options
+not as deep. How does an ambitious, driven CS major such as yourself
+surmount these problems? How do you show up your jerk friend who got
+into MIT? Well read on to find out!
 
 # Get A Damn Job
 
@@ -83,8 +83,9 @@ for programming info online. Some of the sites that people find
 helpful include [Codecademy](https://www.codecademy.com/),
 [freeCodeCamp](https://www.freecodecamp.org/),
 [/r/learnprogramming](https://reddit.com/r/learnprogramming/) and so
-on. If these don't work for you, that's fine (they didn't for
-me). Search around and find your own sources.
+on. If these don't work for you, that's fine. Everybody learns in a
+different way. Personally I like books and personal projects to
+learn. Search around and find your own methods.
 
 As for questions, well, this is also another blog post (I have quite a
 few planned!), but the gist is to use sites like StackOverflow or
