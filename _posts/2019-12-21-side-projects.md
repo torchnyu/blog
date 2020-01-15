@@ -61,8 +61,6 @@ interesting compared to that?
 
 # Getting Started
 
-How do we get started?
-
 ## Idea
 
 First, you need an idea. As aforementioned, take an area you find
