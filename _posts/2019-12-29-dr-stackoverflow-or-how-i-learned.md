@@ -93,8 +93,9 @@ hypotheses. For one, if you're ever without an internet connection and
 writing code, you'll be able to make progress. Second, you'll be able
 to reason through your code a little better. If someone asks you a
 question, instead of just directing them to StackOverflow, you can
-write a little test and find out.
-
+write a little test and find out. Plus typing a few lines in a REPL
+takes less time than searching on Google, finding a StackOverflow
+answer and reading it.
 
 # Level 1: I Don't Understand This Error
 
@@ -180,6 +181,13 @@ There's other niche sites that are useful. For instance, Server Fault
 for system administrator problems, Emacs StackOverflow for emacs
 issues, and on occasion Reddit can be useful.
 
+Please don't copy code directly from StackOverflow. For one, it's lazy
+and doesn't teach you anything. Typing out code forces you to go
+through it word by word (or lexeme by lexeme I suppose). You can learn
+a surprising amount by just transcribing. Also the naming and overall
+structure of a snippet might not work with your existing code. If a
+snippet uses a `names` variable when you're dealing with colors, it'll
+be super confusing for any future developers.
 
 # Level 1.5: This Answer Doesn't Entirely Work
 
@@ -217,9 +225,14 @@ answerers (over a million reputation points), has a
 [post](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
 as well.
 
-It also helps to be polite. You may be panicking and stressed and
-under a deadline, but that doesn't mean you should be rude. I try to
-always end the question with a thank you and my name. It may seem
+However if you do face some resistance or snark, it is good to push
+back, albeit gently and politely. A comment noting why your answer is
+not a duplicate or describing the problem in more detail will notify
+the responders that maybe they should take a second look.
+
+In general it helps to be polite. You may be panicking and stressed
+and under a deadline, but that doesn't mean you should be rude. I try
+to always end the question with a thank you and my name. It may seem
 overly polite or formal but I hope it endears me to anybody reading
 the question.
 
@@ -231,7 +244,7 @@ should do your best to follow it as closely as possible.
 Sometimes I use GitHub issues if I'm trying to accomplish something
 but the documentation isn't up to par. Even though it's not
 technically a bug in the code, it's a bug in their
-documentation. Which is equally important imo.
+documentation. Which is equally important.
 
 # Level 3: How The F%$K Does This Library Work?
 
@@ -267,12 +280,14 @@ it. Try to tweak functions or add print statements. You can learn a
 lot that way.
 
 This is a level that most people don't even think to tackle. I myself
-only started to read other people's codebases within the last year or
-two (I credit a wonderful interview of Joe Armstrong, the creator of
-Erlang for the inspiration). But when you think about it, the source
-code is the only truly accurate and up to date documentation. Plus
-once you learn to read code, not a lot can stop you. Any library can
-be adopted. Any bug can be pinpointed with enough code reading.
+only started to read other people's codebases to solve my bugs within
+the last year or two (I credit a [wonderful
+interview](http://www.codersatwork.com/joe-armstrong.html) of Joe
+Armstrong, the creator of Erlang for the inspiration). But when you
+think about it, the source code is the only truly accurate and up to
+date documentation. Plus once you learn to read code, not a lot can
+stop you. Any library can be adopted. Any bug can be pinpointed with
+enough code reading.
 
 Plus there's nothing better than opening a GitHub issue that provides
 the exact issue with line numbers and everything. The maintainer will

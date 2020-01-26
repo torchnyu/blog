@@ -63,8 +63,8 @@ You should learn functional programming because...
   its endlessly verbose syntax, then functional programming languages
   will blow your mind. Languages like OCaml or Haskell have very good
   type inference which means you'll almost never have to specify a
-  type. In general functional programming type systems get in your way
-  far less often.
+  type. Functional programming type systems get in your way far less
+  often.
 
 - No more NullPointerExceptions. Many functional languages feature
   non-nullability, which basically means values cannot be null by
