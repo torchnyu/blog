@@ -15,12 +15,12 @@ really any social occasion. It always involves the same script.
 
 You've been there, I've been there. We've all been there. What should
 one do in such a situation? To accurately answer this question, I'm
-going to write a section for both sides: the entrepreneur and the
+going to write a post for both sides: the entrepreneur and the
 developer.
 
-# Entrepreneur
+First up is the entrepreneur side
 
-## Do Your Homework
+# Do Your Homework
 
 I gain a lot of respect for someone who has done their research. Read
 up on topics such as [finding startup
@@ -67,7 +67,7 @@ high level for the tech is like a ship captain that doesn't understand
 how sails work. I don't have a lot of confidence in your ability to
 navigate.
 
-## The Pitch
+# The Pitch
 
 Let's say your idea is a startup called Breakr, Tinder for break
 dancers. You need to find a developer to build your product. You've
@@ -99,7 +99,7 @@ someone starts building a similar product it's game over. To
 paraphrase Paul Graham competition isn't the main arbiter of startup
 success: It's you.
 
-## You
+# You
 
 In that case, who are you? Why are you the person who I should work
 with? Because more than the idea, I care about you and what you bring
@@ -122,17 +122,40 @@ Even if you are hiring employee #1, the company is still fundamentally
 centered around you, the founder. I'd like to know as much as possible
 about the person I'm giving my time and effort towards.
 
-## Compensation
+# Compensation
 
 Please don't offer me unpaid work with a possibility of equity. That's
 just insulting. Even if the person you're approaching is young or a
-student, you need to offer something. Namely, either equity or
+student, you need to offer something. Either offer them equity or
 payment. And not like a few percentage points. If you're expecting me
 to build out this app, then I want to be treated as an equal.
 
 I don't know why this is hard for people to understand.
 
-## Email
+# Get What You (Don't) Pay For
+
+Some people are probably reading this and saying "I haven't done this
+and I've gotten people to work for me!" And sure, you can totally find
+people who will work with you without knowing the idea, or without
+pay. But chances are these people won't be very good. Sure, there's
+the one in a million chance you stumble upon a young, innocent and
+idealistic programmer who wants the "experience" to work on your
+project. And then there's the one in a million chance they can
+actually execute your ideas and develop the softer. And the one in a
+million chance they'll stay engaged for the lifetime of the
+company. And that they'll leave the codebase in a somewhat decent
+state for other developers. Keeping track of the probabilities here?
+
+What's much more likely is that you'll attract the sort of people who
+will accept terrible offers such as no pay and little equity: the
+desperate. What's dangerous about a desperate programmer is that they
+will promise the moon if you just hire them. They will never push back
+and tell you something cannot be done. Which, contratry to the pithy
+mottos and inspirational anecdotes, will not lead to groundbreaking
+achievements, but instead to failure and disappointment for both of
+you.
+
+# Email
 
 I've written a whole [post about
 email](https://blog.torchnyu.com/2019/12/19/sent-from-my-iphone.html). Read

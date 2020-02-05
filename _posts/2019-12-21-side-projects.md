@@ -56,8 +56,8 @@ to deal with this!!!" Which...I just don't think is true. If anything,
 other professions have to do far more unpaid bullshit work to get a
 job. Politics majors have to do unpaid internships. Pre-med students
 need to volunteer at clinics or labs. Science majors need to do
-research. What's a few measly hours programming something you find
-interesting compared to that?
+research. What's a few measly hours working on an interesting side
+project compared to that?
 
 # Getting Started
 

@@ -24,12 +24,16 @@ doesn't compile or something small doesn't work, say a wrong output or
 an unexpected segfault/exception. Basically the issue is at the level
 of code execution, not conceptual or theoretical.
 
-Generally people have decent strategies for this level. Some people
-use debuggers like gdb (which are actually a [lot
-cooler](https://www.youtube.com/watch?v=PorfLSr3DDI) than your CSO
-prof made them out to be!). Others, like myself, use print
-statements. Print statements are nice because they allow you to see
-the flow of your code, even in languages like C that don't have
+Generally people have decent strategies for this level. If your code
+doesn't compile, generally the compiler will have some decent error
+messages which can help you. I often comment out code and see if the
+compiler error goes away.
+
+For runtime errors, Some people use debuggers like gdb (which are
+actually a [lot cooler](https://www.youtube.com/watch?v=PorfLSr3DDI)
+than your CSO prof made them out to be!). Others, like myself, use
+print statements. Print statements are nice because they allow you to
+see the flow of your code, even in languages like C that don't have
 exceptions. I use numbers a lot of the time so that you can see when
 the code halts:
 
@@ -313,7 +317,7 @@ industry.
 
 If you want to contribute to an open source project, reach out to the
 maintainer and ask for some help. They'll generally be
-accomodating&emdash;after all who would turn down free labor? Try to
+accomodating&mdash;after all who would turn down free labor? Try to
 pick a simple task. Don't attempt a major feature on your first try.
 
 Once you have a task, find the minimal amount you need to learn of the
