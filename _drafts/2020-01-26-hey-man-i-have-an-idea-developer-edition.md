@@ -6,9 +6,7 @@ date:   2020-01-26 20:00:00 -0700
 Before I covered the entrepreneur side. Now let's do the developer
 side.
 
-# Developers
-
-## Do You Want It?
+# Do You Want It?
 
 Do you want to do a startup? If not, then don't even entertain the
 idea. There's no point.
@@ -16,9 +14,30 @@ idea. There's no point.
 If you do want to do a startup, make sure it's for the right
 reasons. If you can't get a job offer, don't go and do a startup as a
 backup option. Don't do it to get rich. Don't do a startup to prove
-how smart you are.
+how smart you are. Do a startup because you genuinely want to build
+something of worth. Do a startup because you want to solve a problem
+that you care about. Do a startup to create shit.
 
-## Evaluating Ideas
+# Evaluate Your Co-Founder
+
+Before you even think about the idea, you should ask yourself if you
+want to work with the person who's giving the idea. Do you trust them?
+What skills do they have? What experience do they have? Is your
+current relationship with them a potential issue?
+
+If you do not want to work with them, then shut it down.
+
+Treat this evaluation almost like a job application. If you want, ask
+to see their resume. Or snoop them on LinkedIn or their personal
+website. See if they have any experience in the industry related to
+their idea.
+
+"Business" is not a skill.
+
+Ultimately the people are more important than the idea. You can always
+change ideas. You can't (easily) change cofounders.
+
+# Evaluating Ideas
 
 Companies follow a very specific philosophy for hiring: It's better to
 reject a good candidate than accept a bad one. Hence, if even one
@@ -35,9 +54,10 @@ good according to a person who is not yourself.
 
 When evaluating ideas, you should always ask yourself if you would use
 the product. And be honest! Don't say "maybe, yeah, I could see myself
-using xyz". No. You either want to use it or you don't.
+using xyz". No. You either want to use it or you don't. And if you
+don't want to use the product, why are you working on it?
 
-## Get Out
+# Get Out
 
 Let's say you're not interested. How do you get out?
 
@@ -56,3 +76,21 @@ If that doesn't work, then just try to exit the conversation as
 quickly as possible. Sometimes this isn't easy. Sometimes it's a
 relative or family friend who you can't duck. But just continue making
 non-commital statements until you can leave.
+
+# Get Your Share
+
+Let's say you are interested? How do you get your share?
+
+First, understand that you are holding all of the cards. You are the
+one who can actually make this idea reality. You are the one who will
+be writing code, who will be deploying and maintaining the product.
+
+Therefore, you are not an employee. You are not, god forbid, an
+intern. You are a founder. Do not do the work of building a company
+without the position, equity and credit that comes with building a
+company.
+
+Treat any such offer of unpaid employement with the contempt it
+deserves. Then, reevaluate whether you want to work with someone who
+is attempting to devalue your labor.
+
