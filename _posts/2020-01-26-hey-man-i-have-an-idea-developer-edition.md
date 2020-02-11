@@ -21,9 +21,13 @@ that you care about. Do a startup to create shit.
 # Evaluate Your Co-Founder
 
 Before you even think about the idea, you should ask yourself if you
-want to work with the person who's giving the idea. Do you trust them?
-What skills do they have? What experience do they have? Is your
-current relationship with them a potential issue?
+want to work with the person who's giving the idea. The person who you
+decide to work with is far more important than the idea. You can
+always change ideas. You can't (easily) change cofounders.
+
+Ask: Do you trust them? What skills do they have? What experience do
+they have? Do you have a pre-existing relationship (family, friend,
+romantic) with them that could be a potential issue?
 
 If you do not want to work with them, then shut it down.
 
@@ -32,10 +36,8 @@ to see their resume. Or snoop them on LinkedIn or their personal
 website. See if they have any experience in the industry related to
 their idea.
 
-"Business" is not a skill.
-
-Ultimately the people are more important than the idea. You can always
-change ideas. You can't (easily) change cofounders.
+"Business" is not a skill. Ask them to clarify in terms of concrete
+actions.
 
 # Evaluating Ideas
 
@@ -50,7 +52,7 @@ Some people may say that you only see the appeal of certain ideas if
 you're in a specific niche. That may be true, but you don't want to
 waste a year or two of your life (worth at least 6 figures in salary
 plus all the other missed opportunities) on an idea that *could* be
-good according to a person who is not yourself.
+good.
 
 When evaluating ideas, you should always ask yourself if you would use
 the product. And be honest! Don't say "maybe, yeah, I could see myself
@@ -75,15 +77,23 @@ you don't know anything.
 If that doesn't work, then just try to exit the conversation as
 quickly as possible. Sometimes this isn't easy. Sometimes it's a
 relative or family friend who you can't duck. But just continue making
-non-commital statements until you can leave.
+non-commital but positive statements until you can leave.
+
+If you feel it is necessary, send the person an email thanking them,
+telling them that the idea sounds great and that unfortunately you are
+just *so* busy and cannot work with them. Again, avoid critiquing the
+ideas, otherwise you will just end up in a passive aggressive email
+argument. Keep an open mind, it genuinely could be a good idea that
+you don't understand.
 
 # Get Your Share
 
 Let's say you are interested? How do you get your share?
 
-First, understand that you are holding all of the cards. You are the
-one who can actually make this idea reality. You are the one who will
-be writing code, who will be deploying and maintaining the product.
+First, understand that you are holding almost all of the cards. You
+are the one who can actually make this idea reality. You are the one
+who will be writing code, who will be deploying and maintaining the
+product.
 
 Therefore, you are not an employee. You are not, god forbid, an
 intern. You are a founder. Do not do the work of building a company
@@ -94,3 +104,27 @@ Treat any such offer of unpaid employement with the contempt it
 deserves. Then, reevaluate whether you want to work with someone who
 is attempting to devalue your labor.
 
+# Manage Expectations
+
+Be realistic, most importantly to yourself, but also to your new
+co-founder. Don't promise them the moon, the sky and the stars.
+
+Developers are remarkably bad at estimating tasks. Especially novice
+developers. Remember that non developers don't always understand
+this. If you say 3 weeks they will take it as 3 weeks **or less**. Do
+not give exact numbers without serious thought, preliminary work and
+research.
+
+Unless you are an actual professional with proper work experience, you
+should explain that you are a student and that you will have to take
+time to learn new tech, to make mistakes and to fix bugs that are new
+to you. Your co-founder should be understanding. If they are not, if
+they get angry, or if they start talking about making the impossible
+possible, reevaluate whether you want to work with someone who does
+not acknowledge reality.
+
+# Conclusion
+
+Startups can be a great opportunity. But you should do your due
+diligence on the idea as well as the person pitching it before you
+commit your time, energy and code to the project.

@@ -18,7 +18,7 @@ one do in such a situation? To accurately answer this question, I'm
 going to write a post for both sides: the entrepreneur and the
 developer.
 
-First up is the entrepreneur side
+First up is the entrepreneur side.
 
 # Do Your Homework
 
@@ -38,7 +38,9 @@ doesn't take much to come up with Uber for X. It takes a little more
 to give me exact numbers, research into product market fit, etc.
 
 A great sign of someone who has thought their idea out is if they can
-provide insight into challenges and problems with the idea.
+provide insight into challenges and problems with the idea. If that
+person says that the idea has no problems or potential challenges,
+then they haven't done enough research.
 
 Learn a little about technology. A great signifier that someone
 doesn't know what they're talking about is when they ask me to build
@@ -48,10 +50,8 @@ platform app, just "an app". Which is like asking if a chef can make
 
 If you're going to propose a product, it'd be nice if you did your
 homework. Do you want a mobile application or a web application?  Do
-you want to make a PaaS or a SaaS? After all, aren't entrepreneurs
-fast moving, intelligent do-ers who can adapt to many situations?
-Seems like you can do some basic research into the different kinds of
-software.
+you want to make a PaaS or a SaaS? These are essential questions that
+we need to determine.
 
 If someone can articulate what they want to build concretely and
 provide a minimum viable product, then I'll gain a lot more respect
@@ -80,7 +80,7 @@ love and intimacy", it tells me nothing about what you want to
 build. I don't want to wade through lofty nonsense just to get an idea
 of what you're selling me.
 
-[1]: Yes, yes this is Torch's motto too. But in my defense Torch isn't a startup.
+[^1]: Yes, yes this is Torch's motto too. But in my defense Torch isn't a startup.
 
 And don't purposefully keep the idea vague for fear that I will steal
 it. I know, you watched The Social Network and immediately became
@@ -108,8 +108,8 @@ idea. We can always change the idea.
 
 What are your skills? Are you also a great programmer? Do you know a
 lot about a particular niche? Do you have business skills? What are
-these skills? What's your work experience? Quite honestly I wouldn't
-mind if a person just handed me their resume.
+these skills? What's your work experience? I wouldn't mind if the
+person just handed me their resume.
 
 A lot of entrepreneurs treat finding a technical person like hiring an
 employee. They explain the company, then either the developer wants to
@@ -148,12 +148,20 @@ state for other developers. Keeping track of the probabilities here?
 
 What's much more likely is that you'll attract the sort of people who
 will accept terrible offers such as no pay and little equity: the
-desperate. What's dangerous about a desperate programmer is that they
-will promise the moon if you just hire them. They will never push back
-and tell you something cannot be done. Which, contratry to the pithy
-mottos and inspirational anecdotes, will not lead to groundbreaking
-achievements, but instead to failure and disappointment for both of
-you.
+desperate. What's dangerous about a desperate
+programmer is that they will promise the moon if you just hire
+them. They will never push back and tell you something cannot be
+done. Which, contratry to the pithy mottos and inspirational
+anecdotes, will not lead to groundbreaking achievements, but instead
+to failure and disappointment for both of you.
+
+You should have high standards for your developers. They should be
+smart people who could otherwise be gainfully employed. They should
+have some business acumen, or at least the common sense to not work
+for free. If you find a developer who you've tricked into working for
+free, well, the person who is now building out your company is a
+person who was just tricked into working for free. That's not a great
+sign.
 
 # Email
 
@@ -166,3 +174,11 @@ than a well formed, well thought out proposal. And sure, English may
 not be your first language. But there's probably someone you know
 whose first language is English. Just send it to them.
 
+# Conclusion
+
+Finding a developer is finding a partner, unless you can pay them a
+competative salary. Therefore you should treat each and every
+developer with respect, respect to their time, to their intelligence
+and to their monetary needs. The relationship between you and the
+developer will be the core relationship for the company. Act
+accordingly.
