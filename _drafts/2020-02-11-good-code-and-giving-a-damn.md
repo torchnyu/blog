@@ -128,7 +128,7 @@ impossible to read. This is not a surprise. Code is harder to read
 than to write. But try to distinguish between code that is doing its
 best to be readable and code that you have to fight to understand.
 
-# Extensibility
+# 2. Extensibility
 
 Extensibility means that a programmer can drop in and add new
 functionality easily. Often this comes from **modular** and
@@ -238,4 +238,44 @@ In programming, interchangeability is a key part of
 polymorphism. You've probably seen this with object inheritance. A
 Honda, a Toyota, etc. can all inherit from a Car object. A function
 that takes a Car object can therefore take a Honda, Toyota,
-etc. object. This is very important if you have multiple
+etc. object.
+
+# 3. Reusability
+
+Contrary to popular belief, this is not the same as
+extensibility. Reusable code means the code can be taken and reused in
+different places in the codebase. Extensibility can help with
+reusability but it just means that code can be extended in some
+fashion.
+
+Reusability is certainly nice, but people tend to fall into the trap
+of trying to reuse *everything*. Again, this is where the hierarchy is
+important. Reusability is nice, but you should prioritize readability
+and extensibility above all.
+
+One good source on limiting reusability is Rob Pike. He has a [Go
+Proverb](https://go-proverbs.github.io/) that goes: "A little copying
+is better than a little dependency". What this means is that while
+it's tempting to reuse code, you have to understand that reuse implies
+dependency. Let's say I have a `formatTime` function. I use it in my
+`Clock` class to format times. Now let's say I started writing a
+`Timer` class. It seems automatic that I'd reuse my `formatTime`
+function, right? In both cases we're displaying time. And so I reuse
+it and woo, go me! I've managed to write less code and deliver. But
+say word comes down that the `Clock` class needs to display AM/PM, or
+maybe timezones. Hmm, I could change `formatTime` to display these
+things, but then `Timer` would be screwed up. Or I could use a config
+object in `formatTime` to optionally configure `formatTime`, but that
+adds complexity to the function. Or I could split `formatTime` into
+two versions for clocks and for timers, perhaps `formatTime` and
+`formatTimeLength`. I'm not saying any one of these is the *right*
+answer. It's just important to acknowledge each of the possibilities
+in turn.
+
+I used to try to reuse code a lot, especially when I noticed repeating
+patterns. But repetition isn't always a bad thing. Sometimes code can
+be similar while still serving two separate purposes.
+
+A good rule to follow is the rule of three. Basically, if you see code
+repeated three times, consider trying to factor it out. Two times?
+Hold off and see if it shows up one more time.
