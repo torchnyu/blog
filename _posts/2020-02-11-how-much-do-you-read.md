@@ -33,8 +33,9 @@ Ultimate](http://lambda-the-ultimate.org/), [Alexis
 King](https://lexi-lambda.github.io/index.html) and [Paul Graham](http://www.paulgraham.com/articles.html).
 
 You don't have to read all of these, but maybe spend some time
-perusing old articles and see what you find. I've learned a lot from
-reading old Joel Spolsky and Jeff Atwood posts.
+perusing old articles and see what you find. Blogs are great because
+they offer little snippets of wisdom and opinions. I've learned a lot
+from reading old Joel Spolsky and Jeff Atwood posts.
 
 If I had to give a few good starter ones, I love [The Magpie
 Developer](https://blog.codinghorror.com/the-magpie-developer/),

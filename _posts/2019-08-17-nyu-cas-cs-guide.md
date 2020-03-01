@@ -5,10 +5,10 @@ date:   2019-08-19 9:14:36 -0700
 
 So you've decided to become a CS major. Maybe you like playing video
 games and want to make your own. Maybe you've been tinkering with
-computers your whole life and want to make it into a career. Maybe you
-just want to make some damn money. Maybe you're just curious about the
-field. Well you're in luck! NYU can be a wonderful place to kickstart
-your CS career, *as long as you know what to do*.
+computers your whole life and want to make it into a career. Maybe
+you're just curious about the field. Maybe you just want to make some
+damn money. Well you're in luck! NYU can be a wonderful place to
+kickstart your CS career, *as long as you know what to do*.
 
 NYU has a lot going for it: world class faculty, an amazing location
 in a top tier tech city, and a plethora of tech companies in the
@@ -16,10 +16,10 @@ vicinity. At the same time, NYU doesn't offer quite the same benefits
 that schools like MIT, Berkeley or CMU do. Our recruiting scene isn't
 as active; our tech community not as vibrant and our course options
 not as deep. How does an ambitious, driven CS major such as yourself
-surmount these problems? How do you show up your jerk friend who got
-into MIT? Well read on to find out!
+surmount these problems? How do you show up your friend who got into
+MIT? Well read on to find out!
 
-# Get A Damn Job
+# Get A Job
 
 CS is a very tricky field in that so much of programming is not taught
 in classes but learned on the job. This is true no matter which school
@@ -33,9 +33,10 @@ in the real world.
 You may be saying at this point "How can I get a job? I don't know
 anything about programming". And that's certainly true. But your first
 job, while the hardest to get, will ultimately help you the most. So
-how do you get your first job? I'm going to expand on this in a future
-post, but it boils down to gaining technical skills, networking like
-crazy, and applying applying applying.
+how do you get your first job? I have [an entire
+post](https://blog.torchnyu.com/2020/01/02/first-job.html) on this,
+but it boils down to gaining technical skills, networking like crazy,
+and applying applying applying.
 
 I'll explain how to get technical skills momentarily. As for
 networking, networking simply means going to events, keeping an eye
@@ -61,10 +62,10 @@ pay well, but it should be paid, no matter what.
 
 So how do we get the technical skills necessary for a job?
 
-One mistake I see plenty of students making is assuming that their
-courses are enough. Don't get me wrong---courses are super important
-for building your foundation in data structures, algorithms and other
-crucial topics. But it's equally important to build up a knowledge of
+One mistake plenty of students make is assuming that their courses are
+enough. Don't get me wrong---courses are super important for building
+your foundation in data structures, algorithms and other crucial
+topics. But it's equally important to build up a knowledge of
 practical development topics like full stack web development,
 deployment and DevOps, databases, etc. NYU certainly offers courses on
 these topics, but they're often electives that can only be taken later
@@ -84,17 +85,20 @@ helpful include [Codecademy](https://www.codecademy.com/),
 [freeCodeCamp](https://www.freecodecamp.org/),
 [/r/learnprogramming](https://reddit.com/r/learnprogramming/) and so
 on. If these don't work for you, that's fine. Everybody learns in a
-different way. Personally I like books and personal projects to
-learn. Search around and find your own methods.
+different way. Personally I like books and side projects to
+learn. I've written a post on [side
+projects](https://blog.torchnyu.com/2019/12/21/side-projects.html). But
+if that doesn't work for you, search around for your own methods.
 
-As for questions, well, this is also another blog post (I have quite a
-few planned!), but the gist is to use sites like StackOverflow or
-GitHub to find potential solutions to your problem or even ask new
-questions of your own. For that, you'll want to get good at Googling
-problems. Generally you'll have an error message that you can copy and
-paste. From there it's a matter of reading the StackOverflow pages,
-trying to figure out how to apply the solution to your code, looking
-at a different page, etc.
+As for questions, I've outlined this in [a different blog
+post](https://blog.torchnyu.com/2019/12/29/dr-stackoverflow-or-how-i-learned.html),
+but the gist is to use sites like StackOverflow or GitHub to find
+potential solutions to your problem or even ask new questions of your
+own. For that, you'll want to get good at Googling problems. Generally
+you'll have an error message that you can copy and paste. From there
+it's a matter of reading the StackOverflow pages, trying to figure out
+how to apply the solution to your code, looking at a different page,
+etc.
 
 If that sounds frustrating, yeah it is. But that's also a gigantic
 part of programming. We don't get paid the big bucks for nothin'. That
@@ -198,5 +202,5 @@ This may seem vacuously true. I hope it does. But if doesn't, then
 just know that as long as you put in the work and love the craft, you
 belong as a programmer.
 
-Thanks for reading. In the next post I'll probably talk about good
+Thanks for reading. In the next post I'll talk about good
 practices for taking classes, going to meetups and clubs.

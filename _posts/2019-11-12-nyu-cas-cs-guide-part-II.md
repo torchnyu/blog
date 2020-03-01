@@ -84,7 +84,7 @@ There's also a few other events that are useful for CS
 majors. Hackathons are a big one. They're an excellent way to force
 yourself to write code, planning, skill or quality be damned. This is
 wonderful, as the biggest barrier in programming is just getting
-started. You can get out of your head and just write the damn code.
+started. You can get out of your head and just write the damn code.)
 
 But at the same time, hackathons have their limits. For one, they're
 not often conducive to long term projects. You can and should take
@@ -103,9 +103,11 @@ doesn't sound great. And it doesn't really reflect the reality of
 programming. Jobs (hopefully) don't require desperately programming on
 little to no sleep in order to make a deadline.
 
-But hey, don't let my grumpy old man kvetching stop you from enjoying
+But hey, don't let my grumpy kvetching stop you from enjoying
 hackathons. They're truly fun, memorable experiences for a lot of
-people.
+people. If they sound interesting to you, I have a [whole
+post](https://blog.torchnyu.com/2019/12/05/hackathon-guide.html)
+outlining everything you need to know about hackathons.
 
 Finally, there's conferences. Conferences are tricky cause they tend
 to cost money to attend. Often lots of money. On occasion the
@@ -131,9 +133,8 @@ room reservations or helping teach a workshop on front end
 development, every bit is appreciated.
 
 BUGS in particular has some very cool projects that they're working
-on, such as a [schedule
-generator](https://github.com/nicholaslyang/schedge). If you want some
-stuff to put on your resume, hit them up.
+on, such as an [Albert API](https://github.com/BUGS-NYU/schedge). If
+you want some stuff to put on your resume, hit them up.
 
 # Git Good
 
@@ -193,6 +194,10 @@ person who didn't respond to you just forgot about your email. Or the
 email got buried in their inbox. Think about all the emails you forget
 about in your inbox. Unless you've sent two or three follow up emails,
 you haven't done enough.
+
+Once again, there's [an entire
+post](https://blog.torchnyu.com/2019/12/19/sent-from-my-iphone.html) on
+email
 
 # Conclusion
 

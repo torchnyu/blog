@@ -163,8 +163,8 @@ caution that winning is a pretty lame reason to go to a
 hackathon. Just doing the math, you're working about 24-48 hours
 straight, which at a rate of 20 dollars an hour (a pretty low
 programming wage), gives you a total of 480-960 dollars. Therefore
-unless the prize is above that amount, it isn't really worth it. Plus
-there's no guarantee you'll win a prize.
+unless the prize is above that amount, you're not really making any
+money. Plus there's no guarantee you'll win a prize.
 
 Putting money aside, the amount of stress and lack of sleep that you
 endure by working like mad to win isn't worth the *possibility* of
@@ -262,10 +262,10 @@ could hard code it, then randomize it by +-5 degrees.
 
 Don't feel like you need more people by the way. A classic quote by
 Fred Brooks goes: "Adding manpower to a late software project makes it
-later." I've won prizes working just by myself and I've lost them
-with 4 person teams. Quite frankly it's hard to get 4 people assembled
-who are all on the same page, good programmers/workers and who can
-work together effectively.
+later." I've won prizes working just by myself and I've lost them with
+4 person teams. It's hard to get 4 people assembled who are all on the
+same page, good programmers/workers and who can work together
+effectively.
 
 ## What You Should Not Do
 
@@ -276,7 +276,8 @@ cynically and cheating. Please don't start projects weeks in advance
 then claim you did it all at the hackathon. Please don't reuse
 projects. Please don't copy projects.
 
-It's not cool and a little lame to be cheating a college hackathon.
+It's not cool and more than a little lame to be cheating a college
+hackathon.
 
 # A Quick Message To Hackathon Organizers
 

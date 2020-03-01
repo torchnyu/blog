@@ -33,7 +33,7 @@ worth of experience in a language before they claim proficiency.
 The language also matters. Python and Java show up on practically
 every student's resume. Because it's so common, people will just see
 it as a student putting their two terms of Java on their resume and
-not verify it. But if you were to put Haskell, a language that's
+don't verify it. But if you were to put Haskell, a language that's
 somewhat infamous for being challenging, on your resume, there's a
 chance a dev will want to see if you *really* know Haskell.
 
@@ -76,6 +76,11 @@ terribly hard to learn French if you speak Italian or vice versa. But
 you can't say that all languages are easy to pick up just because
 you've only encountered romance languages. Somewhere out there Chinese
 is lurking and it ain't easy.
+
+I highly recommend learning a different paradigm than imperative as
+it'll teach you a completely new style and a new approach to
+programming. Functional programming is the classic alternative, but
+logic programming languages like Prolog are also very interesting.
 
 # Getting Comfortable
 
@@ -141,7 +146,7 @@ If you find a language utterly perfect, or if you find it utterly
 irredeemable, you don't really know the language.
 
 Bjarne Stroustrup famously said: "There are only two kinds of
-languages: the ones people complain about and the ones nobody uses"
+languages: the ones people complain about and the ones nobody uses."
 Use a language, find something to complain about.
 
 Critiquing a language gets easier as you know more languages. You can
@@ -213,7 +218,7 @@ nice if you had around 2 years"
 Large companies often use several different languages anyways. Just
 apply and find out.
 
-If you're *still* unsatisfied with this answer, and just need a damn
+If you're *still* unsatisfied with this response, and just need a damn
 answer, learn JavaScript. People complain endlessly about it but you
 can't find a language with more usecases and more jobs. You can write
 mobile applications, front end, back end, even machine learning in
