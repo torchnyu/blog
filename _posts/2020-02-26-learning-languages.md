@@ -28,7 +28,11 @@ a course or two in it and written a few programs in it. Most likely
 people aren't going to ask a student in college the ins and outs of
 Java generic variance. If they do, that's on them. However a
 professional developer should probably have at least a few months
-worth of experience in a language before they claim proficiency.
+worth of full time, professional experience in a language before they
+claim proficiency.
+
+This means that as you progress in your career, you may actually put
+*less* languages down on your resume.
 
 The language also matters. Python and Java show up on practically
 every student's resume. Because it's so common, people will just see
@@ -37,7 +41,7 @@ don't verify it. But if you were to put Haskell, a language that's
 somewhat infamous for being challenging, on your resume, there's a
 chance a dev will want to see if you *really* know Haskell.
 
-Continuing with Haskell, there's often a concept that is absolutely
+Often with programming languages, there's a concept that is absolutely
 key to a given language. With Haskell this concept is
 [monads](https://en.wikipedia.org/wiki/Monad_(functional_programming)). In
 C, it's pointers. In Rust, it's ownership. If you don't understand
@@ -81,6 +85,15 @@ I highly recommend learning a different paradigm than imperative as
 it'll teach you a completely new style and a new approach to
 programming. Functional programming is the classic alternative, but
 logic programming languages like Prolog are also very interesting.
+
+If you're at the bare minimum stage and applying for your first job, I
+belive it's perfectly fine to put down that you know the language. You
+may stumble a bit in an interview, but that's perfectly normal.
+
+However if you're beyond your first or second internship/job, you
+should be a little more strict with yourself on language
+proficiency. Perhaps put a caveat such as "(familiar)" or "(learning)"
+next to the language.
 
 # Getting Comfortable
 
@@ -129,6 +142,10 @@ their own principles like
 [Go](https://golang.org/doc/effective_go.html),
 [Python](https://www.python.org/dev/peps/pep-0008/), and
 [Kotlin](https://kotlinlang.org/docs/reference/coding-conventions.html).
+
+I'd recommend that you be at this level when you apply for a full time
+job with a language on your resume. A properly trained developer
+should write idiomatic, well written code.
 
 # Developing Opinions
 
@@ -223,3 +240,6 @@ answer, learn JavaScript. People complain endlessly about it but you
 can't find a language with more usecases and more jobs. You can write
 mobile applications, front end, back end, even machine learning in
 JS. Plus modern JS is a quite nice language.
+
+If that offends your sensibilities, then great, learn whatever
+language you believe is better.
