@@ -99,8 +99,9 @@ you. But for me it matters a lot.
 
 # Conclusion
 
-I've been trying to write fewer conclusions to posts because they tend to be
-awkward and redundant but for this post I do believe it needs one.
+I've been trying to write fewer conclusions to posts because they tend
+to be awkward and redundant but for this post I kinda think it needs
+one.
 
 I'm not saying you should take the bare minimum for CS classes. I'm
 not saying you shouldn't take that course which looks really

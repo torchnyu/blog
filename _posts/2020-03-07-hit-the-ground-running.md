@@ -53,11 +53,17 @@ brain should be struggling. Take breaks, eat well, get some
 exercise. You're tackling a difficult task. It's okay if you don't
 always live up to your goals. Try again the next day.
 
-With practice, it's important to do it conscientiously. If you solve a
-problem in the homework, challenge yourself to find the nicest
-possible solution. Is there a way to do this in fewer lines? Could you
-use a different feature? What are the potential problems with your
-first approach?
+With practice, it's absolutely essential to do it conscientiously. If
+you solve a problem in the homework, challenge yourself to find the
+nicest possible solution. Is there a way to do this in fewer lines?
+Could you use a different feature? What are the potential problems
+with your first approach?
+
+Try to ask "why" as much as possible while programming. Why are you
+writing this? Why does this work? Why does it not work? Why are we not
+approaching the problem in this way? It can be quite tempting to
+program by mashing stuff together and guessing, but that won't get you
+nearly as far.
 
 ## Cross Train
 
@@ -71,13 +77,22 @@ solving](https://smile.amazon.com/gp/product/069116407X/). This may
 mean doing math. Even if you're not able to program each day, try to
 do something that will help you become a better programmer. Something
 as dumb as learning to type properly or learning keyboard shortcuts
-can really help you in the long run.
+can really help you in the long run. Tooling is a very important area
+to get down. MIT has an [excellent
+course](https://missing.csail.mit.edu/) on tooling and other
+miscellaneous areas. I'd consider learning either
+[Emacs](https://www.gnu.org/software/emacs/) or
+[Vim](https://www.vim.org/), as they're very very useful tools.
 
 You can also
 [read](https://blog.torchnyu.com/2020/02/10/how-much-do-you-read.html)
 about programming. Even if the topic isn't directly related to your
 current courses, you'd be amazed what random info is useful later on
 in the degree.
+
+There's only so many hours in a day that you can program. But you can
+supplement this time with other work like reading, practicing problem
+solving and tooling.
 
 ## Niches
 
