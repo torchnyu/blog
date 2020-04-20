@@ -113,7 +113,8 @@ This may seem like an unsatisfying answer. Don't you want
 proclamations shouted down from the hilltops? *Thou shall not name a
 function with less than 5 characters or more than 20*. But that's not
 how good code works. You need to develop your own opinions and your
-own taste in code. Otherwise when you're going through.
+own taste in code. Otherwise you're not writing good code; you're just
+obeying a religion.
 
 One good way to practice readability is to read code. You can see
 which code you think is readable and which code you think is
@@ -175,6 +176,10 @@ have to stay there and ensure that everything was cooked on time. And
 cooks would have to remember which waiter ordered which dish. The lack
 of abstraction means that the back and front of the house need to know
 far more about each other than necessary.
+
+A good way to phrase this principle is that you should attempt to make
+your modules as dumb as possible. Modules should not know too much
+about the entire system.
 
 That being said, there is such a thing as code that is too
 modular. After all, if you turn what used to be one unit of code into
@@ -279,3 +284,6 @@ be similar while still serving two separate purposes.
 A good rule to follow is the rule of three. Basically, if you see code
 repeated three times, consider trying to factor it out. Two times?
 Hold off and see if it shows up one more time.
+
+NPM is a good example of reusability gone mad. Packages, while great,
+do lend themselves to a sort of obsessive reusing. 

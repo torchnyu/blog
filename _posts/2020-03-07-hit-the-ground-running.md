@@ -1,6 +1,6 @@
 ---
 title:  "Hit The Ground Running: Starting From Zero"
-date:   2020-03-6 20:00:00 -0700
+date:   2020-03-06 20:00:00 -0700
 ---
 
 You want to be a CS major but you don't have much programming
@@ -174,6 +174,10 @@ learn skills like Git, Terminal, etc. (you can learn them
 languages](https://blog.torchnyu.com/2020/02/25/learning-languages.html)
 and maybe attend a [hackathon or
 two](https://blog.torchnyu.com/2019/12/05/hackathon-guide.html).
+
+This may be a slightly controversial statement, but in my eyes NYU's
+core CS curriculum of Data Structures, Algorithsm, CSO and OS is the
+**bare minimum** for a CS major. You should aspire higher than that.
 
 # You Can Do It!
 

@@ -1,0 +1,4 @@
+- Cockiness
+- Communication skills
+- Internship postmortem
+- Front end development

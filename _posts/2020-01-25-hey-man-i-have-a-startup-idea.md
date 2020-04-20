@@ -85,8 +85,8 @@ of what you're selling me.
 And don't purposefully keep the idea vague for fear that I will steal
 it. I know, you watched The Social Network and immediately became
 terrified of some *nerd* stealing your idea and becoming a
-billionaire. However your idea is probably not as important as you
-think. Mark Zuckerberg didn't become a billionaire because of the
+billionaire. Your idea is probably not as important as you think. Mark
+Zuckerberg didn't become a billionaire just because of the
 idea. Facebook wasn't exactly a groundbreaking concept at the
 time. MySpace and Friendster were a thing, and even before that,
 someone *probably* thought "hey, what if, there were like a website
