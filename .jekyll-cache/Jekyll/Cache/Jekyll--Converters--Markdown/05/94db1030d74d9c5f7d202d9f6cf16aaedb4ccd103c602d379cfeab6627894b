@@ -1,0 +1,161 @@
+I"�<p>“Reading?”, you inquire. “I didn’t get into computer science to read!”</p>
+
+<p>Yes yes, reading is scary. But it’s profoundly important if you want
+to be a better programmer. Contrary to what some may think, you can’t
+learn everything from writing code and doing Leetcode problems.</p>
+
+<p>Reading can give you insight into the minds of the greatest
+programmers who ever lived. Reading can teach you the lessons learned
+through struggle and strife. Reading can help you fill in the
+inevitable gaps of your programming knowledge.</p>
+
+<p>You can have all the raw talent, all the problem solving, technical
+kick ass skill in the world, but without reading, you won’t have the
+knowledge to really make an impact.</p>
+
+<h1 id="what-should-i-read">What Should I Read?</h1>
+
+<p>Well, for one you’re reading this blog. That’s a good start! But don’t
+stop here. I try to link to other blogs when possible. Follow those
+links and read those posts.</p>
+
+<p>A few blogs that I really like are <a href="https://blog.codinghorror.com/">Coding
+Horror</a>, <a href="https://www.joelonsoftware.com/">Joel on
+Software</a>, <a href="http://steve-yegge.blogspot.com/">Steve
+Yegge</a>, <a href="https://devblogs.microsoft.com/oldnewthing/">The Old New
+Thing</a>, <a href="http://lambda-the-ultimate.org/">Lambda the
+Ultimate</a>, <a href="https://lexi-lambda.github.io/index.html">Alexis
+King</a> and <a href="http://www.paulgraham.com/articles.html">Paul Graham</a>.</p>
+
+<p>You don’t have to read all of these, but maybe spend some time
+perusing old articles and see what you find. Blogs are great because
+they offer little snippets of wisdom and opinions. I’ve learned a lot
+from reading old Joel Spolsky and Jeff Atwood posts.</p>
+
+<p>If I had to give a few good starter ones, I love <a href="https://blog.codinghorror.com/the-magpie-developer/">The Magpie
+Developer</a>,
+<a href="https://www.joelonsoftware.com/2008/11/26/exploding-offer-season/">Exploding Offer
+Season</a>,
+<a href="https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/">Parse Don’t
+Validate</a>,
+<a href="https://gist.github.com/chitchcock/1281611">Steve Yegge’s Platforms
+Rant</a>, and <a href="http://www.paulgraham.com/startupideas.html">How to Get
+Startup Ideas</a>.</p>
+
+<h1 id="books">Books</h1>
+
+<p>Oooh even scarier. Books. Next thing it’s novels and then it’s just a
+slippery slope to a career in literary criticism. Don’t worry, I
+promise I won’t recommend <em>Wuthering Heights</em>.</p>
+
+<p>In all seriousness, books are so important. Y’know those textbooks
+that professors put on the syllabus that nobody reads? They’re filled
+with super useful information!</p>
+
+<p>Of course, you don’t have to read them through. I don’t think I’ve
+read any pure computer science book cover to cover. Skim them from
+time to time and see if you pick up some stuff.</p>
+
+<p>Other than textbooks, there’s quite a few amazing books on
+programming. <a href="https://blog.codinghorror.com/recommended-reading-for-developers/">Jeff Atwood’s recommended
+reading</a>
+is a good start. I’d also include <a href="http://www.codersatwork.com/">Coders at
+Work</a> which is an excellent series of
+interviews with top programmers, <a href="https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine">The Soul of a New
+Machine</a>
+which is a great historical perspective on building computers in the
+70’s, and <a href="https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385">Smart and Gets Things
+Done</a>
+an amazing book on hiring good developers<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> by Joel Spolsky</p>
+
+<p>Of course, there’s the granddaddy of all computer science books, <a href="https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming">The
+Art of Computer
+Programming</a>. It’s
+very math heavy and suuuuuper dense but hey, if you can make it
+through even a few pages, you’ll learn a lot.</p>
+
+<h1 id="websites">Websites</h1>
+
+<p>Reddit, while a huge time waste in many ways, can be quite useful for
+programming news. /r/programming is the main subreddit, but there’s a
+whole lot of other niche subreddits that are great such as
+/r/rust<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>, /r/node, /r/javascript, /r/haskell,
+/r/ProgrammingLanguages and so on. Don’t go on /r/csMajors or
+/r/cscareerquestions unless you want anxiety about Big N jobs,
+constant careerist questions and salary flexing.</p>
+
+<p>Want a great way to learn more? Unsubscribe from /r/funny and all the
+other inane default subreddits, then subscribe to a bunch of
+programming subreddits. At least you’ll be wasting time learning
+something.</p>
+
+<p>The other interesting site is <a href="https://news.ycombinator.com/">Hacker
+News</a>. HN is a kinda reddit clone run
+by YCombinator, a famous startup accelerator. It’s mostly tech news
+based and has a very interesting, very unique culture. Some people
+find it interesting and full of lively, intellectual debate. Others
+find it simultaneously cynical and extremely naive, with overly
+aggressive or dismissive comments interweaved with posts on the next
+shiny new thing.</p>
+
+<p>The truth is that both are true. Communities resist general
+categorization<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> as their inhabitants are constantly changing. One
+can never step into the same subreddit twice. Go read it for yourself
+and decide.</p>
+
+<h1 id="papers">Papers</h1>
+
+<p>If you lean more academic, papers are a great resource. Reading papers
+can often be hard for students—even I struggle with it. Just
+remember that you don’t have to read papers cover to cover. Even if
+you read just 20% of a paper, that’s still better than 0%.</p>
+
+<p>There’s quite a few classic papers. I love <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdfq">Reflections On Trusting
+Trust</a>,
+<a href="https://en.wikipedia.org/wiki/No_Silver_Bullet">No Silver Bullet</a>,
+<a href="https://bitcoin.org/bitcoin.pdf">the Bitcoin paper</a>, and <a href="https://en.wikipedia.org/wiki/On_the_Cruelty_of_Really_Teaching_Computer_Science">On The
+Cruelty of Really Teaching Computer
+Science</a>.</p>
+
+<p>If you want to stay up on the cutting edge, you can always read the
+proceedings for various conferences such as PLDI, SIGGRAPH, OOPSLA and
+so on.</p>
+
+<h1 id="skepticism">Skepticism</h1>
+
+<p>While reading all of these wonderful sources, it’s important to keep a
+sense of skepticism. Programming is a subject that has a lot of strong
+opinions and strong personalities. It’s very easy to read something
+and think that this is the absolute truth and that things <strong>must</strong> be
+done this way. It’s also very easy to read a different thing the next
+week and decide that this is the real absolute truth and that things
+<strong>must</strong> be done this way. You see?</p>
+
+<p>Keep an open mind, read everything in good faith, but don’t take any
+of it as gospel.</p>
+
+<p>Ultimately nobody is completely right. Everybody has only the tiniest
+fraction of the total collective programming experience. We all have
+different backgrounds, different language preferences, different ways
+of thinking. Reading and writing is what allows us to share these
+different experiences and thereby improve the entire programming
+community in the process. Without reading, you’re stuck with only your
+limited experiences and your limited knowledge. With reading, you can
+erase these limits.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>It’s also great for getting hired as it gives you an insight
+into how interview processes should work <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Why this isn’t /r/ust is beyond me <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>Indeed, the one unifying characteristic of redditors appears to
+ be a tendency towards making overly general and dismissive
+ statements about reddit. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

@@ -1,0 +1,67 @@
+I"�<p>Show of hands here, who hates Albert? No, not your buddy Albert, who
+I’m sure is a great person. I’m talking about <a href="http://albert.nyu.edu/albert_index.html">NYU’s
+Albert</a>, the <em>wonderful</em>
+course registration site that totally doesn’t make you want to murder
+someone.</p>
+
+<p>I, for one, detest it. I could go on and on about how much I hate
+every little detail, but let’s stay focused here. Fortunately, my
+friend, <a href="https://github.com/a1liu/">Albert Liu</a> (yes yes, the irony is
+palpable) at <a href="https://bugs-nyu.github.io/">BUGS</a>, has built a solution
+in the form of Schedge.</p>
+
+<p>What is Schedge? Schedge is a program that scrapes Albert, then
+provides a simple API for course data. You can query course data from
+different semesters with all the corresponding meeting times and
+recitations.</p>
+
+<p>Of course with this data, we can easily build a better user interface
+for exploring courses. I’ve already written a quick <a href="https://courses.torchnyu.com/">proof of
+concept</a>. It’s not much to look at, but
+it’s a start.</p>
+
+<p>However that’s just the beginning. You see, Schedge is more than just
+a way to build course explorer: <em>Schedge is whatever you want it to
+be</em>. Want to build an app that visualizes course times? Go ahead! Want
+to see how course options have changed over the years? Why not? Want
+to make a random schedule generator? Do it!</p>
+
+<p>I’m really curious to see how people use Schedge. Torch’s mission is
+to promote and incubate NYU’s CS community. Hopefully, by offering an
+API to a problem so near and dear to NYU students’ hearts, we can get
+people writing code to solve their everyday issues. If people can
+build projects with passion and dedication, then they’ll learn far
+more building than from any course or any lecture. And nothing
+inspires passion more then waiting for Albert to goddamn load.</p>
+
+<p>Schedge is still very very new and therefore will go through some
+growing pains. We’re adding features as quickly as we can, but there’s
+only a few developers currently. Which is another place where you can
+help! We specifically chose a stack for Schedge that makes it easy for
+NYU students to contribute. Namely, we wrote Schedge in Java <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> with
+a very simple framework called <a href="https://javalin.io/">Javalin</a>. If
+you’ve taken Intro to CS at NYU, you can contribute! If you haven’t,
+you can also contribute! We will happily teach you Java and everything
+else you need to know.</p>
+
+<p>If you’re interested, reach out to either
+<a href="https://github.com/a1liu/">Albert Liu</a> or
+<a href="https://github.com/nicholaslyang">me</a>. Or just clone the
+<a href="https://github.com/a1liu/schedge">repo</a> and start playing around.</p>
+
+<p>Schedge is currently up <a href="https://schedge.torchnyu.com/">here</a>. There’s
+a minor issue where http links aren’t redirected to https, so don’t go
+to http://schedge.torchnyu.com/ and come running to me that the API’s
+down. We use HTTPS for everything…whether we like it or not. We have
+basic API docs set up, but feel free to ping us if something doesn’t
+make sense.</p>
+
+<p>Now go out there and build something with Schedge!</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Well actually Java and Kotlin but we’re slowly moving it to just Java. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

@@ -1,0 +1,230 @@
+I"�-<p>Happy New Year everybody! It’s pretty surreal writing 2020. Feels like
+the future. And what better time than the future to talk about new
+beginnings—specifically getting your first CS job.</p>
+
+<p>More than classes, more than side projects and clubs, I’d say that
+getting your first CS job is the most important task you should
+accomplish as a CS student. Your first job is what will give you the
+necessary skills to do whatever you want, whether that’s leapfrogging
+up to the big tech companies, starting your own company, or simply
+learning how to program in a professional environment.</p>
+
+<p>At the same time, getting your first job isn’t easy. You need to
+somehow have a resume when you have little to no experience. Every
+company seems like they require 2-3 years of experience and React,
+Redux, Tree-Monkey-Frog.js plus 10 years of Swift. Not to mention the
+<em>wonderful</em> technical interviews you might face. Let’s figure out how
+we can surmount these problems.</p>
+
+<h1 id="where-should-i-apply">Where Should I Apply?</h1>
+
+<p>In one word: EVERYWHERE. A job says 2-3 years experience? Why not? The
+job listing says Software Developer and not intern? Go for it! Maybe
+they can open up an intern position. You don’t know the stack? You can
+learn it! Just apply!</p>
+
+<p>There’s some caveats, of course. Try to avoid what I call
+non-technical technical jobs, jobs such as “Solutions Engineer” or
+“Product Analyst”. These are perfectly good jobs, but if you’re
+looking for a technical position, these are not it.</p>
+
+<p>Avoid unpaid jobs. Even as a novice you should be paid. A lot of
+companies, ranging from pre-seed startups (aka “bro I have this idea”)
+to full on companies advertise “intern” positions that are really
+unpaid junior developers. These are the worst of both worlds since
+you’re expected to build stuff instead of learning and you don’t get
+paid. There are some very very rare unpaid internships that genuinely
+emphasize learning instead of productivity, but they’re few and far
+between.</p>
+
+<p>You can certainly apply to the large tech companies such as Google,
+Facebook, etc. I have an <a href="https://blog.torchnyu.com/2019/11/14/get-that-big-n-job.html">article on precisely
+that</a>. But
+unless you have some work experience or outstanding projects, you
+probably won’t get a response. I’m a little hesitant to
+recommend that you take a large tech company as your first job. It’s a
+lot of pressure for a first job, dealing with the complex politics and
+internal technology of large companies. Nonetheless, if you want to,
+go for it.</p>
+
+<p>Definitely apply to local companies. Not only will it make the
+application process and logistics of working there a lot easier, but
+they might have an established relationship with NYU. I like using
+<a href="https://www.builtinnyc.com/">Built In NYC</a> and
+<a href="https://angel.co/">AngelList</a>. You can go to meetups and see if
+companies advertise there too.</p>
+
+<p>Startups are another decent option for first jobs. However beware of
+startups that are just getting started (if you hear “MVP” or “pre-seed”
+or “getting off the ground”, run) and trying to use you as cheap
+labor. Remember, do not take unpaid jobs. <a href="https://news.ycombinator.com/jobs">Hacker
+News</a> and <a href="https://www.workatastartup.com/">Work at a
+Startup</a> are good resources for
+finding startup jobs.</p>
+
+<h2 id="use-your-network">Use Your Network</h2>
+
+<p>One important resource you <strong>must</strong> use is your network. Some people
+have better networks than others, but barring extreme cases, everybody
+has some form of network. This may be family, this may be professors
+who took a shine to you. It could even be people you randomly met in
+class or at a meetup.</p>
+
+<p>The key idea here is to be utterly shameless. Ask everybody you know
+if they have some connections they’re willing to use. Even if you’ve
+barely met the person. Even if you’re not sure they like you. Even if
+the person is not technical themselves. The worst that can happen is
+they say no, or something vaguely unpleasant. But that’s their
+problem, not yours.</p>
+
+<p>A good corollary is to always try to grow your network. This means
+meeting people and keeping in contact. You can meet people at pretty
+much any social event. Sure, tech events like meetups and conferences
+work, but also weddings, funerals, bat/bar mitzvahs, family reunions,
+parties, etc. You can keep in contact via LinkedIn, email, Facebook,
+GitHub, WeChat, WhatsApp, and so on. You never know who will get you
+your next job.</p>
+
+<p>When using your network, try to avoid pressuring the person you’re
+asking. Emphasize that they should only help you if that is their
+wish.</p>
+
+<h1 id="when-should-i-apply">When Should I Apply?</h1>
+
+<p>NOW! If you’re in high school, great! Apply and you’ll be an
+incredible dev by the time you’re in college. If you’re a freshman in
+college? Apply! Sophomore? Apply! A 30-something just out of a
+bootcamp? No better time than the present!</p>
+
+<p>For some reason people tend to self sabotage, especially if they’re
+getting started a little late. They worry that they’re not good enough
+or they tell themselves that they’ll apply once they get past some
+checkpoint. Don’t do that. Apply first, ask questions later.</p>
+
+<h1 id="resume">Resume?</h1>
+
+<p>Resumes are tricky if you don’t have anything to put on them. I joke
+that I’m slowly stripping out the BS from my resume, but it’s
+true. Don’t be afraid to pad up your resume. I’ve put stuff like
+extracurriculars such as sports and dumb school projects on
+there. There’s always a chance the person who reviews your resume also
+played lacrosse in college or was a member of Model UN. Plus it’s
+better than whitespace. As you get more experience the fluff will get
+stripped and replaced with cold, hard experience.</p>
+
+<p>If you have a bunch of blank space on your resume, go start some <a href="https://blog.torchnyu.com/2019/12/21/side-projects.html">side
+projects</a>!
+Spend a weekend or two working on one and put it on your resume. They
+don’t have to be extremely advanced to go on your resume.</p>
+
+<p>You can get your resume reviewed in <a href="https://www.facebook.com/groups/1487708811477672/">HH Websites and
+Resumes</a>, as well
+as /r/cscareerquestions (just ignore all the big N obsessed comments).</p>
+
+<p>Classic resume advice stands of course. Keep it to a page; proofread
+your writing; make sure the font is legible. Joel Spolsky has a <a href="https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/">good
+post</a>
+on this.</p>
+
+<h1 id="interviews">Interviews</h1>
+
+<p>Companies will generally have some sort of interview. This will be
+technical, though maybe not the usual Big N format of solving a
+programming problem. I’ve had interviews that were more casual, where
+we talked about my projects or went through a system design
+problem.</p>
+
+<p>System design basically means you get asked about a potential
+application, say a chat app, then you get asked about how you’d solve
+a particular problem within said app. Often this involves the various
+objects/data structures within the app, or maybe using a certain
+paradigm.</p>
+
+<p>You could in theory do a whole bunch of leetcode or read a whole bunch
+of stuff on system design, but I wouldn’t worry too much. You’ll have
+plenty of time to study leetcode if or when you’re trying for your
+second company. Besides, the company should know that you’re a student
+with no prior experience. If they expect you to pump out leetcode
+solutions, that’s too much man.</p>
+
+<p>That being said, you might want to work on the behavioral aspects of
+the interview. After all, that’s all they have to assess you,
+really. Dress well. Not necessarily fancy, but in clothes that fit and
+are clean. Learn to smile and make small talk (not the
+language!). Figure out how to phrase stuff in a positive manner,
+whether it’s your boring summer job from a year ago or your greatest
+weakness.</p>
+
+<p>If you want, ask a few questions at the end. I like going through an
+ad hoc <a href="https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/">Joel
+Test</a>
+with them. Or ask them about their code review process. If they hem
+and haw or outright say they don’t have one, that’s a bad sign. A good
+question to ask is how they plan on providing mentorship. Will you
+have an assigned mentor? How much time will you spend writing code
+versus learning? Would they ever be fine with you reading up on, say,
+docker versus doing your work? Have they had interns before?</p>
+
+<p>Ask a couple questions about your actual work. What stack will you be
+using? Will you be writing new code or fixing bugs? How much legacy?</p>
+
+<h1 id="goal-of-the-internship">Goal of the Internship</h1>
+
+<p>If you want something to home in on with your questions, I’d try to
+figure out what the company views as the goal of the internship. This
+varies from company to company.</p>
+
+<p>Some companies view interns as basically junior developers they can
+pay less. They won’t care at all about mentoring you. They’ll just
+care that you’re writing code, stat. Other companies genuinely see
+internships as a mentoring process, through which maaaybe you can be
+productive. Other companies may see it as a test of sorts before a
+full time offer.</p>
+
+<p>It’s really important to iron this out before you accept an offer and
+before you start working. Internship can mean a lot of very different
+roles.</p>
+
+<h1 id="after-you-get-the-offer">After You Get the Offer</h1>
+
+<p>First, beware the <a href="https://www.joelonsoftware.com/2008/11/26/exploding-offer-season/">exploding
+offer</a>. It’s
+a terrible practice in which a company will give you an incredibly
+short deadline to decide. I’ve had it happen to me. The important
+thing to remember is that hiring is a pain, while giving someone an
+extension of a couple days is a lot easier. Not to mention an
+exploding offer is generally a sign that the company is a little
+manipulative. Not a total red flag, but not a great sign either.</p>
+
+<p>Once you have the offer, it’s good to be a little more picky. Read
+about the company on GlassDoor. Think about how you interacted with
+your interviewers and whether you liked them. Did they interview you
+well? Were they nice? Will you be working in a stack that’s
+interesting to you and helpful for your future career plans? If it’s
+legacy Java or PHP, maybe not. Or worse, some form of domain specific
+language or proprietary software only used by a few places.</p>
+
+<p>At the same time, don’t worry too much about picking the best
+company. Entry level programming jobs are extremely low commitment. If
+you don’t like it and don’t need the cash, quitting is easy. If you do
+need the cash, even a shitty programming job is far cushier than a
+sales job or whatever job you can scrounge as a student.</p>
+
+<p>It’s somewhat inevitable that you’ll get stuck with a mediocre if not
+shitty job sometime in your life. Why not now?</p>
+
+<p>Of course if anybody is discriminatory, abusive or physically
+threatening, you should not take the job or leave the job
+immediately. And ideally name and shame so that others avoid the
+company.</p>
+
+<h1 id="on-the-job">On the Job</h1>
+
+<p>Once you have the job, do your best, work hard and have fun. Try to
+find people who you can learn from, but verify what they say. Just
+because someone has been programming longer than you doesn’t mean
+they’re that good at it.</p>
+
+<p>Oh and make sure your taxes come out to the right number. HR screws
+this up surprisingly frequently.</p>
+:ET
