@@ -147,6 +147,36 @@ I'd recommend that you be at this level when you apply for a full time
 job with a language on your resume. A properly trained developer
 should write idiomatic, well written code.
 
+# Philosophy
+
+Another big factor is the philosophy behind the language. Almost every
+language has some guiding principle. These are different from code
+idioms in that they're more vague and high level. Here's a few examples:
+
+- Go: Fast, simple, stable
+- Rust: Fast and safe
+- Ruby: Fun and friendly
+- Python: Clear, simple, elegant
+
+Some of these philosophies are exposed directly. Go has the delightful
+[Go Proverbs](https://go-proverbs.github.io/). Python has the [Zen of
+Python](https://www.python.org/dev/peps/pep-0020/). Others are
+expressed more indirectly via the community or popular libraries.
+
+I'd try to get a sense of a language's philosophy. You don't have to
+completely agree with it or follow it all the time. But it's a good
+starting point and a great way to figure out the proper usecases of a
+language.
+
+For instance, if I were writing a microservice that needed to be
+performant and I was working in a large company, where many people
+might need to touch this code. I'd consider using Go since it
+emphasizes speed, simple code and stability.
+
+If I were writing a quick one off script that's doing some boring
+string manipulation, maybe I'd use Ruby since it's friendly, quick to
+use and makes even a boring task kinda fun!
+
 # Developing Opinions
 
 A classic interview question posed by, I believe, Steve Yegge asks
@@ -157,7 +187,10 @@ thought out, reasonable manner. By that I don't mean the usual "OMG JS
 sucks so much!!!" that you find online. A proper critique of a
 language understands that every language has its strong areas and its
 weak areas. That every language is fundamentally a tool that can be
-used in certain situations and not in other situations.
+used in certain situations and not in other situations. A proper
+critique combines the facets of using the language, understanding its
+idioms and internalizing its philosophy give an in depth, nuanced
+assessment.
 
 If you find a language utterly perfect, or if you find it utterly
 irredeemable, you don't really know the language.
@@ -223,8 +256,8 @@ that much about language.
 I believe Joel Spolsky said something along the lines of if you hire a
 top notch programmer with no experience in Ruby for a job, in a year
 you'll have a top notch programmer with a year's experience in
-Java. If you hire a mediocre programmer with 4 years of Java, in a
-year you'll have a mediocre programmer with 5 years of Java. Guess
+Ruby. If you hire a mediocre programmer with 4 years of Ruby, in a
+year you'll have a mediocre programmer with 5 years of Ruby. Guess
 who's gonna be the better hire?
 
 Part of the problem is that people take job listings too seriously. If
@@ -243,3 +276,17 @@ JS. Plus modern JS is a quite nice language.
 
 If that offends your sensibilities, then great, learn whatever
 language you believe is better.
+
+**Addendum**
+
+Joining the language community can be a great way to learn a
+language's idioms and philosophy. It can also help you choose your
+preferred language. Certain languages emphasize values such as
+niceness, clarity, stability, etc. This can matter more than even
+technical factors. After all these people will most likely be your
+coworkers and collaborators.
+
+Depending on the language, the community may cluster in different
+locations. I know JavaScript people are pretty active on Twitter,
+Haskell has a decent IRC channel and most languages tend to have a
+subreddit. Check them out!
