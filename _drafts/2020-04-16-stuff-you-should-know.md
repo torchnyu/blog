@@ -33,6 +33,7 @@ Here's what you should know coming out of your systems classes:
 - Memory layout of a C program.
 - Scheduling OS processes
 - Concurrency and why it's hard
+- Parallelism and why it's different from concurrency
 - Memory allocation and why it's hard
 - System calls
 - Buffer overflow attacks
@@ -96,6 +97,7 @@ only care about certain subjects.
 - What is a limit^[2]?
 - What is a function? What is a total function?
 
+[2]: Bonus points if you can actually give a rigorous definition
 
 # Computation
 
@@ -125,12 +127,83 @@ You should know:
 - What is NP? Give an example of a problem in NP.
 - Is P = NP?
 
-[2]: Bonus points if you can actually give a rigorous definition
-
 
 # Software Development
 
+Software Development is realistically what most of us plan on doing
+with our CS degree. Unfortunately many CS programs neglect it under
+the claim that "CS != Programming". That may be true, but software
+development is a significant part of CS. Don't get discouraged if you
+don't know some of these. NYU doesn't teach all of them unless you
+take certain courses.
+
+You should know:
+
+- How to collaborate with 2 or more people on a project. Ideally
+  without any fighting or death threats
+- Some experience in one of: front-end web development, back-end web
+  development, mobile application development, systems development.
+- How to deploy something to production
+- The high level view of how an internet request works, from DNS, to
+  TCP/IP to the physical server, to the reverse proxy, to the code to
+  the database and back.
+- What bad code looks like
+- What slightly less bad code looks like
+- How to do basic refactoring
+- How to read other people's code and give feedback.
+- What is abstraction? How is it useful?
+- What is modularity? How does it relate to abstraction?
+- The basics of object oriented programming such as inheritance versus
+  composition, SOLID principles, a couple design patterns, etc.
+- How to use libraries and frameworks. You should be able to learn a
+  new library or framework by reading documentation and tutorials.
+- How to get unstuck by looking at StackOverflow or GitHub issues
+- How to ask a StackOverflow question or open a GitHub issue.
+- How open source collaboration works.
+
 # Tooling
+
+This is an area that varies a lot. Some people spend hours upon hours
+on tooling, tweaking their .vimrc or .emacs.d, while others still
+click File > Copy. You don't need to be a tooling master but I'd
+recommend getting the easy stuff down.
+
+- How to use git, ideally branches, rebasing, merging, and fixing
+  messed up repositories
+- How to use one code editor of your choice, such as emacs, vim, VSCode, Sublime Text, etc.
+- How to navigate a Unix based terminal
+- What is an SSH key?
+
+After that there's a few things you could learn like:
+
+- Docker
+- Basic bash scripting
+- Key commands (learn M-f, M-b, C-a, C-e, M->, M-< in emacs)
 
 # Professional
 
+Maybe the most important. All of this doesn't matter unless you can
+get a job. This is another area where NYU isn't the greatest at
+helping out. Here's what you should know before you graduate.
+
+- How to look for and apply to tech jobs
+- How to network and then use those connections
+- How to filter out the poor or borderline insulting job opportunities
+  from the real ones. I.e. how to avoid getting roped into a Sternie's
+  startup
+- How to politely decline these not-great job opportunities.
+- Ways of applying for jobs that aren't submitting through an online
+  portal with no connections (cold emailing, personal connections,
+  on-campus recruiting)
+- How to get an internship (and go through with it! Aim to have one or more internships)
+- How to judge if a company or team has their stuff together.
+- Interviewing skills, whether that's solving whiteboard problems or people skills
+- How to handle a not-great working situation and make the best of it.
+- How to seek out mentorship and learn from people.
+- How to get a job out of college
+
+I highly recommend getting an internship at some point in
+college. It's not the end of the world if you don't have one, but it
+can be a great way of getting work experience, getting a great paid
+summer experience, and having a backdoor into a big company for full
+time work.
