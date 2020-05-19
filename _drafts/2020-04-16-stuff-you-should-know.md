@@ -157,6 +157,7 @@ You should know:
   composition, SOLID principles, a couple design patterns, etc.
 - How to use libraries and frameworks. You should be able to learn a
   new library or framework by reading documentation and tutorials.
+- How to debug with print statements or a debugger.
 - How to get unstuck by looking at StackOverflow or GitHub issues
 - How to ask a StackOverflow question or open a GitHub issue.
 - How open source collaboration works.
