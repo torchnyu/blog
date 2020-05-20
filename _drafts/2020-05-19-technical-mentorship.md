@@ -45,10 +45,10 @@ technical mentor.
 
 I was lucky enough to find a proper mentor. My first internship was
 way back in the summer after high school. I had graduated and was
-lucky enough to find an internship via family contacts^[1]. This
+lucky enough to find an internship via family contacts^[2]. This
 internship was at a hedge fund doing Ruby and C++.
 
-[1]: Extremely common. If you haven't, ask your family about any contacts they may have.
+[2]: Extremely common. If you haven't, ask your family about any contacts they may have.
 
 What I loved about this internship was how emphatic they were that
 they were teaching me. This was especially nice of them since I was a
@@ -120,6 +120,10 @@ enough to not need the supervision. Especially avoid places that rely
 on contracted programmers. Even if one of the contracted programmers
 is a good mentor, they'll be on to the next job before you know
 it. Besides those places tend to have less than stellar tech.
+
+Also avoid places that just put interns on bug duty, i.e. have them
+tackle the endless JIRA backlog without any training or overarching
+goal. It's demoralizing and not educational.
 
 Constantly seek out technical mentorship. For my most recent
 internship at Microsoft, I actively emailed a bunch of developers
