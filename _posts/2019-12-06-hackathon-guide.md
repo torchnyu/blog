@@ -25,7 +25,7 @@ go around surveying people and getting a feel for product fit[^1]. You
 can design mockups for websites or apps. You can polish pitches. You
 can solder stuff or debug hardware.
 
-[^1]: I had a member of a team do exactly that at a recent hackathon  and their work was extremely valuable. Turns out asking "do people  want this?" before presenting is a good idea!
+[^1]: I had a member of a team do exactly that at a recent hackathon  and their work was extremely valuable. Turns out asking "do people want this?" before presenting is a good idea!
 
 You can also go to a hackathon and do none of that! Hackathons are
 great in that they aren't super restrictive. You can just go there eat
@@ -51,12 +51,12 @@ sure! A hackathon is definitely a good thing to experience if you're
 interested in tech. If you don't like it, then that's fine. If you do,
 then great! You've found something fun and interesting.
 
-Personally, I do occasionally go to hackathons, but I don't do them
-super consistently. I find that I enjoy working on projects at a
+Personally, I do occasionally attend hackathons, but I don't go to
+them super consistently. I find that I enjoy working on projects at a
 slower, more long term pace. But I did go to hackathons a lot more in
-the past. I met some good friends, got to work on some cool projects
-and win a few prizes. Overall I think I've benefited from having
-attended hackathons.
+the past. I met some good friends, worked on some cool projects and
+won a few prizes. Overall I've benefited from having attended
+hackathons.
 
 I'd especially consider going if you don't have a lot of practical
 experience programming. There's something really freeing about just
@@ -94,7 +94,7 @@ Decent headphones to block out noise. Essential for programming in
 what's basically the largest, most uncomfortable open office.
 
 A change of clothes. Especially socks. For some reason there's nothing
-worse (imo) than wearing the same pair of socks for too long.
+worse than wearing the same pair of socks for too long.
 
 Warm jackets. I don't know why, but hackathons always get super
 cold. Maybe they pump the AC. Maybe it just gets really cold at 4am. I
@@ -127,17 +127,17 @@ Nope! I've gone to plenty of hackathons by myself. Just be open to
 talking to random people and you'll have a good time. I've done a few
 hackathons where I met the team at the event and proceeded to do quite
 well. In general you shouldn't restrict events/activities because you
-don't know anybody there. Just go and meet new people!
+don't know anybody there. Go and meet new people!
 
 *Help! I don't know how to program/I only know Python/Java/Racket*
 
 That's fine! Hackathons should be about learning. You can spend the
 event learning just what you need to get started. Don't compare
 yourself to other people with different experience levels and
-expectations. Plus as mentioned before, you don't need to know how to
-code to be a helpful team member. Gather product data, design
-marketing material or even provide manual data (many a successful
-project has been built upon manual data entry).
+expectations. As mentioned before, you don't need to know how to code
+to be a helpful team member. Gather product data, design marketing
+material or even provide manual data (many a successful project has
+been built upon manual data entry).
 
 *This project isn't a good hackathon project but I still want to build it...*
 

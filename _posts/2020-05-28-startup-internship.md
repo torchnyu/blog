@@ -58,9 +58,15 @@ If you truly have nothing to do, i.e. you've sent out 300
 applications; you're unable to build a side project for whatever
 reason; you've read all you can read on programming, then at the very
 least, you deserve to be compensated at this startup. If they can't
-pay you in cash, fine. You should get equity^[1]. And don't let them
+pay you in cash, fine. You should get equity[^1]. And don't let them
 call you an intern. If they can't afford to pay you, they can't afford
 to call you an intern.
 
-[1]: Although that's probably a terrible idea since the equity will most likely be worth zero. That being said, it demonstrates a certain amount of respect.
+[^1]: Although that's a terrible idea since the equity will probably
+    be worth zero. That being said, it demonstrates a certain amount
+    of respect.
 
+And to those of you who ~~exploit~~ hire "interns" to boost your
+startup, please stop. You're not getting good work. You're not helping
+your startup. You're just exploiting people who are desperate for
+experience.

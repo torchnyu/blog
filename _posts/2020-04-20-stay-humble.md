@@ -126,7 +126,7 @@ close to home, you could be a cocky developer. As I've said before,
 I've been guilty of cockiness.
 
 How does one keep their cockiness in check? First, try to listen and
-adapt instead of dismissing. Perhaps Sasha coudl had responded to
+adapt instead of dismissing. Perhaps Sasha could have responded to
 Adrian's concerns with:
 
 **Sasha:** Three weeks? That seems like a little long to me. Could we
@@ -158,7 +158,7 @@ issues. It's possible the Adrian's on your team know something you
 don't. Make sure you've gathered the project requirements and
 understand the problem you're trying to solve. [Dunning-Kruger
 effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-is a common explanation for cockiness: Basically you don't know what
+is a common explanation for cockiness: You don't know what
 you don't know. If you believe that you're an expert in an area or
 understand something entirely, there's a chance you're not seeing the
 bigger picture.

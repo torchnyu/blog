@@ -79,6 +79,9 @@ courses, started learning on your own and talked your way into a low
 level internship, then you'd be in a significantly better position
 then lackadaisically fulfilling a CS major.
 
+Having a double major may also distract you from your primary major,
+which may in turn mess up your career opportunities.
+
 Networking, internships and projects are the ultimate way to get job
 opportunities. If you're in a major where you're worried about your
 job prospects, a double major can certainly help you, but it won't get
@@ -145,6 +148,10 @@ they're a Math/CS major. I know I did.
 They start taking classes and maybe they don't like every class but
 they tell themselves that they're going to stick to their
 ambitions. And besides it'll probably get better. I know I did.
+
+Some realize at some point that this arbitrary goal they set 3 years
+ago may not have been worth it. They realize that they want to focus
+on one area. I know I did.
 
 There's definitely people who have benefited from double majors. But
 it's a lot fewer than you'd expect. If you're interested in two

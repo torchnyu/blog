@@ -154,10 +154,10 @@ address every professor as "professor" or "doctor" they will start
 cackling and devour you, the naive little undergrad who dared to call
 them by their first name. That's not really true. Oh sure some
 professors do want you to call them professor. But other professors
-don't care if you call them Nicholas, Nick or Nicky^[1]. And plenty of
+don't care if you call them Nicholas, Nick or Nicky[^1]. And plenty of
 professors have a sense of humor.
 
-[1]: Please double check before calling a professor Nicky.
+[^1]: Please double check before calling a professor Nicky.
 
 The other big difference between high school and college is that your
 professors are not that far away from being your colleagues or even

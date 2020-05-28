@@ -15,7 +15,7 @@ about their job. It goes something like this:
 Me: Oh hey where are you working?
 
 Them: This startup/company that does xyz. I'm building them a web app
-in React^[1] and TypeScript.
+in React[^1] and TypeScript.
 
 Me: Huh, okay. Is there someone who you could learn from there?
 
@@ -25,7 +25,7 @@ Me: That's not good. Is there a CTO or lead developer.
 
 Them: Nope. I'm in charge of the project.
 
-[1]: Startups loooove React.
+[^1]: Startups loooove React.
 
 That's not a good sign. Usually this friend is getting underpaid as
 well. Before I'd try to convince them on the merits of the idea being
@@ -45,10 +45,10 @@ technical mentor.
 
 I was lucky enough to find a proper mentor. My first internship was
 way back in the summer after high school. I had graduated and was
-lucky enough to find an internship via family contacts^[2]. This
+lucky enough to find an internship via family contacts[^2]. This
 internship was at a hedge fund doing Ruby and C++.
 
-[2]: Extremely common. If you haven't, ask your family about any contacts they may have.
+[^2]: Extremely common. If you haven't, ask your family about any contacts they may have.
 
 What I loved about this internship was how emphatic they were that
 they were teaching me. This was especially nice of them since I was a
