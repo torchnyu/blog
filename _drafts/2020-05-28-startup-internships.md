@@ -27,6 +27,10 @@ it's **stupid**. Any company that genuinely believes unpaid
 interns---without guidance or mentorship---can produce useful code is
 a company run by morons.
 
+You'll also have a mountain of work. Startups by their very nature
+have a practically endless amount of work. You'll be stuck with no
+guidance and a massive pile of tasks to get done. Not fun.
+
 Often times this is a move pulled by startups run by non-technical
 people. Non-technical people often fall into the classic trap of
 assuming that more programmers means more code means more
