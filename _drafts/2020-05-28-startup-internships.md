@@ -7,13 +7,13 @@ If there's one thing I'd get rid of in the CS community, it's early
 stage startups offering internships. You see this all the time,
 whether it's on the [opportunities mailing
 list](https://cs.nyu.edu/home/undergrad/opportunities.html), on job
-postings, or simply mentioned in passing by the startup
-founder. Simply put, these are scams.
+postings, or mentioned in passing by the startup founder. Simply put,
+these are scams.
 
-Let me be clear: I'm not talking about funded startups offering paid
-internships. These are perfectly fine. I'm talking about the startup
-that is pre-funding or seed funded that is trying to get free labor
-out of unsuspecting students.
+I'm not talking about funded startups offering paid internships. These
+are perfectly fine. I'm talking about the startup that is pre-funding
+or seed funded that is trying to get free labor out of unsuspecting
+students.
 
 As I've mentioned, you should care about [technical
 mentorship](https://blog.torchnyu.com/2020/05/19/technical-mentorship.html). An
