@@ -16,10 +16,15 @@ ReasonML, JavaScript libraries are adopting functional ideas like
 immutability, C# is adding non nullable types, and so on.
 
 I won't go as far as to say that functional programming knowledge is
-absolutely necessary, but it's certainly moving in that direction. I
-will say that functional programming is incredibly fun, interesting
-and will certainly make you a more informed programmer, if not a
-better one.
+absolutely necessary. I will say that functional programming is
+incredibly fun, interesting and will certainly make you a more
+informed programmer, if not a better one.
+
+# What Is Functional Programming?
+
+Functional programming is a paradigm of programming based around
+functions, immutable data and declarative programming. I'll define
+each of these terms in succession.
 
 # But...why?
 
