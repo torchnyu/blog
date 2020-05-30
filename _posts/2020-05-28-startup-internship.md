@@ -1,5 +1,5 @@
 ---
-title:  "Startup \"Internship\""
+title:  "The Startup \"Internship\""
 date:   2020-05-27 20:00:00 -0700
 ---
 
@@ -41,8 +41,8 @@ technical leadership, **run**. Well you should be running anyways
 since unpaid internship at a startup should sound as good as "unpaid
 grunt in burning tire fire".
 
-Besides there's so many other ways you could fill your free time. Work
-in a [side
+There's so many other ways you could fill your free time. Work in a
+[side
 project](https://blog.torchnyu.com/2019/12/21/side-projects.html). Contribute
 to open source. [Read stuff on the
 internet](https://blog.torchnyu.com/2020/02/10/how-much-do-you-read.html). Send
@@ -89,5 +89,5 @@ social standing by pushing down on others.
 That's what's so sad about these startup internships. It's not just
 that they're exploitative. It's that they're a desperate attempt to
 gain social capital by playacting as a larger company. They may not
-have funding or users or a product that people like, but dammit, they
+have funding or users or a product that people use, but dammit, they
 have interns.
