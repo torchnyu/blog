@@ -37,6 +37,9 @@ Here's what you should know coming out of your systems classes:
 - Memory allocation and why it's hard
 - System calls
 - Buffer overflow attacks
+- How does a hard disk work?
+- How do we gain consistency? What is journaling?
+- The basics of distributed systems.
 
 # Programming Languages
 
@@ -48,12 +51,14 @@ is a shame, since it's a foundational part of computer science.
 Here's what you should know:
 
 - 1-2 programming languages at a sufficient level to say, write an
-  easy interview question^[1].
+  medium difficulty interview question[^1].
 - What is a compiler at a high level? What is an interpreter? Give
   examples of both
 - An example of a language that is compiled and interpreted
 - A programming language that has first class functions such as:
   Python, JavaScript, Ruby, Haskell, Rust, Kotlin
+- A language with static types such as Java, C++, Kotlin, Rust, C#,
+  etc.
 - Automatic memory management. Provide an example of a language
   that has automatic memory management and one that doesn't
 - What are static types? What are dynamic types? Provide an example of
@@ -72,8 +77,9 @@ Okay and here's what I'd love for students to know:
   `5 * 2 - 3` into reverse polish notation: 5 2 * 3 -
 - What is lambda calculus? How is it useful?
 - What is tail call optimization?
+- Hindley-Milner typechecking
 
-[1]: Bad benchmark, but I couldn't come up with any better one.
+[^1]: Bad benchmark, but I couldn't come up with any better one.
 
 If you can, consider taking a programming languages elective or the
 graduate level compilers class. They'll both be a little challenging
@@ -180,6 +186,8 @@ After that there's a few things you could learn like:
 - Docker
 - Basic bash scripting
 - Key commands (learn M-f, M-b, C-a, C-e, M->, M-< in emacs)
+- A cloud service like Amazon Web Services, Google Cloud Platform or
+  Microsoft Azure.
 
 # Professional
 
@@ -190,8 +198,8 @@ helping out. Here's what you should know before you graduate.
 - How to look for and apply to tech jobs
 - How to network and then use those connections
 - How to filter out the poor or borderline insulting job opportunities
-  from the real ones. I.e. how to avoid getting roped into a Sternie's
-  startup
+  from the real ones. I.e. how to avoid getting roped into someone's
+  poorly thought out startup
 - How to politely decline these not-great job opportunities.
 - Ways of applying for jobs that aren't submitting through an online
   portal with no connections (cold emailing, personal connections,
@@ -208,3 +216,16 @@ college. It's not the end of the world if you don't have one, but it
 can be a great way of getting work experience, getting a great paid
 summer experience, and having a backdoor into a big company for full
 time work.
+
+# That's It
+
+These lists are fundamentally flawed in that they're specific to what
+I've learned and what I know. If I had taken different classes with
+different professors, my list would undeniably be different. There
+would be additions of areas that I know nothing about and omissions of
+areas that I believe are essential.
+
+Don't worry too much if you don't know everything on this list. But if
+there's an item or two that you don't know, yet piques your interest,
+you should explore it. It's not always about what you know. It's about
+what you know you do not know.
