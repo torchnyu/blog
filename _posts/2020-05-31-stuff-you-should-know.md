@@ -1,6 +1,6 @@
 ---
 title:  "Stuff You Should Know"
-date:   2020-05-16 20:00:00 -0700
+date:   2020-05-31 20:00:00 -0700
 ---
 
 Nobody gets the same CS degree. Everybody takes courses with different
