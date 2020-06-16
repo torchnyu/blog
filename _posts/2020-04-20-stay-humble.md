@@ -158,10 +158,10 @@ issues. It's possible the Adrian's on your team know something you
 don't. Make sure you've gathered the project requirements and
 understand the problem you're trying to solve. [Dunning-Kruger
 effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-is a common explanation for cockiness: You don't know what
-you don't know. If you believe that you're an expert in an area or
-understand something entirely, there's a chance you're not seeing the
-bigger picture.
+is a common explanation for cockiness: You don't know what you don't
+know. If you believe that you're an expert in an area or understand
+something entirely, there's a chance you're not seeing the bigger
+picture.
 
 # Balance
 

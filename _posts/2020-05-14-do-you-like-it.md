@@ -168,10 +168,11 @@ One thing I noticed about programming versus other subjects was how
 willing I was to do it even in inconvenient situations. Even if I was
 tired, hungry, whatever, I'd still get sucked up into programming.
 
-This isn't always true. Sometimes I'm too damn tired or hungry to write
-code. But it's a good sign if you do occasionally get so wrapped up in
-programming that you forget to eat. Or do your homework. Or [change
-out of your towel](http://www.paulgraham.com/foundersatwork.html).
+This isn't always true. Sometimes I'm too damn tired or hungry to
+write code. But it's a good sign if you do occasionally get so wrapped
+up in programming that you forget to eat. Or do your homework. Or
+[change out of your
+towel](http://www.paulgraham.com/foundersatwork.html).
 
 ### ...When The Material Is "Boring"
 

@@ -120,3 +120,27 @@ I don't know why that is. Well actually I do. Objectivity is prized in
 the sciences because one can be somewhat objective in science. However
 once you stretch your view beyond the technical and start analyzing
 the messiness of our world, objectivity quickly becomes impossible.
+
+This is partially why some people dislike the humanities; you can't
+prove sociology. Even I've wondered at times whether Goffman was
+making it all up. But the answer isn't to reject humanities as a
+whole. As the common refrain goes, all models are wrong, but some are
+useful. Just because humanities lacks rigor, doesn't mean they're
+without merit.
+
+Subjectivity is a powerful concept to embrace. More of one's life is
+subjective than a technical person would want to admit. Politics,
+communication, even [our recounting of
+events](https://en.wikipedia.org/wiki/Rashomon)---all of these are
+subjective. The mistake that some make when they do not have a
+humanities education is this subjectivity is sourced from people's
+stupidity. That if people just sat down and thought logically, we'd
+have objective answers to these issues. Unfortunately that's not
+true. More often than not, the "objective answers" which the person
+wants us to reach are colored by their own biases and subjective
+experiences.
+
+Claiming objectivity is will not give you such; it will simply blind
+you to your subjectivity.
+
+

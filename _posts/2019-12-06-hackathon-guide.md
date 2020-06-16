@@ -150,7 +150,6 @@ half built project that's immediately tossed once the event's over.
 
 # How Do I Win?
 
-
 Ah yes. The question you *really* want me to answer. You've seen the
 awesome prizes, the Facebook likes and potential internships that
 hackathon winners can achieve. You want that Oculus, that iPad, that
