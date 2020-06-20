@@ -92,6 +92,11 @@ they're not entirely wrong. A good math background is extremely
 important. And yet, I see plenty of CS students who dismiss math or
 only care about certain subjects.
 
+Math is incredibly important, not as prerequisite knowledge for many
+areas of computer science, but also as a frame of mind for
+programming. A good programmer tries to impart a sense of rigor into
+their code.
+
 - What is a proof? Prove that the square root of 2 is irrational.
 - All of the standard proof techniques such as strong/weak induction,
   proof by contradiction, proof by counter example
@@ -100,10 +105,10 @@ only care about certain subjects.
 - Combinatorics and discrete probability. You should know stuff like n
   choose k, factorial, Bayesian probability, etc.
 - Law of Large Numbers and Central Limit Theorem.
-- What is a limit^[2]?
+- What is a limit[^2]?
 - What is a function? What is a total function?
 
-[2]: Bonus points if you can actually give a rigorous definition
+[^2]: Bonus points if you can actually give a rigorous definition
 
 # Computation
 
