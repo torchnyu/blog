@@ -77,7 +77,7 @@ the component, but six months down the line you probably won't. And
 another programmer will definitely not know because they didn't write
 the code.
 
-What I like abbout this analogy is that it provides several important
+What I like about this analogy is that it provides several important
 qualities for your code and explains what can go wrong without all of
 them. Far too often I see people who break up their code, but then
 don't go on to build proper abstractions. Or they build great
