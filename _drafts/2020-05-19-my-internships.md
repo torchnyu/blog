@@ -171,11 +171,51 @@ other projects.
 
 # Internship #3: Microsoft
 
-At the start of my sophomore year, I was determined to not have the
-same experience as my freshman year. I didn't want to get rejected all
-over again. I made a plan: email everybody I could about getting an
-internship in programming languages.
+At the start of my sophomore year, I was determined to not get
+rejected all over again. I made a plan: email everybody I could about
+getting an internship in programming languages.
 
 This was moderately easy. A surprising amount of developers have
 publicly available emails. If I had a little more chutzpah, I would
 have guessed some more email addresses.
+
+I asked my mentor from GSoC to help me with some people, but mostly I
+just sent cold emails. Some of the people I reached out to included
+Chris Lattner, the creator of Swift and LLVM; Guido van Rossum, the
+creator of Python and Anders Hejlsberg, the creator of TurboPascal, C#
+and TypeScript.
+
+I got some responses---Chris Lattner and Guido van Rossum both
+responded---but no real success. However I had two major improvements
+in my job applications from last year: the Google Foobar challenge and
+a phone interview with Microsoft.
+
+The Google Foobar challenge is something that happens if you search
+the right terms on Google. Your search results peel back and they
+offer you a coding challenge. I accepted it and started working on
+it. The challenge took a while but eventually I got far enough for a
+Google recruiter to reach out. However this only dumped me into the
+beginning of the actual Google application process. Which is a little
+dumb imo. I shouldn't have to take another coding challenge after
+Foobar.
+
+The Microsoft phone interview went kind of well. I was given a fairly
+easy question, but I didn't get the answer immediately. I suppose it
+was clear that I was working through the question real-time and not
+pulling an existing answer out.
+
+Anyways after that I had an on-campus interview which went
+fantastic. I solved the problem easily and the interviewer definitely
+seemed pleased.
+
+Then came the on-site. I was flown out to Seattle and put up a nice
+hotel. They gave four interviews in total. The questions weren't too
+hard or unconventional. I did two of the interviews in Haskell which
+was quite fun. The first question I did in Haskell was a simple
+removing of duplicates in a linked list. The second was a slightly
+more complicated one involving trees. I'm not sure if Haskell was the
+right choice for either, but it was certainly fun explaining it to the
+interviewers.
+
+In terms of timeline, Microsoft was able to give me a phone screen, an
+on-campus interview
