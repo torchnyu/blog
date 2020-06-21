@@ -18,6 +18,7 @@ that it's easy to confuse with other questions. Such as:
 
  - Am I good at it?
  - Do I have experience with it?
+ - Do I get good grades?
  - Is it easy to me?
  - Do I like math/physics/design/etc?
  - Are other people trying to get me to like it?
@@ -40,7 +41,7 @@ easy.
 Before we discuss knowing if you like CS, let's go over the other,
 incorrect questions.
 
-### Am I Good At It?/Do I Have Experience With It?
+### Am I Good At It?/Do I Have Experience With It?/Do I Get Good Grades?
 
 People love to think about their current abilities. It's an
 understandable habit: you want to compare yourself to your peers. If
@@ -54,11 +55,11 @@ you put in time and energy towards learning CS, you'll do
 significantly better than someone who started out with a great
 foundation but stagnated in their practice.
 
-This happens all the time in sports. Bob beats Alex in a game or a
-match, and from then on Bob has in his mind that he's better than
-Alex. His friends talk about how Alex is so good, so fast, but Bob
-brushes it off saying "ah whatever, I beat Alex." But come rematch
-time two months later, Bob might be surprised to see himself losing to
+This happens all the time in sports. Bob beats Alex in a match, and
+from then on Bob has in his mind that he's better than Alex. His
+friends talk about how Alex is so good, so fast, but Bob brushes it
+off saying "ah whatever, I beat Alex." But come rematch time two
+months later, Bob might be surprised to see himself losing to
 Alex. Turns out, if Alex is spending every day training and
 conditioning, it doesn't really matter that he lost to Bob two months
 ago. He's moving faster[^1].
