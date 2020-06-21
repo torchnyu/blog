@@ -3,9 +3,9 @@ title:  "What's In The Box?"
 date:   2020-06-20 20:00:00 -0700
 ---
 
-I've been trying to come up with proper explanations for why concepts
-like code splitting, abstraction, and naming are important. One
-analogy came to mind recently.
+I've been trying to come up with explanations for why concepts like
+code splitting, abstraction, and naming are important. One analogy
+came to mind recently.
 
 Imagine you're moving and need to pack up your stuff. Maybe your
 university kicked you out of housing. Maybe you're starting a new job.

@@ -30,32 +30,17 @@ this wasn't really what either of us wanted. I learned that asking
 someone a seemingly innocuous question can turn into an accidental
 imposition on them.
 
-As for the job, it was unpaid work that consisted of first programming
-some models from various papers that I didn't really understand. I
-wrote the first few models in MATLAB, then when that got unwieldy, I
-switched to Java. I figured out a hacky way to get MATLAB to graph the
-Java simulation by having Java output a bunch of text files that
-described the simulation, then having MATLAB load them and graph it.
-
-After that, I was partnered with a college student from Australia. He
-and I were in charge of this project involving a mechanical fish. I'll
-spare you the details but it involved attempting to waterproof a 3d
-printed fish model that would contain expensive electronics. After
-lots of failed attempts involving a 3d printer in one of the most
-disgusting rooms I've ever seen and some really messy waterproofing
-silicone material, I slipped away at the end of the summer.
-
 # Internship #1: Finance
 
 My first software development internship came about during the summer
 after my senior year of high school. I had lazed around on the couch
 for a month or so and my parents wanted me to do something with my
-summer. Another family connection put me in contact with a hedge fund
-using a Ruby and C++ stack. I emailed them and they set up an
-interview in person. The interview consisted of them reading my
-resume, asking about some projects and having me write some SQL. Even
-though I didn't know that much, they were very nice and helpful. It
-was probably the easiest job interview process I've ever been through.
+summer. A family connection put me in contact with a hedge fund using
+a Ruby and C++ stack. I emailed them and they set up an interview in
+person. The interview consisted of them reading my resume, asking
+about some projects and having me write some SQL. Even though I didn't
+know that much, they were very nice and helpful. It was probably the
+easiest job interview process I've ever been through.
 
 They emailed me back within a few days and told me when to start. The
 job was unpaid, but completely geared towards teaching me instead of
@@ -65,15 +50,14 @@ me.
 
 # Internship #2: Web Dev
 
-I left my finance internship to go travel. I traveled for a month and
-a half, then came back home around early December. After the holidays,
-I started looking for work.
+I left my finance internship to go travel. After traveling for several
+weeks, I came back and started looking for another internship.
 
 I looked around for jobs in various places, but I didn't have my
 application game down yet. I applied to a few places on sites like
-AngelList, BuiltInNYC, etc. I was a high school graduate with little
-experience applying during an off-season for internships, so I didn't
-get a lot of responses.
+AngelList, BuiltInNYC, etc. Since I was a high school graduate with
+little experience applying during an off-season for internships, I
+didn't get a lot of responses.
 
 This was honestly a very frustrating time. I spent some of it teaching
 myself Ruby on Rails, but it did suck to apply to jobs and get nothing
@@ -107,7 +91,7 @@ offer](https://www.joelonsoftware.com/2008/11/26/exploding-offer-season/)[^1]. I
 accepted it because eh, it was a job and paid (20/hr). Looking back, I
 should have extended it a little. I received an email from another
 company a few days later and it would have been
-nice to have multiple options.
+nice to have options.
 
 [^1]: Funny story, I read that exact blog post while working at this
     company. It was a wonderful moment of regret.
@@ -215,7 +199,137 @@ was quite fun. The first question I did in Haskell was a simple
 removing of duplicates in a linked list. The second was a slightly
 more complicated one involving trees. I'm not sure if Haskell was the
 right choice for either, but it was certainly fun explaining it to the
-interviewers.
+interviewers. The final interview went fairly well, though I didn't
+get the last part of the question. It was a quite cool question
+though---in binary search there's a very particular edgecase related to
+integer overflow.
 
-In terms of timeline, Microsoft was able to give me a phone screen, an
-on-campus interview
+The last interview was quite odd as well because the interviewer
+simply lead me out of the building and to the parking lot. No
+ceremonial gesture or gift bag, just essentially "get out". I assumed
+I didn't get the job.
+
+To my surprise, I got an offer. However it was an offer with a tight
+deadline, I believe 2 weeks. I tried to extend it but Microsoft
+wouldn't budge. Alas when I told my Google recruiter about said
+deadline, hoping to speed up the process, they instead rejected me. At
+least they had the decency to reject me via phone call.
+
+Putting the deadlines into perspective, I was able to apply to
+Microsoft, have a phone interview, an on-campus interview and get
+flown out to Seattle for an on-site, in the amount of time it took
+Google to schedule two phone interviews. Take that as you will.
+
+When I got to Microsoft, I actually had a meeting already scheduled
+with someone who explained that the email I sent to Anders actually
+put my name in the application system and likely got me the phone
+screen. It gets even more interesting than that, but that's another
+blog post entirely.
+
+I also sent off applications to GitHub and Stripe but was rejected. In
+GitHub's case it was due to a coding screen that honestly was pretty
+unspecified and not well designed. I was supposed to write code in a
+repo that would then be subjected to automated tests. That I couldn't
+see. Yeah...not great. Stripe autorejected me after I did their
+HackerRank screen. No clue why.
+
+# Internship #4
+
+I blocked off this summer to travel (yeah...) and work on my own
+projects, so I purposefully did not intern anywhere. However with
+coronavirus and all, I decided to take the fall semester off and work
+instead of attending online classes.
+
+While I did block off this summer, I did have one or two companies
+that I was willing to consider. I applied to Jane Street, a prop
+trading firm that is famous for using the functional programming
+language OCaml. Jane Street rejected me after a phone interview. I'm a
+little puzzled why---I thought the interview went well---but I suspect
+I just didn't wow them.
+
+I also applied to Citadel. I figured it was a shot in the dark. NYU
+isn't a target school and I don't have a 4.0 GPA.
+
+I got a phone interview, which I was actually really nervous for. I
+don't know why, but something about Citadel made me
+anxious. Fortunately the problem wasn't too hard, my mind was in the
+right place and I had some nice tricks that I pulled off. I also used
+an unconventional language. The result was one of my most successful
+interviews (in my view).
+
+After that I got invited to on-sites. Due to a miscommunication, I
+missed one of the interviews, but I managed to have three out of the
+four. Again I don't think I did very well. I got the first interview
+fairly well, but I got stuck on the last question and claimed that the
+algorithm was O(n log n) and not O(n)[^3]. I got the second question
+reasonably well since it was a more finance specific question,
+although I had a weird bug that confused even my interviewer. The
+third interview wasn't great. I didn't get very far at all and missed
+a really elementary optimization. I got the feeling the interviewer
+was a little disappointed.
+
+[^3]: Okay okay technically it's both because big-O are sets for upper
+    bounds but I'm not gonna write an omega here.
+
+In a recurring theme, I thought I did badly, but somehow I got an offer.
+
+Funny story, I actually forgot what season my Citadel application was
+for, so I asked the recruiter. She responded that she was going to ask
+me that question!
+
+While I was waiting for the Citadel offer process to go through, I
+decided on a whim to apply to Cloudflare. I had read their blog posts
+and knew they were working in WebAssembly, Rust and compilers, all
+areas of interest for me.
+
+I knew they had summer internships open still, but I wanted a fall
+internship. I decided to cold email the one person whose email I could
+easily get: the CEO. I got his email off of Twitter and shot off an
+email.
+
+A quick disclaimer: I'm confident in sending cold emails because I
+have very particular interests that I have pursued on my own. I was
+able to craft a pretty convincing argument on why Cloudflare was a
+good fit. Please don't do this if you're just going to write an email
+arguing how you're "really passionate about computer science".
+
+The CEO responded and I got into the application process. I'm a little
+hesitant to talk about this process because this was a very unique
+situation. I happened to have experience in a somewhat niche area that
+Cloudflare also happened to be working in.
+
+Yadda yadda, I got an offer from Cloudflare. I deliberated a little
+bit: The Citadel offer was quite generous. The Cloudflare offer, while
+still generous, was not at the level of a top hedge fund. However the
+Cloudflare offer was such a great fit in terms of technologies that I
+couldn't resist. I'm really appreciative to both companies for taking
+the time to meet with me. And I'm super excited to be working at
+Cloudflare in the fall!
+
+# Conclusions
+
+I've learned a few lessons from these applications:
+
+- When you're starting out, apply EVERYWHERE. Don't be too
+  proud. Anything that is paid and programming will help you immensely
+  moving forward
+
+- Once you get offers, be more particular. Vet the companies and push
+  back against exploding offers.
+
+- Try unconventional application methods. Send cold emails **if you
+  have something to say**. Use family contacts. Be shameless
+
+- It's okay to not have internships sometimes. Especially if you have
+  your own projects. You may go from begging companies to give you the
+  time of day to declining internships faster than you'd think.
+
+- Getting good at a popular technology can be helpful. Knowing React
+  and modern front-end has helped me a lot in various ways.
+
+- Developing a niche can also be good. You don't have to, but if you
+  can honestly claim to be one of maybe 30 people who can do xyz, that
+  makes you a waaaay better sell.
+
+- Your perception of interview performance is not correlated at all to
+  how you actually did. If anything it's negatively correlated.

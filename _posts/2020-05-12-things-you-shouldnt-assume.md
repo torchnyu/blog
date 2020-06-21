@@ -59,7 +59,7 @@ mindbogglingly hard or stupifyingly easy. From 500 feet up, it's all
 the same.
 
 And no, professors won't try their tests on other students as a
-baseline. See above.
+baseline.
 
 # The Test Will *Actually* Be Cumulative
 
@@ -81,13 +81,13 @@ they know the end material since it was just taught and besides, the
 professor only spent like a day on Stokes', he spent a whole week on
 vectors.
 
-Again, don't take this as an excuse to not study the whole
+Don't take this as an excuse to not study the whole
 curriculum. Just remember to polish up the end material.
 
 
 # The Class Will Be Like Last Year
 
-Professors are wild untrained beasts. Would you assume a tiger follows
+Professors are wild unhinged beasts. Would you assume a tiger follows
 a pattern? Then why a professor?
 
 # AP Credit Means I'm Prepared

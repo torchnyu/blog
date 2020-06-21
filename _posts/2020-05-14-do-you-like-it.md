@@ -62,7 +62,7 @@ off saying "ah whatever, I beat Alex." But come rematch time two
 months later, Bob might be surprised to see himself losing to
 Alex. Turns out, if Alex is spending every day training and
 conditioning, it doesn't really matter that he lost to Bob two months
-ago. He's moving faster[^1].
+ago. Bob is moving faster[^1].
 
 [^1]: If you want an example, watch the documentary Rocky 2
 
@@ -80,12 +80,12 @@ subject, then they'll work at it more, which means they'll find it
 easy. Just because you find it easy doesn't mean you like it.
 
 Easiness is again a position based judgement. You currently find your
-work easy. But as you progress and as you go up the levels in CS, I
-guarantee that you will find some area that is not easy. Everybody
-struggles with something. I know I've struggled with understanding
-client versus server code, with typechecking, with figuring out
-goddamn OAuth. If you're doing CS because it's easy, you may run into
-trouble when it stops being easy.
+work easy. As you progress and go up the levels in CS, I guarantee
+that you will find some area that is not easy. Everybody struggles
+with something. I've struggled with understanding client versus server
+code, with typechecking, with figuring out goddamn OAuth. If you're
+doing CS because it's easy, you may run into trouble when it stops
+being easy.
 
 ### Do I Like Math/Physics/Design?
 
@@ -191,11 +191,11 @@ sign.
 
 If you're reading this article and thinking "oh no, I don't like
 programming that much", stop. Breathe. Let the impostor syndrome
-fade. Then reanalyze your situation. As I've said before, you don't
-have to like programming 100% of the time. When you're starting out,
-programming is a completely new world to you. It should be confusing
-and challenging. Sometimes it takes a little time for the small bits
-and bytes of joy to spark into liking or loving programming.
+fade. Then reanalyze your situation. You don't have to like
+programming 100% of the time. When you're starting out, programming is
+a completely new world to you. It should be confusing and
+challenging. Sometimes it takes a little time for the small bits and
+bytes of joy to spark into liking or loving programming.
 
 And it could just be that you haven't learned programming in the right
 time in your life. I tried to learn programming several times before
