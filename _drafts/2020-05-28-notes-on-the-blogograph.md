@@ -22,3 +22,6 @@ to write blogs, such as:
 
 - If you're out of ideas for posts, talk with people and keep track of
   your kvetches.
+
+- Try to make posts shorter (still working on that!)
+

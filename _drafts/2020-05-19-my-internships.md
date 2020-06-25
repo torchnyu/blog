@@ -227,7 +227,7 @@ screen. It gets even more interesting than that, but that's another
 blog post entirely.
 
 I also sent off applications to GitHub and Stripe but was rejected. In
-GitHub's case it was due to a coding screen that honestly was pretty
+GitHub's case it was due to a coding screen that was pretty
 unspecified and not well designed. I was supposed to write code in a
 repo that would then be subjected to automated tests. That I couldn't
 see. Yeah...not great. Stripe autorejected me after I did their
@@ -300,11 +300,11 @@ Cloudflare also happened to be working in.
 
 Yadda yadda, I got an offer from Cloudflare. I deliberated a little
 bit: The Citadel offer was quite generous. The Cloudflare offer, while
-still generous, was not at the level of a top hedge fund. However the
-Cloudflare offer was such a great fit in terms of technologies that I
-couldn't resist. I'm really appreciative to both companies for taking
-the time to meet with me. And I'm super excited to be working at
-Cloudflare in the fall!
+still quite good, was not at the level of a top hedge fund. However
+the Cloudflare offer was such a great fit in terms of technologies
+that I couldn't resist. I'm really appreciative to both companies for
+taking the time to meet with me. And I'm super excited to be working
+at Cloudflare in the fall!
 
 # Conclusions
 

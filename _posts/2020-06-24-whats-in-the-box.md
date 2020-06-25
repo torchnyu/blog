@@ -1,6 +1,6 @@
 ---
 title:  "What's In The Box?"
-date:   2020-06-20 20:00:00 -0700
+date:   2020-06-24 20:00:00 -0700
 ---
 
 I've been trying to come up with explanations for why concepts like
