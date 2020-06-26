@@ -253,3 +253,29 @@ through a logical lens. Pejoratively, nobody likes a know-it-all.
 To prevent this temptation, I would recommend taking humanities
 courses that do not approach the technical. It's a lot less tempting
 to take a logical, rigorous approach to film than linguistics.
+
+# I've Learned Enough
+
+When I've made these arguments to my friends, they've acknowledged
+that humanities are useful. It's quite hard to make the claim that
+humanities are absolutely devoid of merit. They then go on to make the
+claim that there is a limit to which one should learn humanities and
+they have reached that limit.
+
+I disagree that there is a limit for humanities. The humanities are a
+reflection of the world and the people within it. As humanity changes,
+so do the humanities. The [Overton
+window](https://en.wikipedia.org/wiki/Overton_window) shifts. Ever
+wonder how certain old people stay rooted in their outdated beliefs?
+They stopped learning. The times are always a-changing and if you
+don't start swimming, you'll sink like a stone.
+
+> Come gather ’round people
+> Wherever you roam
+> And admit that the waters
+> Around you have grown
+> And accept it that soon
+> You’ll be drenched to the bone
+> If your time to you is worth savin’
+> Then you better start swimmin’ or you’ll sink like a stone
+> For the times they are a-changin’
