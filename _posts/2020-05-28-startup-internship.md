@@ -68,16 +68,16 @@ sound so bad, right?
 
 Yeah it is damn well is pretty bad. You are actively helping a person
 who is blatantly exploiting people, namely yourself. There's something
-truly mean about giving an intern a pile of work and
-very little guidance. It's profoundly discouraging and not fun at all.
+truly mean about giving an intern a pile of work and very little
+guidance. It's profoundly discouraging.
 
-Not to mention your boss is using the title of intern to artificially
-create a power dynamic. Internships are ways for students to learn
-about various topics, whether that be technical skills or business
-knowledge. There is a relationship implicit in this arrangement:
-you---the intern---are the apprentice, they are the master. In the
-absence of training, the company is simply trying to maintain the
-illusion of this power dynamic without any of the requisite mastery.
+Your boss is using the title of intern to artificially create a power
+dynamic. Internships are ways for students to learn about various
+topics, whether that be technical skills or business knowledge. There
+is a relationship implicit in this arrangement: you---the intern---are
+the apprentice, they are the master. In the absence of training, the
+company is simply trying to maintain the illusion of this power
+dynamic without any of the requisite mastery.
 
 I've seen this used far too often with students or recent graduates
 who start companies. They find students who are maybe a year or two

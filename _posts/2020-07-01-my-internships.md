@@ -1,20 +1,20 @@
 ---
-title:  "My Internship Applications"
-date:   2020-05-19 20:00:00 -0700
+title:  "My Internships: Applying"
+date:   2020-07-01 18:00:00 -0700
 ---
 
 I'm going to do something a little different. Because this blog has
 clearly been lacking some self indulgence, I'm going to talk about my
-personal journey applying to internships. Due to a few factors, I was
-lucky enough to start programming seriously in high school. I then
-took a gap year, which allowed me to intern at two different places. I
-then spent the summer after my freshman year working on a Google
-Summer of Code project (not an internship!). The summer after my
-sophomore year I was lucky enough to get an internship at
-Microsoft. Finally I just finished a round of internship applications
-for next fall and am interning at Cloudflare. I'm going to walk
-through how I applied, interviewed and got the offer from each
-place.
+personal journey interning at various places. First up is the job
+application process. Due to a few factors, I was lucky enough to start
+programming seriously in high school. I then took a gap year, which
+allowed me to intern at two different places. I then spent the summer
+after my freshman year working on a Google Summer of Code project (not
+an internship!). The summer after my sophomore year I was lucky enough
+to get an internship at Microsoft. Finally I just finished a round of
+internship applications for next fall and am interning at
+Cloudflare. I'm going to walk through how I applied, interviewed and
+got the offer from each place.
 
 Overall I've been very fortunate in many ways: I've utilized family
 connections; I've had gambles work out and I've had some excellent

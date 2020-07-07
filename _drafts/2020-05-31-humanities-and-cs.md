@@ -270,12 +270,3 @@ wonder how certain old people stay rooted in their outdated beliefs?
 They stopped learning. The times are always a-changing and if you
 don't start swimming, you'll sink like a stone.
 
-> Come gather ’round people
-> Wherever you roam
-> And admit that the waters
-> Around you have grown
-> And accept it that soon
-> You’ll be drenched to the bone
-> If your time to you is worth savin’
-> Then you better start swimmin’ or you’ll sink like a stone
-> For the times they are a-changin’
