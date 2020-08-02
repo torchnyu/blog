@@ -1,6 +1,6 @@
 ---
 title:  "Humanities and CS"
-date:   2020-05-31 20:00:00 -0700
+date:   2020-07-08 20:00:00 -0700
 ---
 
 I've written about a multitude of subjects on this blog. Mostly areas
@@ -39,13 +39,18 @@ experience, and would do zero programming after the fact, I'd find it
 very very hard to make it interesting. It's an inherently daunting
 task.
 
+Try to do your best to separate the humanities from your specific
+experiences in core classes. Writing off humanities because of core is
+like writing off all vegetables because of steamed broccoli.
+
 # Contextualization
 
 Programming doesn't exist in a void. Each and every one of us, by
 programming, is effecting change on the world. To quote Marc
 Andreessen, software truly is eating the world. As programmers, we
 hold immense power. Our code holds people's most private secrets. Our
-models read their data and invade their privacy.
+models read their data and model their movements. Our work is an
+integral part of the modern world.
 
 Humanities can give us insight into these issues. For instance the
 concept of [surveillance
@@ -180,6 +185,11 @@ we try to lay claim to objectivity. We try to make statements like
 "subjectively, when I deploy, I feel like Docker is the best way to do
 it".
 
+It's tempting to avoid the humanities, to denigrate it, because of its
+lack of objectivity. Instead I urge the opposite---learn as much as
+you can from the humanities and its subjectivity. It will help you in
+your work and in your life.
+
 # You Already Study Humanities
 
 This may come as a shock, but as a person living in the world, you are
@@ -269,4 +279,3 @@ window](https://en.wikipedia.org/wiki/Overton_window) shifts. Ever
 wonder how certain old people stay rooted in their outdated beliefs?
 They stopped learning. The times are always a-changing and if you
 don't start swimming, you'll sink like a stone.
-
