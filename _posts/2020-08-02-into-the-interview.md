@@ -1,6 +1,6 @@
 ---
 title:  "Into The Interview"
-date:   2020-08-01 20:00:00 -0700
+date:   2020-08-02 10:00:00 -0700
 ---
 
 I've talked about interviews
@@ -27,11 +27,12 @@ doing the actual activity, instead opting to do fake
 alternatives.
 
 With interviewing, this is definitely true. You should be practicing
-interviews in as close to a real environment as possible. You should
-have a friend play the role of an interviewer. They should not joke
-around with you, at least not as much as normally. They should ask you
-both the technical and interpersonal questions that you get in a
-standard interview. Ideally this friend should have actual experience
+interviews in as close to a real environment as possible. Leetcode can
+be useful, but it's not the same as an interview. You should have a
+friend play the role of an interviewer. They should not joke around
+with you, at least not as much as normally. They should ask you both
+the technical and interpersonal questions that you get in a standard
+interview. Ideally this friend should have actual experience
 interviewing. That way they can accurately mimick a technical
 interview.
 
@@ -232,6 +233,10 @@ slowest algorithm. It doesn't matter if your code runs faster for
 optimal inputs. It doesn't matter if you turned your O(n log n)
 algorithm into O(n) if it's immediately followed by an O(n^2) algorithm.
 
+Of course, this part depends on your data structures and algorithms
+knowledge. If you haven't taken a course on this yet, I'd recommend
+learning on your own.
+
 # Keep It Simple
 
 It's quite rare that you'll need to use anything fancy. The fanciest
@@ -252,8 +257,19 @@ sometimes my brain is just too fried to come up with questions.
 
 # After The Interview
 
-Once you're done with the interview, go relax! Often I treat myself to
-a nice meal.
+If you have multiple interviews, like with an on-site, you'll need to
+keep yourself in the right mindset in between interviews. Try to
+relax, let your mind recover from the interview. I tend to drink a lot
+of water and maybe a coffee. You can do some breathing techniques or
+repeat some mental mantras if that helps. Multiple interviews are
+*hard*. I've been totally fried after three in a row.
+
+If you think that you did badly on one interview, try to not let it
+affect your attitude going into your next one. You can do it!
+
+Once you're done, go relax! Often I treat myself to a nice
+meal. Interviewing is tough and just getting through it is an
+accomplishment.
 
 As for results, try to have zero expectations. I've gotten jobs when I
 thought I did badly and I've gotten rejected when I thought I did
