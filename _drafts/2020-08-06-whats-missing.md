@@ -73,4 +73,122 @@ the following resources:
 - [Lambda Calculus](https://www.youtube.com/watch?v=eis11j_iGMs) is a
   fundamental concept in PL. Computerphile has a great video on it.
 
-# Networks, Databases
+# Networks, Databases & Other Systems Stuff
+
+I actually consider NYU's systems classes some of the more interesting
+and informative classes that I've taken. However they lack a few
+areas. We don't learn how databases work and we don't learn about
+networks.
+
+Both are fairly essential. Databases are at the center of every
+application. Everybody needs to store data somehow. Networks are
+crucial for communication; you can't have the internet without
+networks. They're also *the* application for graph theory.
+
+We do have a databases course, but it appears to be a very
+introductory one without any real meat. Which is a shame because
+databases are an area where a little knowledge can go a long
+way. Whether it's using tools like indices or views, or understanding
+relational algebra, database knowledge can pay off in making your data
+simpler, easier to understand and easier to work with.
+
+NYU also omits distributed systems for the most part. While they're
+not as ubiquitous as databases, distributed systems are pretty common
+in large companies. Most large tech companies like Amazon or Microsoft
+operate distributed systems in the form of S3 or Cosmos. If you work
+at a big N, you'll likely have to use some distributed systems
+knowledge.
+
+I'm not an expert on this areas, but here's some resources I've been
+meaning to look at myself:
+
+- [Use The Index, Luke](https://use-the-index-luke.com/) is a great
+  site for understanding database performance
+
+- [Networking Zine](https://jvns.ca/networking-zine.pdf) by Julia
+  Evans looks wonderful for understanding networks.
+
+- [Computer
+  Networks](https://www.amazon.com/Computer-Networks-Andrew-S-Tanenbaum-ebook/dp/B006Y1BKGC)
+  is a classic text on networks.
+
+- [SQL for Web Nerds](http://philip.greenspun.com/sql/) is something I
+  found on the internet just now, but hey Hacker News recommended it,
+  so how bad could it be?
+
+- [Paxos Made
+  Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) is
+  an explanation of Paxos, one of the most important consensus
+  algorithms for distributed systems, from the creator themself,
+  Leslie Lamport. It miiiight not be as simple as it claims, since
+  Lamport is a rather brilliant person.
+
+# Software Engineering
+
+This is a commonly mentioned one. Many NYU CS students graduate with
+little to no software engineering knowledge. Those that do often get
+their knowledge from outside sources.
+
+When people talk about software engineering knowledge, they often mean
+stuff like knowing how to build a front-end app, or being able to
+write a back-end API. That's great and stuff that you should
+definitely know. If you're interested in learning more, join
+[Spark](https://spark.torchnyu.com/), Torch's mentorship program.
+
+However, this is not the software engineering knowledge that I'd like
+NYU to impart. Practical knowledge is hard to teach and requires
+teachers who are perpetually up to date---ideally in industry
+themselves. Instead I'd love NYU to teach software engineering
+**technique**. As any programmer can atest, software engineering is
+more than just writing code. It's about code quality, team management,
+product, infrastructure, dependency management, user experience, and a
+whole slew of other factors.
+
+How do we teach these factors? Easy. Reading! I know, some of you
+don't like reading. Some of you would rather debug raw hex code than
+read Joseph Heller. Unfortunately there's a lot of knowledge hidden in
+books and the only way to retrive it is to read them.
+
+I'd love for students to learn about concepts like Brooks' Law: Adding
+manpower to a late software project makes it later. That way when your
+boss talks about hiring 2 more developers to help ship the behind
+schedule, over budget project, you can flash back to your software
+engineering class and jump ship.
+
+It's incredible to me that we teach programmers without any real
+respect given to our predecessors. They encountered many of our
+problems. It's only fair of us to listen.
+
+Here's some more resources:
+
+- [Jeff Atwood's book
+  list](https://blog.codinghorror.com/recommended-reading-for-developers/)
+  is a great starting point. Definitely take a look and read some of these.
+
+- [The Mythical Man
+  Month](https://www.amazon.com/dp/0201835959/?tag=codihorr-20). It's
+  on Jeff Atwood's list, but hey, I know some people don't click
+  links. Brooks' law comes from this book. It's probably the most
+  influential book on software engineering. Read it.
+
+- [Smart And Gets Things
+  Done](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+  is a book on hiring. Why would you read a book on hiring? How your
+  company hires determines who your company hires determines your
+  experience at the company. If you apply for a job at a company and
+  their hiring process is less than ideal, don't work there.
+
+- [Joel on Software](https://www.joelonsoftware.com/) and [Coding
+  Horror](https://blog.codinghorror.com/) are two classic blogs on
+  software engineering. They're a little old, but their knowledge is
+  still really useful.
+
+- [Spark](https://spark.torchnyu.com/) is Torch's mentorship
+  program. We're mostly teaching the nitty gritty details, but you're
+  working on a team with other people, so you'll get to pick up the
+  technique as well. Plus you get to be mentored by me!
+
+- [Get A
+  Job](https://blog.torchnyu.com/2020/01/02/first-job.html). Ultimately
+  this is the best way to learn. Get an internship and you'll learn
+  more about how to write software in three months than in four years.
