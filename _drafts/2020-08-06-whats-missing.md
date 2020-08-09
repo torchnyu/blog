@@ -192,3 +192,71 @@ Here's some more resources:
   Job](https://blog.torchnyu.com/2020/01/02/first-job.html). Ultimately
   this is the best way to learn. Get an internship and you'll learn
   more about how to write software in three months than in four years.
+
+# Security
+
+Security is another area we woefully neglect. Which is odd since
+security permeates every programming job ever. Even if you don't end
+up in tech. Even if you give up CS to pursue your dream of a PhD in
+mid-to-late-20th century LGBTQ+ Spanish film, security is an essential
+part of modern life.
+
+Forget CS students. We should be teaching everybody how passwords
+work. Everybody should have a working understanding of password
+hashing, of password complexity and of how people can brute force
+passwords. Everybody should know enough that if a website emails them
+a plaintext password, they should delete that account and change all
+of their passwords. Everybody should know about phishing scams, about
+social engineering, about verifying identity.
+
+We should be teaching people to use password safes and not create
+passwords from their kids names and birthdays. We should be teaching
+them to, yes, use two factor authentication. Sorry but NYU got this
+one right[^1].
+
+[^1]: Kinda. They could make it so MFA stayed valid for longer than a
+    day.
+
+For CS students, we shouldn't stop there. We should understand how
+classic symmetric and asymmetric algorithms work. Asymmetric
+encryption powers the internet. We should learn about elliptic curves
+and key generation algorithms. We should learn about SSH keys, about
+HTTPS, about how to create secure systems.
+
+But wait, there's even more! We haven't even covered the really
+technical topics like buffer overflows or speculative execution
+attacks. These aren't the easiest to understand but hey, Spectre
+literally affected almost every computer around.
+
+This is only the tip of the iceberg. I'm not an expert on security,
+far from it. Here's a few resources to help you:
+
+- [Troy Hunt](https://www.troyhunt.com/) blogs a lot about
+  security. He has great recommendations on passwords and general web
+  security.
+
+- The [Spectre Paper](https://spectreattack.com/spectre.pdf) isn't a
+  bad read if you know your computer architecture.
+
+- [Diffie-Hellman](https://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english)
+  is super super foundational for the internet. I'd recommend
+  understanding it.
+
+# Keep Learning
+
+If you read this and think "geez, there's a lot of gaps in NYU's
+education", you wouldn't be wrong. NYU doesn't teach a lot of subjects
+that I believe are essential. However the same is true of all schools
+to some extent or another. Nobody leaves college knowing enough. It's
+not like your professors coordinate and figure out exactly what to
+teach so that every student gets a perfectly seamless and
+comprehensive education. No, they teach their course and if they run
+out of time and some material falls through the cracks, well too
+bad. Not to mention, each and every person's definition of enough is
+different---and changes as time passes.
+
+What's an ambitious student to do? For one, don't take school as the
+be all end all of knowledge. School is but one place where you can
+learn. Don't use "it wasn't taught" as an excuse for not knowing
+something. Read books, watch videos, ask people about different
+topics. You may surprise yourself with what you discover.
