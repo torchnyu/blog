@@ -3,7 +3,6 @@ title:  "Notes On the Blogograph"
 date:   2020-08-15 10:00:00 -0700
 ---
 
-
 Happy Birthday Burn Rate! It's officially been one year since I wrote
 the first post on this blog. What started out as a reddit comment on
 how to survive CSO morphed into a post on my personal blog and then
@@ -18,19 +17,18 @@ even [the
 humanities](https://blog.torchnyu.com/2020/07/08/humanities-and-cs.html).
 
 Since I purposefully didn't add analytics to my blog, I don't have any
-numbers on how many people have read my blog. Frankly I'm fine with
-that. I don't feel any obligation to grow my readership or cater to
-anybody.
+numbers on how many people have read my blog. I'm fine with that. I
+don't feel any obligation to grow my readership or cater to anybody.
 
 # What I've Learned
 
-Over the course of this year (and 35 posts!), I've learned a few good
+Over the course of this year (and 35+ posts!), I've learned a few good
 lessons on writing blog posts.
 
 - If your intro or conclusion feels awkward or stilted, omit it. It's
 completely fine to jump into the content and leave just as quickly.
 
-- Remove as many filler words like "Okay but", "um", "so", etc. as
+- Remove as many filler words like "Okay but", "well", "so", etc. as
 possible without sounding like a robot. It's more than you'd think.
 
 - Or as Strunk and White espouse: Omit needless words.

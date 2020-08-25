@@ -62,7 +62,7 @@ off saying "ah whatever, I beat Alex." But come rematch time two
 months later, Bob might be surprised to see himself losing to
 Alex. Turns out, if Alex is spending every day training and
 conditioning, it doesn't really matter that he lost to Bob two months
-ago. Bob is moving faster[^1].
+ago. Alex is moving faster[^1].
 
 [^1]: If you want an example, watch the documentary Rocky 2
 

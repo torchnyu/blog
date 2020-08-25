@@ -1,18 +1,17 @@
 ---
 title:  "What's Missing"
-date:   2020-08-06 10:00:00 -0700
+date:   2020-08-12 10:00:00 -0700
 ---
 
 I wrote a post talking about the topics [you should
-know](https://blog.torchnyu.com/2020/05/31/stuff-you-should-know.html). In
-the process of writing that post, I realized there were a lot of
-topics I'd like to put on the list, but couldn't. My criterion for
-inclusion in the list was that the topic needed to be taught in some
-shape or form by an NYU CS course, ideally a core one. If one
-professor taught the topic but not others? Fine. But it needed to be
-something that an NYU student could have conceivably stumbled upon. In
-the spirit of kvetching about NYU, here's some of these topics I wish
-NYU taught.
+know](https://blog.torchnyu.com/2020/05/31/stuff-you-should-know.html). While
+writing that post, I realized there were a lot of topics I'd like to
+put on the list, but couldn't. My criterion for inclusion in the list
+was that the topic needed to be taught in some shape or form by an NYU
+CS course, ideally a core one. If one professor taught the topic but
+not others? Fine. But it needed to be something that an NYU student
+could have conceivably stumbled upon. In the spirit of kvetching about
+NYU, here's some of these topics I wish NYU taught.
 
 # Programming Languages
 
@@ -55,6 +54,12 @@ need to know some software engineering to write a compiler and design
 an effective language. You might even need some machine learning
 knowledge if you're writing the [right sort of
 compiler](https://www.tensorflow.org/swift).
+
+A lot of problems become easier to classify when you think of them as
+programming language problems. Dealing with formats like XML, JSON,
+FIX? That's a parsing problem. Automatically creating scripts and
+templates? That's a code generation problem. Validating data? That's a
+typechecking problem.
 
 If you want to learn more about programming languages, I'd recommend
 the following resources:
@@ -251,11 +256,11 @@ to some extent or another. Nobody leaves college knowing enough. It's
 not like your professors coordinate and figure out exactly what to
 teach so that every student gets a perfectly seamless and
 comprehensive education. No, they teach their course and if they run
-out of time and some material falls through the cracks, well too
-bad. Not to mention, each and every person's definition of enough is
+out of time and some material falls through the cracks, well so be
+it. Not to mention, each and every person's definition of enough is
 different---and changes as time passes.
 
-What's an ambitious student to do? For one, don't take school as the
+What's an ambitious student to do? Don't take school as the
 be all end all of knowledge. School is but one place where you can
 learn. Don't use "it wasn't taught" as an excuse for not knowing
 something. Read books, watch videos, ask people about different
