@@ -2,3 +2,5 @@
 - Communication skills
 - Internship postmortem
 - Front end development
+- There's always a bigger fish
+- Keep it simple
