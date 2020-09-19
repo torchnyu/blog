@@ -1,5 +1,5 @@
 ---
-title:  "Think The Worst: Pessimism and Programming"
+title:  "Think The Worst: The Value of Pessimism"
 date:   2020-09-18 10:00:00 -0700
 ---
 

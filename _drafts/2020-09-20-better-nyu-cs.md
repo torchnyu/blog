@@ -1,0 +1,20 @@
+- Remove scarcity mindset
+- Collect testimony
+- More practical education
+- More practice within classes
+  - 5 labs should be 10
+  - There should be one lab that you code from scratch
+- Honors
+  - Revive honors program
+  - Actively advertise it
+  - Recruit talented students
+- Need more professors
+- Student TAs (but not feasible)
+- Better career opportunities
+- Mentorship with upperclassmen
+- Co-op program
+- Credit for working on open source projects
+- Get famous/respected professors to teach (Subhash Khot!)
+- Student run courses
+- J-term: https://missing.csail.mit.edu/
+- A community engagement position - underrepresented minority
