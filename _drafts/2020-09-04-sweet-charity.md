@@ -82,9 +82,20 @@ claim your code is bad.
 # Ignorance
 
 Ask yourself, do I know enough to make this claim? Or am I
-unnecessarily confident in my ignorance?
+unnecessarily confident in my ignorance? Dunning-Kruger is a
+real, valid phenomenon. The people who know the least can have
+the strongest opinions.
+
+At the same time, don't be afraid of having strong opinions. Just
+use them as an impetus to do research. Read various sources, listen
+to different people and if the evidence starts to match up to your
+viewpoint, then you can start making claims.
+
+Use your viewpoint as a hypothesis, not a theorem.
 
 # Making The Claim
 
 Once you have decided to make the claim, do it with tact. Do not do it
-in public.
+in public. Do not cast aspersions. Do not make it personal. But do be firm.
+If you've truly done your research and made a solid argument, then you should
+be firm in your view.
