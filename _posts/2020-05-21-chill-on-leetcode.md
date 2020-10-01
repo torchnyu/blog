@@ -11,7 +11,7 @@ is inevitably for them to "grind Leetcode".
 
 Leetcode, for those of you who don't know, is a site where users can
 practice technical interview problems. You can take your pick of
-interview questio and solve it with your language of choice. These
+interview questions and solve it with your language of choice. These
 questions are usually some sort of programming challenge involving
 data structures and algorithms---kind of the programming equivalent of
 a brainteaser.
