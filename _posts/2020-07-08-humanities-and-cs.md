@@ -20,7 +20,7 @@ languages. The ostensible purpose of these courses are to provide "a
 foundational academic experience of general education in the liberal
 arts for undergraduates".
 
-I don't disagree with this sentiment. I'll expand shortly on why these
+I don't disagree with this sentiment. I'll expand shortly on why this
 foundation is necessary. But before that, I'd like to emphasize:
 
 > Studying the humanities is **NOT** equivalent to taking core classes
@@ -31,7 +31,7 @@ classes, finding them boring, then writing off all humanities.
 The problem is that core classes are *hard to teach*. You're not
 teaching a traditional major based intro class, so you can't spend too
 much time on the basics, but you also can't jump into the more
-advanced topics that are interesting because they require too much
+advanced topics that are interesting because they require too many
 technicalities.
 
 If I had to teach a programming class where students came in with zero
