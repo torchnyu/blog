@@ -139,7 +139,7 @@ careers.
 Another kinda reasonable one. If you value your relationship with your
 parents and they truly do not believe in gap years, it might not be
 worth it. Just remember this is your life. If you're not ready or
-interesting in college, your parents aren't going to change that. This
+interested in college, your parents aren't going to change that. This
 might be a time to push back. Your relationship with your parents does
 not have to be a continuous function.
 
