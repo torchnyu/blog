@@ -1,6 +1,6 @@
 ---
 title:  "Use Your Runway"
-date:   2020-08-25 20:00:00 -0700
+date:   2020-10-07 10:00:00 -0700
 ---
 
 I've been working on [Spark](https://spark.torchnyu.com/), Torch's
@@ -71,6 +71,10 @@ bad rap, but it does pay to know really smart, really interesting
 people. You can get referrals, career advice, even potential partners
 if you want to do a startup or other venture.
 
+Also you should be having fun! Nobody should have their college
+experience be just studying and work. Even during a pandemic, you can
+find fun, safe activities to do.
+
 
 # The Right Reasons
 
@@ -133,4 +137,5 @@ through eight.
 I don't mean this to imply that you can't accomplish great things or
 be super ambitious. But what's lost is that ambition is a marathon,
 not a sprint. Great works are accomplished on the scale of decades,
-not years.
+not years. If you try to burn through your physical resources to
+attain a short term goal, well you'll miss the forest for the trees.

@@ -60,6 +60,8 @@ Many would say to remove the fence. That is not the correct
 answer. You should figure out the purpose of the fence. A use that is
 not obvious is not the same as a use that doesn't exist.
 
+Go talk to the original authors. Find the purpose of the code.
+
 # Nice
 
 It's good to be nice. Being uncharitable is not nice. When someone is
@@ -67,8 +69,8 @@ uncharitable to me, I don't want to always explain gently why they're
 mistaken. Sometimes I want to tell them to fuck off. That's not nice
 either but I'm not perfect.
 
-This won't lead to anything productive. It'll just lead to emotion and
-anger and wasted time.
+This won't lead to anything productive. It'll just lead to bitterness
+and anger and wasted time.
 
 Even if people handle your lack of charity with more grace, it will
 have an effect. They might be less eager to share work. They might not
@@ -82,8 +84,9 @@ claim your code is bad.
 # Ignorance
 
 Ask yourself, do I know enough to make this claim? Or am I
-unnecessarily confident in my ignorance? Dunning-Kruger is a
-real, valid phenomenon. The people who know the least can have
+unnecessarily confident in my ignorance?
+[Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+is a real, valid phenomenon. The people who know the least can have
 the strongest opinions.
 
 At the same time, don't be afraid of having strong opinions. Just
@@ -95,7 +98,43 @@ Use your viewpoint as a hypothesis, not a theorem.
 
 # Making The Claim
 
-Once you have decided to make the claim, do it with tact. Do not do it
-in public. Do not cast aspersions. Do not make it personal. But do be firm.
-If you've truly done your research and made a solid argument, then you should
-be firm in your view.
+Once you have decided to make the claim against someone's code, do it
+with tact. Do not do it in public. Do not cast aspersions. Do not make
+it personal. Try to keep an open mind. It's quite possible they do
+indeed have a justification that you didn't anticipate. If that is the
+case, withdraw your claim as cleanly as possible.
+
+# Negotiation
+
+Everything is negotiable. Many developers take the absolutist
+view. They believe that code is either great or terrible. They believe
+that they *must* speak out about bad code. Perhaps it's an effect of
+dealing with ones and zeros, true and false all the time. Regardless,
+it's not a tenable approach. The absolutist will always have some bug
+to bear, some campaign to lead, an endless quixotic quest. No codebase
+is perfect. No product has enough features.
+
+Software development is fundamentally about trade-offs. One trades off
+code quality for features, performance for developer time,
+etc. There's no way to get everything at once. If someone promises you
+perfect software, you're getting tricked.
+
+Ask yourself if the flaw that you perceive could have been a
+tradeoff. The code that is ugly and flawed but makes the company money
+is more valuable than the beautiful code that sits unused, the company
+already having gone bankrupt.
+
+The authors of the code may very well have known the issues you are
+raising, but prioritized something else entirely.
+
+Of course the priorities may be different now. Code debt may be
+accrued up front but paid down later.
+
+# It's Just Code
+
+At the end of the day it's just code. It's not your life. Good code is
+worth aspiring towards, but it's not your mission in life. Don't take
+it personally.
+
+When you decide to improve code, do it with patience and tact, with
+empathy and open ears.
