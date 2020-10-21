@@ -1,6 +1,6 @@
 ---
 title:  "The Karate Kid Is Bullshit"
-date:   2020-10-08 20:00:00 -0700
+date:   2020-10-20 10:00:00 -0700
 ---
 
 The Karate Kid is a bullshit movie. It's about a kid who learns karate
@@ -26,7 +26,7 @@ Wait, isn't this supposed to be a tech blog?
 
 As it turns out, there's some similarities between The Karate Kid and
 how people view tech recruiting[^1]. A lot of people are obsessed
-about getting into FAANG/big N/unicorns. Hell, one of the [first
+about getting into FAANG/big N/unicorns. One of the [first
 posts](https://blog.torchnyu.com/2019/11/14/get-that-big-n-job.html)
 on this blog was about just that. I wrote it because I knew it would
 catch people's attention.
@@ -55,12 +55,13 @@ Google.
 [^2]: That's the protagonist of The Karate Kid if you haven't seen
     it. Go watch it. It's a classic even if it sucks.
 
-I definitely was not a Daniel LaRusso. I started programming when I
-was 15. I interned at two places and programmed for five years before
-I went to a big N. Lots of those years were spent reading about
-programming, writing side projects, learning different languages,
-etc. I didn't just walk in and end up in the top 1% of programmers. I
-just happened to have a head start.
+I definitely was not a Daniel LaRusso. Sure, I've interned at a big N
+company. But the process was years in the making. I started
+programming when I was 15. I interned at two places and programmed for
+five years before I went to a big N. Lots of those years were spent
+reading about programming, writing side projects, learning different
+languages, etc. I didn't just walk in and end up in the top 1% of
+programmers. I just happened to have a head start.
 
 Taking the analogy a little further, if you want to get to the top 1%
 of programmers, you should start sparring. No, I don't mean
@@ -72,18 +73,18 @@ them, so that we can learn from each other.
 
 Don't see them as competitors though. See them as benchmarks. If your
 friend Ariel is writing a compiler, how about you try writing one? If
-Justin is learning Rust, maybe you should too? I've had people
+Charlie is learning Rust, maybe you should too? I've had people
 confidently tell me that they wanted to get a Google internship when
 they could barely program. A little bit of GitHub stalking or resume
 reading would show them the issues with that aspiration.
 
 I don't want to rain on someone's parade. There's certainly a chance
-you'll read a Facebook intern's resume and come away unimpressed. I
-know people who undervalue their skills and could easily be Facebook
-or Microsoft interns. And even if you're not skilled, all that means
-is you need to train a little longer. Go make some side projects. Go
-work at other places. Practice interviewing. There's no rush. The Big
-N aren't going anywhere.
+you can get a Facebook internship, regardless of your current
+skillset. I know people who undervalue their skills and could easily
+be Facebook or Microsoft interns. And even if you're not skilled, all
+that means is you need to train a little longer. Go make some side
+projects. Go work at other places. Practice interviewing. There's no
+rush. The Big N aren't going anywhere.
 
 Of course you should apply to these companies regardless of your
 experience. You have nothing to lose and everything to gain.
@@ -93,16 +94,21 @@ people, but the truth is that barring a few exceptions, good
 programmers are social beings. They learn from others, they engage in
 technical communities and they share their knowledge.
 
-Besides the big N shouldn't always be the goal. There's a lot of
-issues with big N, which I went over in [my post about
-them](https://blog.torchnyu.com/2019/11/14/get-that-big-n-job.html).
+Not to mention, you don't need to win the karate tournament to do
+well. The entire conclusion of The Karate Kid is based around Daniel
+winning the tournament. I think that's an unrealistic expectation in
+the first place. In an individual tournament, it's a significant
+accomplishment to get to the top 8 out of 40 people. The same is true
+in tech. It's an accomplishment to get a job at the myriad of tech
+companies not in the big N. You don't need to work at Google.
 
 I know, working for Google or Facebook just sounds incredible. You're
 getting paid all of this money, you get these ridiculous perks and a
 resume boost that will help you for decades to come. But it's
 important to recognize that this is a really difficult
 accomplishment. Much as you probably won't win your first karate
-tournament ever, you probably won't join Google as your first job.
+tournament ever, you probably won't join Google as your first job. And
+you may never join Google or win a karate tournament. That's okay.
 
 Oh and don't get a mysterious Japanese man to mentor you in
 programming. Unless his name is
