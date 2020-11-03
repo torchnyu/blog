@@ -1,6 +1,6 @@
 ---
 title:  "Be More Charitable"
-date:   2020-09-04 20:00:00 -0700
+date:   2020-10-27 10:00:00 -0700
 ---
 
 We should all be more charitable. I've noticed that programmers can be
@@ -104,6 +104,10 @@ it personal. Try to keep an open mind. It's quite possible they do
 indeed have a justification that you didn't anticipate. If that is the
 case, withdraw your claim as cleanly as possible.
 
+Try to phrase your claim as a question, not as an accusation. You're
+attempting to understand the code and clarify intentions, not to
+blame or shame.
+
 # Negotiation
 
 Everything is negotiable. Many developers take the absolutist
@@ -137,4 +141,5 @@ worth aspiring towards, but it's not your mission in life. Don't take
 it personally.
 
 When you decide to improve code, do it with patience and tact, with
-empathy and open ears.
+empathy and open ears. Be more charitable and hopefully others will be
+charitable in return.
