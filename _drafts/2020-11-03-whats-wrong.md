@@ -50,7 +50,8 @@ able to fix this with some tweaks to your studying routine. You should
 still consider the above ideas of course.
 
 Be honest with yourself. It doesn't help to delude yourself on how
-much you understand. If you're not following, you're not following.
+much you understand. If you're not following the material, you're not
+following it. There's no shame in that.
 
 *Have you been attending the lectures?*
 
@@ -80,12 +81,36 @@ procrastinating a lot or studying extremely inefficiently. No class
 should require 8 hours of studying per day. Take breaks, do fun stuff
 and figure out a way to study efficiently.
 
+*When are you devoting time to this class?*
+
 The time distribution is also important. If you're devoting 10 hours a
 week, but these 10 hours are all on the day before the problem set is
 due, then you're not using your time effectively. Lots of courses work
 better if you distribute the work throughout the week. You can think
 about problem sets for a few days. You can use spaced repetition for
 your foreign language vocab.
+
+With programming tasks, you should start them almost
+immediately. Programming requires a certain amount of downtime for
+mulling over the code. You can't do that if you're rushing at the last
+minute.
+
+*How are you studying?*
+
+A lot of students never learn effective studying habits. I certainly
+don't have perfect habits.
+
+If you're studying for a test, do problems. You can read and watch all
+you want, but ultimately simulating the actual test is the only way to
+determine that you're doing things correctly.
+
+When you do problems, don't look at the answer when you get stuck. You
+won't have an answer key on the test.
+
+Aim to hit all of the major topics. I often make the mistake of trying
+to study in depth and only making it through the first fraction of the
+course. Get through the entire course at a shallow level, then go back
+for more info later.
 
 *Is this a professor issue?*
 
@@ -120,9 +145,10 @@ academic.
 
 *Have you been to tutoring/office hours?*
 
-Having someone help you is so much better than working on your own. I
-know, you were a straight-A student in high school. Suck it up and go
-to tutoring. Everybody needs a little help now and then.
+Having someone help you is so much better than working on your own. A
+lot of students were straight-A students in high school and aren't
+used to tutoring. That's a mistake. Everybody needs a little help now
+and then.
 
 *Have you considered pre-studying?*
 
@@ -141,6 +167,11 @@ it. Maybe you didn't learn it the first time around. Whatever it is,
 don't be ashamed. Just go to tutoring/office hours/ask a friend and
 get help! It'll make your life a lot easier.
 
+Professors [don't
+design](https://blog.torchnyu.com/2020/05/12/things-you-shouldnt-assume.html)
+their curriculum with the students' previous and future courses in
+mind. There's almost always gaps.
+
 *Is there anything other than school affecting your performance?*
 
 This is the ultimate one. And look---right now we're all being affected
@@ -155,10 +186,13 @@ Also, this doesn't have to be something major. Diet, exercise,
 allergies, etc. can all play a big role in your grades. Take care of
 them.
 
+Get enough sleep. That alone will determine your performance
+significantly.
+
 # Tough Versus Terminal
 
-If you're reading this because you're struggling with a course, know
-that you can and will survive. With some coordination with the
+If you're reading this because you're struggling with a course, don't
+worry!  You can and will survive. With some coordination with the
 professor, hard work and perhaps a little bit of generosity, you'll do
 just fine in the course.
 
