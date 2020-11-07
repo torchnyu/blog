@@ -141,8 +141,8 @@ culture, students would pick up on what needs to be done.
 If I were to optimize my school choice for careers, I'd pick a school
 with co-ops. Schools like Waterloo or Northeastern let students spend
 part of their semester interning at a company. Students come out of
-those schools with 3-4 great internships and a resume that makes them
-look like a senior developer.
+those schools with 3-4 great internships and a resume better than
+developers with 3-4 years of experience.
 
 # Where Then?
 
@@ -161,6 +161,9 @@ community with a veritable army of students attending every hackathon
 in sight. You can find Waterloo students at every tech company
 imaginable.
 
+Sure, a school like MIT or Harvard may have higher ranked departments,
+but that doesn't mean it's a better experience for students.
+
 If I were looking at schools at or below NYU's ranking, I'd check out
 Northeastern, Purdue, UT Austin, Stony Brook, Indiana University,
 again, approximately in that order.
@@ -170,9 +173,29 @@ again, approximately in that order.
 If you're at NYU and bummed out because of this post, sorry. I don't
 mean to put you down. This post is the culmination of a few years
 spent at NYU being disappointed at the CS program. That being said,
-you can still make the best of NYU.
+you can still make the best of NYU. Indeed, a lot of my posts are in
+that spirit.
 
-For instance, our math program is surprisingly good. I'd recommend
+[Work on side
+projects!](https://blog.torchnyu.com/2019/12/21/side-projects.html)
+[Read up on
+programming!](https://blog.torchnyu.com/2020/02/10/how-much-do-you-read.html)
+[Get a job!](https://blog.torchnyu.com/2020/01/02/first-job.html)
+
+You can also improve NYU CS! Join club leaderships. Write blogs. Make
+software to benefit NYU students. Talk to the administration about
+improvements. We can make NYU a better school with enough effort and
+time.
+
+Most students don't take advantage of being in New York, you should!
+Go to meetups when things go back to normal. Try networking with
+people.
+
+Grad classes are a great way to fill in gaps. I took graduate
+compilers where we wrote a ChocoPy to RISC-V assembly compiler. It was
+extremely fun.
+
+Outside of CS, our math program is surprisingly good. I'd recommend
 taking a couple classes if they interest you. The honors sequence is
 challenging but rewarding.
 
@@ -182,15 +205,5 @@ Cinema Studies class. Want to draw and paint? Take a Studio Art
 class. Want to learn from world class journalists? Take a journalism
 class.
 
-While most students don't take advantage of being in New York, you
-should! Go to meetups when things go back to normal. Try networking
-with people.
-
-Grad classes are a great way to fill in gaps. I took graduate
-compilers where we wrote a ChocoPy to RISC-V assembly compiler. Very
-fun.
-
-And of course, you can improve NYU CS! Join club leaderships. Write
-blogs. Create projects. Talk to the administration about
-improvements. We can make NYU a better school with enough effort and
-time.
+NYU CS is not great, but that doesn't mean your experience at NYU
+should be subpar.
