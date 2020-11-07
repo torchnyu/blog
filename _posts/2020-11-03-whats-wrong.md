@@ -1,9 +1,16 @@
+---
+title:  "What's Wrong: Debugging Your Grades"
+date:   2020-11-04 20:00:00 -0700
+---
+
 It's funny. I've written all these posts and I kept on thinking I've
 exhausted all the possible topics, yet I've never written a post on
 how to do better in class.
 
-How do you do better in a CS class? Well, if I were tasked with
-helping a student, I'd ask these questions:
+How do you do better in a CS class? Well, since we're programmers,
+let's treat this as a debugging question. When I debug, I ask myself a
+series of questions to help diagnose the issue. If I were tasked with
+debugging a student's poor performance, I'd ask these questions:
 
 *Are you actually doing badly?*
 
@@ -24,6 +31,13 @@ them to get on the right track. Don't try to swindle, beg or cajole
 them into giving you better grades. Just talk to them and figure out
 what needs to be done.
 
+*Who determines your grade?*
+
+Generally with CS courses your professor will determine your
+grade. However this is not always the case. Sometimes you'll have a TA
+who does most of the grading and assessment. If that's the case, talk
+to them.
+
 *Have you talked to other students?*
 
 Other students can be super helpful. You can gauge your approximate
@@ -43,11 +57,12 @@ studying with people who are above or at your level and productive.
 
 If you're completely lost, you'll need a lot more guidance. Schedule
 some meetings with your professor, follow the above advice on
-collaborative studying.
+collaborative studying. Get other people to help you---you won't be
+able to do it alone.
 
 If you're following the work but just not doing well, you might be
-able to fix this with some tweaks to your studying routine. You should
-still consider the above ideas of course.
+able to fix this with some tweaks to your studying routine. Of course,
+you should still consider seeking help from other people.
 
 Be honest with yourself. It doesn't help to delude yourself on how
 much you understand. If you're not following the material, you're not
@@ -67,6 +82,20 @@ emphasize certain areas and these will likely show up on the test.
 
 Pay attention during the lectures. I've definitely attended lectures
 where my eyes glazed over. Taking notes can help you stay engaged.
+
+*Do you ask questions in class?*
+
+Asking questions is a really great way to learn and get the professor
+to recognize you. If your professor remembers you as an engaged,
+curious student who asked questions in class, they'll be far more
+inclined to boost your grade.
+
+Don't be afraid to ask dumb questions! Some of the smartest people
+I've met were habital dumb-question askers. Sometimes the dumb
+questions turn out to have fascinating answers.
+
+Especially with online classes, asking questions will definitely
+ingratiate you with the professor.
 
 *How much time are you devoting to this class?*
 
@@ -112,6 +141,18 @@ to study in depth and only making it through the first fraction of the
 course. Get through the entire course at a shallow level, then go back
 for more info later.
 
+*How is your problem solving abilities?*
+
+This might be worth an entire blog post, but I strongly believe that
+problem solving is what separates the good programmers from the not-so
+good. Often times if you're not getting good grades and struggling
+with assignments, it's due to lack of problem solving ability.
+
+How do you get better at problem solving? Check out [How To Solve
+It](https://en.wikipedia.org/wiki/How_to_Solve_It), a classic book on
+problem solving. Practice writing and debugging code. Take some math
+classes and do math problems.
+
 *Is this a professor issue?*
 
 Again, be honest. Most people who do badly in courses will blame the
@@ -149,6 +190,13 @@ Having someone help you is so much better than working on your own. A
 lot of students were straight-A students in high school and aren't
 used to tutoring. That's a mistake. Everybody needs a little help now
 and then.
+
+*Have you asked your professor about notes or previous homeworks?*
+
+Get as much info as you can from your professor. Obviously there's a
+limit to how much you can demand from your professor. But as long as
+you're clearly using these resources to learn more, I don't think most
+professors would be offended at the request.
 
 *Have you considered pre-studying?*
 
