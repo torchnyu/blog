@@ -306,3 +306,10 @@ world class curriculum. Hopefully some day I will have to delete or
 amend this post.
 
 Hopefully.
+
+
+P.S. The title is an homage to a [famous Dijkstra
+article](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf). I
+figured since this is a slightly iconoclastic, slightly grumpy post, I
+might as well pay homage to the ultimate iconoclastic, grumpy CS
+figure.
