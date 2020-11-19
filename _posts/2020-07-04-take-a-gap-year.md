@@ -29,7 +29,7 @@ befriend seniors when you're a freshman and vice versa. A few years
 difference isn't a huge deal when you're all almost adults.
 
 As for your friends, nobody will care if you graduate a year later
-except people who have nothing better to care about. Plenty of them
+except those who have nothing better to care about. Plenty of them
 will stay in school to do masters programs or even PhDs. Even if your
 friends ditch you, which is pretty weird of them, you can always make
 new friends[^1].
@@ -127,7 +127,7 @@ effect. Plenty of young people around the world take time off to
 travel. If someone asks you what you did during a gap in your resume
 and you explain that you traveled/partied/relaxed, they will probably
 respond with "cool! That sounds awesome". If they don't, well they're no
-fun. And who wants to work with people who aren't fun?
+fun.
 
 Plenty of countries, such as Australia, New Zealand, South Africa,
 South Korea, Israel, Singapore, etc. have a culture of taking a year

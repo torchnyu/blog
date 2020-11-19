@@ -38,7 +38,8 @@ education.
 
 There are obviously schools with high rankings that are good schools
 for CS. Carnegie Mellon is top ranked and clearly an excellent school
-for CS. But do not confuse correlation for causation.
+for CS. But do not confuse correlation for causation. I know plenty of
+schools lower ranked than NYU that provide a far better CS education.
 
 ## Data Science
 
@@ -103,8 +104,8 @@ tries, compression and much more.
 
 We don't offer enough practical courses either. We have no consistent
 courses on functional programming, on principles of software
-development, on systems programming. Existing courses do not demand
-enough programming from students.
+development, on systems programming. Not to mention existing courses
+do not demand enough programming from students.
 
 Our intro courses are not cohesive, well designed paths towards
 teaching students how to think, debug and program like computer
@@ -142,7 +143,10 @@ I don't mean to say that everybody needs to be a top programmer who
 has been coding since they were 12. But having some of these people
 around improves the CS program as a whole. They act as mentors, as
 role models for other programmers. They can build out projects and
-help with orgs like [Spark](http://spark.torchnyu.com/).
+help with orgs like [Spark](http://spark.torchnyu.com/)[^2].
+
+[^2]: Our struggles with finding mentors for Spark is a testament to
+    this lack of top programmers.
 
 However this is actually an area where I'm optimistic. We don't have
 enough of these people, but as NYU's ranking increases, as our
@@ -179,7 +183,7 @@ developers with 2+ years of experience.
 
 # Responses
 
-I anticipate a few responses to this post.
+I anticipate a few responses to these arguments.
 
 *If you don't like NYU CS then you can leave*
 
@@ -189,18 +193,23 @@ discussed will persist. Besides, not everybody can just leave
 college. Whether it's due to financial aid or geographical
 constraints, some people are stuck at NYU.
 
+Some may claim that NYU just isn't a good fit for me. And sure, if I
+was criticizing the social life or the core curriculum, then they'd be
+right. However I'm criticizing the content and curriculum of the CS
+department, something that is comparable from school to school.
+
 For what it's worth, I am leaving somewhat soon. I also tried to
 transfer freshman year, but it didn't work out.
 
 *But I like NYU CS!*
 
-That's great! I begrudge anybody some love towards NYU CS. Indeed I
-loved quite a few of my courses, such as Programming Languages,
-Operating Systems and Compilers. I like pretty much all of my fellow
-CS majors, some of whom are quite talented. I like my professors. I
-can't say I've had a professor whom I disliked. I've had disagreements
-with how professors teach or approach the curriculum, but I've still
-liked and respected them.
+That's great! I don't begrudge anybody some love towards NYU
+CS. Indeed I loved quite a few of my courses, such as Programming
+Languages, Operating Systems and Compilers. I like pretty much all of
+my fellow CS majors, some of whom are quite talented. I like my
+professors. I can't say I've had a professor whom I disliked. I've had
+disagreements with how professors teach or approach the curriculum,
+but I've still liked and respected them.
 
 That being said, you can like individual elements of a program while
 also recognizing that the program itself could be better. NYU CS as a
@@ -236,9 +245,9 @@ go to NYU how can you possibly make a blanket claim like that?
 lol
 
 Clearly we're doing something wrong when someone's "shit program"
-teaches more than NYU's algorithms class[^2].
+teaches more than NYU's algorithms classes[^3].
 
-[^2]: Yes, I'm aware that some of these topics were taught in
+[^3]: Yes, I'm aware that some of these topics were taught in
    particular professors' classes. That does not mean they were taught
    in all classes.
 
@@ -277,10 +286,10 @@ Sure, a school like MIT or Harvard may have higher ranked departments,
 but that doesn't mean it's a better experience for students.
 
 If I were looking at schools at or below NYU's ranking, I'd check out
-Northeastern, Purdue, UT Austin, Stony Brook, Indiana University[^3],
+Northeastern, Purdue, UT Austin, Stony Brook, Indiana University[^4],
 again, approximately in that order.
 
-[^3]: I'd actually put IU higher on my personal list but that's
+[^4]: I'd actually put IU higher on my personal list but that's
     because IU is programming language research heaven.
 
 # Make The Best Of It

@@ -46,7 +46,12 @@ They emailed me back within a few days and told me when to start. The
 job was unpaid, but completely geared towards teaching me instead of
 benefiting them. They taught me a bunch of massively useful skills and
 when I started to produce somewhat useful work, they started paying
-me.
+me[^0].
+
+[^0]: Normally I wouldn't advocate for this setup, as unpaid
+    internships are usually bad. This was a very unusual case where
+    the company explicitly took the time to train me within the
+    official legal guidelines of an internship,
 
 # Internship #2: Web Dev
 
@@ -188,21 +193,21 @@ easy question, but I didn't get the answer immediately. I suppose it
 was clear that I was working through the question real-time and not
 pulling an existing answer out.
 
-Anyways after that I had an on-campus interview which went
+After that I had an on-campus interview with Microsoft which went
 fantastic. I solved the problem easily and the interviewer definitely
 seemed pleased.
 
-Then came the on-site. I was flown out to Seattle and put up a nice
-hotel. They gave four interviews in total. The questions weren't too
-hard or unconventional. I did two of the interviews in Haskell which
-was quite fun. The first question I did in Haskell was a simple
-removing of duplicates in a linked list. The second was a slightly
-more complicated one involving trees. I'm not sure if Haskell was the
-right choice for either, but it was certainly fun explaining it to the
-interviewers. The final interview went fairly well, though I didn't
-get the last part of the question. It was a quite cool question
-though---in binary search there's a very particular edgecase related to
-integer overflow.
+Then came the Microsoft on-site. I was flown out to Seattle and put up
+a nice hotel. They gave four interviews in total. The questions
+weren't too hard or unconventional. I did two of the interviews in
+Haskell which was quite fun. The first question I did in Haskell was a
+simple removing of duplicates in a linked list. The second was a
+slightly more complicated one involving trees. I'm not sure if Haskell
+was the right choice for either, but it was certainly fun explaining
+it to the interviewers. The final interview went fairly well, though I
+didn't get the last part of the question. It was a quite cool question
+though---in binary search there's a very particular edgecase related
+to integer overflow.
 
 The last interview was quite odd as well because the interviewer
 simply lead me out of the building and to the parking lot. No
@@ -255,7 +260,7 @@ don't know why, but something about Citadel made me
 anxious. Fortunately the problem wasn't too hard, my mind was in the
 right place and I had some nice tricks that I pulled off. I also used
 an unconventional language. The result was one of my most successful
-interviews (in my view).
+interviews.
 
 After that I got invited to on-sites. Due to a miscommunication, I
 missed one of the interviews, but I managed to have three out of the
@@ -263,10 +268,10 @@ four. Again I don't think I did very well. I got the first interview
 fairly well, but I got stuck on the last question and claimed that the
 algorithm was O(n log n) and not O(n)[^3]. I got the second question
 reasonably well since it was a more finance specific question,
-although I had a weird bug that confused even my interviewer. The
-third interview wasn't great. I didn't get very far at all and missed
-a really elementary optimization. I got the feeling the interviewer
-was a little disappointed.
+although I had a weird bug that confused even my interviewer. We did
+eventually spot it. The third interview wasn't great. I didn't get
+very far at all and missed a really elementary optimization. I got the
+feeling the interviewer was a little disappointed.
 
 [^3]: Okay okay technically it's both because big-O are sets for upper
     bounds but I'm not gonna write an omega here.
@@ -319,6 +324,9 @@ I've learned a few lessons from these applications:
 
 - Try unconventional application methods. Send cold emails **if you
   have something to say**. Use family contacts. Be shameless
+
+- Your goal is to get to a human being in the process. Once you do,
+  everything becomes infinitely better.
 
 - It's okay to not have internships sometimes. Especially if you have
   your own projects. You may go from begging companies to give you the

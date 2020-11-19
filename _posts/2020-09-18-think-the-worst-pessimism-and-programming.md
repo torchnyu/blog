@@ -277,7 +277,7 @@ won't cause any additional problems.
 I wanna close out with one last usecase. I've noticed that some people
 don't always think about potential issues in their life. Granted,
 there's some issues one really shouldn't worry about. Like, who would
-spend time worrying about a global pandemic. That wouldn't
+spend time worrying about a global pandemic? That wouldn't
 happen.
 
 *ahem*

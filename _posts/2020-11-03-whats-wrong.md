@@ -81,7 +81,9 @@ assessments are usually a combination of these two. A professor will
 emphasize certain areas and these will likely show up on the test.
 
 Pay attention during the lectures. I've definitely attended lectures
-where my eyes glazed over. Taking notes can help you stay engaged.
+where my eyes glazed over. Taking notes can help you stay engaged. Do
+not try to keep up with 2x speed recorded lectures. All you're doing
+is creating the illusion that you understand the topic.
 
 *Do you ask questions in class?*
 

@@ -71,7 +71,7 @@ Okay and here's what I'd love for students to know:
   level steps an interpeter takes to run code.
 - A functional programming language such as: Haskell, OCaml, Racket,
   Standard ML, etc.
-- A functional-ish languagel like: Rust, Ruby, JavaScript, TypeScript,
+- A functional-ish language like: Rust, Ruby, JavaScript, TypeScript,
   Kotlin, Swift
 - A basic calculator parser that turns arithmetic expressions such as
   `5 * 2 - 3` into reverse polish notation: 5 2 * 3 -
