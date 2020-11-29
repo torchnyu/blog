@@ -31,4 +31,6 @@ Of course some busyness is unavoidable. I'm lucky enough that I could
 be supported by my parents. Others do not have that luxury. But other
 busyness can be avoided. Don't take more classes than necessary. Take
 some easy classes with your hard ones. Don't take classes while you
-work full-time. These may seem counterproductive.
+work full-time. Avoid gathering responsibilities.
+
+
