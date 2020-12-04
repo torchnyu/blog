@@ -1,3 +1,9 @@
+---
+title:  "Lift Your Weights"
+date:   2020-12-04 10:00:00 -0700
+---
+
+
 I've talked about how problem solving is an intensely important skill
 for programmers. I don't think that's a controversial statement. Most
 programmers understand that to some extent or another, problem solving
@@ -7,9 +13,8 @@ Yet so many students continue to learn problem solving
 incorrectly. Why is that?
 
 Let's use an analogy, because it ain't a blog post without a contrived
-analogy. Let's use weight lifting. I don't know a lot about it. I was
-just starting to go to the gym when a little pandemic happened. I do
-know enough to say this:
+analogy. Let's use weight lifting. I don't know a lot about it. But I
+do know enough to say this:
 
 When you lift weights, you need to lift the weights on your own.
 
@@ -52,14 +57,29 @@ But too many students try to substitute watching people solve problems
 for solving problems. They'll read textbooks or watch
 lectures. They'll go to study sessions and listen to a classmate solve
 a problem. They'll go to office hours and have the professor solve the
-problem. None of these are necessarily bad. But they're not the same
-as solving problems.
+problem. Again, none of these are necessarily bad. But they're not the
+same as solving problems.
+
+And when it comes to make or break situations like a tough exam or a
+challenging lab, the students aren't used to that feeling of straining
+against the bar. They'll see others tackling the problems and surmise
+that the others are simply smarter or more talented. That's not
+true. The others are just practicing properly. They understand the
+technique.
 
 What's dangerous about problem solving versus weight lifting is that
 it's super easy to watch people solve problems and think you're
 learning. Nobody watches people lift weights and thinks it'll make
 them a better weight lifter. Yet so many people watch people solve
 problems and think it'll make them a better problem solver.
+
+However what's wonderful about problem solving is that it's very easy
+to accidentally practice. If you work on a side project that's fun, or
+if you start interviewing for companies, or start learning math,
+you'll practice problem solving. I didn't set out to do well in my CS
+classes. I've just spent hours banging my head against NGINX configs,
+or teaching myself Ruby or figuring out how AWS works. And yet my
+problem solving skills improved from all of those.
 
 If there's one big divide between CS majors, it's those who practice
 problem solving and those who practice watching other people solve
