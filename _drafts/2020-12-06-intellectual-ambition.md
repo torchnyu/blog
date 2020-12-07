@@ -124,10 +124,10 @@ students. You should put your classes ahead of your extracurriculars.
 But when I say that, when I'm nodding to some explanation about how
 they can't make next week's meeting because they have midterms, I
 can't help but feel like a coach who's repeating the stock line of
-school first, sports second, all the while grumbling in his head about
-the missed practice time. Yes, you should put your grades first. Yes,
-you should go study for that midterm. But dammit that's not how you
-get good.
+school first, sports second, all the while screaming in his head,
+dammit, this isn't how you get good. Yes, you should put your grades
+first. Yes, you should go study for that midterm. But dammit, this
+isn't how you get good at programming.
 
 Why the lack of intellectual ambition? I'm not sure on this either. I
 do have a theory. Extrapolating from the admissions reasons, the type
