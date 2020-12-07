@@ -22,7 +22,8 @@ occasional elective taught by an adjunct[^1]. They've had to cancel
 advanced electives because they needed the professor to teach a core
 CS requirement. We can't even get an undergraduate compilers class!
 
-[^1]: A brilliant, Stanford and MIT-educated adjunct, but still.
+[^1]: A brilliant adjunct who is active in the programming languages
+    space, but still.
 
 My natural inclination here is to demand that NYU hire more
 professors. They probably should, but that's a harder problem than it
@@ -60,7 +61,7 @@ lecture projected onto a screen. Other students will likely attend
 from online because they're unable or do not wish to attend in person.
 
 Circling back to TAs, they're quite an underused resource. Professors
-are great, but they're often quite removed from an undergraduate's
+are great, but they're often removed from an undergraduate's
 experience. They're leading experts in their fields and may not
 understand what it's like to struggle with the material. TAs can
 bridge that gap. Yet, if you look at the opportunities mailing list,
@@ -84,12 +85,8 @@ whole slew of schools allow undergraduate TAs with little to no issues.
 
 With this new model, we can have one to two sections of each core
 class. The professor will be aided by a veritable army of TAs, enough
-to provide a small group for activities[^3]. Some of the students may
-have to attend the lectures over Zoom, but likely some will want this.
-
-[^3]: Just spitballing here, but perhaps the classes could be listed
-    under the TA? That could get around the ranking issue with large
-    class sizes.
+to provide a small group for activities. Some of the students may have
+to attend the lectures over Zoom, but likely some will want this.
 
 This model will help with a few other problems. Currently classes are
 super inconsistent. Depending on the professor, Operating Systems may
