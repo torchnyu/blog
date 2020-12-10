@@ -1,3 +1,8 @@
+---
+title:  "Waitlisted: Solving Professor Allocation"
+date:   2020-12-08 10:00:00 -0700
+---
+
 In this episode of grumpy undergrad yells at cloud, let's talk
 professor allocation.
 
@@ -21,6 +26,12 @@ Languages, a frankly essential pillar of computer science, as an
 occasional elective taught by an adjunct[^1]. They've had to cancel
 advanced electives because they needed the professor to teach a core
 CS requirement. We can't even get an undergraduate compilers class!
+
+Furthermore, as a few of you
+[complained](https://old.reddit.com/r/nyu/comments/k8uilm/the_state_of_registering_for_cs_electives_right/)
+on
+[Reddit](https://old.reddit.com/r/nyu/comments/k90h5t/cas_cs_is_going_from_bad_to_worse/),
+the classes that we have fill up within seconds.
 
 [^1]: A brilliant adjunct who is active in the programming languages
     space, but still.
