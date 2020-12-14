@@ -1,3 +1,9 @@
+---
+title:  "Intellectual Ambition"
+date:   2020-12-10 10:00:00 -0700
+---
+
+
 I mentioned in [my why not NYU CS
 post](https://blog.torchnyu.com/2020/11/12/goto-nyu-cs-considered-harmful.html)
 that I haven't been impressed with NYU's CS majors. I'd like to expand
