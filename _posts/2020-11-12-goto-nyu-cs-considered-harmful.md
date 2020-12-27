@@ -38,8 +38,9 @@ education.
 
 There are obviously schools with high rankings that are good schools
 for CS. Carnegie Mellon is top ranked and clearly an excellent school
-for CS. But do not confuse correlation for causation. I know plenty of
-schools lower ranked than NYU that provide a far better CS education.
+for CS. But high ranking not a necessary nor sufficient condition. I
+know plenty of schools lower ranked than NYU that provide a far better
+CS education.
 
 ## Data Science
 
@@ -247,9 +248,7 @@ lol
 Clearly we're doing something wrong when someone's "shit program"
 teaches more than NYU's algorithms classes[^3].
 
-[^3]: Yes, I'm aware that some of these topics were taught in
-   particular professors' classes. That does not mean they were taught
-   in all classes.
+[^3]: Yes, I'm aware that some of these topics were taught in particular professors' classes. That does not mean they were taught in all classes.
 
 That being said, my standards are likely too high. If NYU were to
 reform its CS department, the realistic outcome would be somewhere in
@@ -261,7 +260,7 @@ and compared the course progressions. Have you?
 
 *You just think you're better than everybody else*
 
-No, I don't. Indeed part of my complain about students is that I know
+No, I don't. Indeed I complain about NYU students because I know
 there's a tier of programmers above me. I'm friends with a few of
 them. They're not at NYU.
 

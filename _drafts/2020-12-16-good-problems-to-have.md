@@ -37,3 +37,8 @@ good to have options. Too often we see choices as either/or. You
 either stay at the same school or you transfer. You choose the
 research position or the job. That may be true in the end, but that
 doesn't mean you should cut off these options early.
+
+Another non-problem that I see some students talk about is working in
+boring or unappealing areas. Sure, that can suck. But it's also a
+problem that you can tackle once you're sitting in front of the job
+offers.

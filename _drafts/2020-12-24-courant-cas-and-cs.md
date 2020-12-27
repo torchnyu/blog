@@ -1,5 +1,5 @@
 ---
-title:  "Courant, CAS and CS"
+title:  "Courant, CAS and CS: How Do They Relate?"
 date:   2020-12-24 10:00:00 -0700
 ---
 
@@ -15,9 +15,9 @@ fully correct. Please verify this info on your own.
 Let's start with Courant. The Courant Institute of Mathematical
 Sciences is, well, an institute of mathematical sciences. Courant is
 primarily known for its applied and theoretical math, but it also
-contains computer science[^1].
+contains computer science.
 
-[^1]: In the same way the McDonalds menu technically contains salads.
+<div style="display: none"> In the same way the McDonalds menu technically contains salads. </div>
 
 The director of Courant, Russ Caflisch, is effectively a dean. He
 reports to the NYU president directly.
@@ -36,10 +36,10 @@ Sciences (GSAS).
 
 When you take courses as a CAS CS major, you are taking Courant CS
 courses. Courant gets a certain amount of money per student from
-CAS. This is relatively new. Courant used to get money from defense[^2]
+CAS. This is relatively new. Courant used to get money from defense[^1]
 grants, but that ran dry.
 
-[^2]: At one point during the Vietnam War, protesters put an
+[^1]: At one point during the Vietnam War, protesters put an
     improvised explosive near a supercomputer in Courant. Peter Lax,
     one of Courant's most highly regarded mathematicians, actually
     disabled the explosive with the help of a few others. You can read
@@ -69,7 +69,7 @@ courses. Past that point, there aren't really that many advanced math
 courses specific to Tandon, so they take cross-listed CAS/Tandon math
 courses.
 
-You may ask, why is it that Tandon has a separate program from CAS?
+You may ask, why is it that Tandon has a separate CS program from CAS?
 It's a good question. A lot of schools don't actually have separate CS
 degrees for engineering versus Arts & Sciences. They have one degree
 with then additional engineering or Arts & Sciences requirements
@@ -79,5 +79,5 @@ makes money off of their programs. Again, funding is tied to students
 in each respective program. If Tandon were to nix programs, it would
 lose money.
 
-In summary, *technically* Courant doesn't have students and CAS
-doesn't have a CS department. If that's confusing, it's because it is.
+If you want a confusing summary, *technically* Courant doesn't have
+students and CAS doesn't have a CS department.
