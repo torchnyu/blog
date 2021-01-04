@@ -72,12 +72,14 @@ balk at it, then you're probably in the ballpark.
 
 - Your recruiter doesn't care
 
-I attended a great talk on salary negotiations at Brooklyn JS. One
-excellent point the speaker made was that the recruiter is likely way
+I attended a [great talk](https://www.youtube.com/watch?v=m1XdasrstCc)[^2] on salary negotiations at Brooklyn JS. One
+excellent point the speaker, Matthew, made was that the recruiter is likely way
 less invested in this than you. They're not negotiating their
 money. To some extent they're rooting for you. Recruiting a person
 already costs in the tens of thousands. They're not going to blink at
 a few thousand more.
+
+[^2]: Not the exact same talk but the Brooklyn JS one isn't on YouTube
 
 Remember, this is their day job. A significant portion of their job is
 to negotiate. A recruiter getting offended at negotiation is like a
@@ -113,6 +115,9 @@ Another offer is a great way to light a fire under your recruiter. A
 higher offer is even better but again, salary is not necessarily the
 most important factor. You could love the other company's culture, the
 technical fit, the free bananas, whatever.
+
+This should be higher, but I couldn't figure out a better place to put
+it. Seriously, another offer is a great way to show you mean business.
 
 - But another offer isn't necessary to negotiate
 
