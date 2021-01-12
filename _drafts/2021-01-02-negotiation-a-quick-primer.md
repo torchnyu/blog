@@ -54,10 +54,14 @@ the reccruiter is offended.
 In the salary negotiation ritual the recruiter gives a price; you
 pause and say that you'll need to consult with your family; the
 recruiter will make some excuse on why you need to respond quickly;
-you politely decline. Next meeting, you create some excuse as to why
-you're reticent to accept the offer. Rent's really high, you have
-another offer, you have a unique set of skills, etc. They'll likely
-respond with more money or you'll have to come up with a number.
+you politely decline. If they insist, simply say that you need to talk
+the offer over with your family.
+
+Next meeting, you create some excuse as to why you're reticent to
+accept the offer. Rent's really high, you have another offer, you have
+a unique set of skills, etc. You can highlight what you bring to the
+company. They'll likely respond with more money or you'll have to come
+up with a number.
 
 If they provide a second offer, you can decide if it's worth
 it. Compare the offer to others on
@@ -72,12 +76,13 @@ balk at it, then you're probably in the ballpark.
 
 - Your recruiter doesn't care
 
-I attended a [great talk](https://www.youtube.com/watch?v=m1XdasrstCc)[^2] on salary negotiations at Brooklyn JS. One
-excellent point the speaker, Matthew, made was that the recruiter is likely way
-less invested in this than you. They're not negotiating their
-money. To some extent they're rooting for you. Recruiting a person
-already costs in the tens of thousands. They're not going to blink at
-a few thousand more.
+I attended a [great
+talk](https://www.youtube.com/watch?v=m1XdasrstCc)[^2] on salary
+negotiations at Brooklyn JS. One excellent point the speaker, Matthew,
+made was that the recruiter is likely way less invested in this than
+you. They're not negotiating their money. To some extent they're
+rooting for you. Recruiting a person already costs in the tens of
+thousands. They're not going to blink at a few thousand more.
 
 [^2]: Not the exact same talk but the Brooklyn JS one isn't on YouTube
 
@@ -109,12 +114,22 @@ include several parts. If salary is a no-go, maybe you could ask for a
 signing bonus? You could add to your vacation time or negotiate
 paternity leave.
 
+Stock is often where they'll budge. Giving away stock is in many ways
+cheaper for the company and incentivizes you to stay longer. However,
+beware of the [golden
+handcuffs](https://en.wikipedia.org/wiki/Golden_handcuffs). If you
+realize the job isn't a good fit, this can mean either forgoing the
+stock part of your compensation or being stuck at the company for a
+few years.
+
 - Get another offer
 
 Another offer is a great way to light a fire under your recruiter. A
 higher offer is even better but again, salary is not necessarily the
 most important factor. You could love the other company's culture, the
-technical fit, the free bananas, whatever.
+technical fit, the free bananas, whatever. As long as you can make the
+case to the company that the other offer is really attractive, you
+have a bargaining chip.
 
 This should be higher, but I couldn't figure out a better place to put
 it. Seriously, another offer is a great way to show you mean business.
@@ -126,3 +141,23 @@ back to school. You could stay at your current job. You don't even
 have to offer an alternative. Hiring is such a pain that recruiters
 will give you more money just to avoid the possibility of recruiting
 another person.
+
+- Make the call
+
+After a couple back and forths, you should decide whether to accept
+the offer or not. While the point of negotiation is to optimize your
+compensation, you shouldn't let that take over your actual
+decision. Sometimes in the process of negotiating, I convince myself
+that the offer is totally unreasonable and that I am entitled to a
+higher comp. That can be a good mental technique for staying firm
+while negotiating, but it's not a healthy mindset long term. You're
+still likely making far more than the average college grad.
+
+I've accepted a lower offer before because I knew that the company
+would provide a better tech fit and really cool opportunities. Sure,
+sometimes I wonder about the money, but the enjoyment and learning
+I've gotten from my work has far outweighed the money.
+
+I won't say that money doesn't matter. It does. But it's only one
+aspect in a much more nuanced discussion of how you plan on spending
+40 hours a week.

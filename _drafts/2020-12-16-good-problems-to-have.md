@@ -42,3 +42,5 @@ Another non-problem that I see some students talk about is working in
 boring or unappealing areas. Sure, that can suck. But it's also a
 problem that you can tackle once you're sitting in front of the job
 offers.
+
+

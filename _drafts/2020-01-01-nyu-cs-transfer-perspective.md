@@ -3,14 +3,17 @@ title: "NYU CS: A Transfer Perspective"
 date: 2020-01-01 6:30:00 -0700
 ---
 
-NYU CS needs work. Browsing recent reddit posts or discord messages, most responses about
-NYU CS CAS are criticisms. Most are valid. This won't be a post filled with positives
-to raise your expectation of NYU CS. Before reading this, I would suggest reading
-[this](https://blog.torchnyu.com/2020/11/12/goto-nyu-cs-considered-harmful.html) first and keep
-that in mind while reading this one.
+NYU CS needs work. Browsing recent reddit posts or Discord messages,
+much of the writing about NYU CS CAS consists of criticisms. Most are
+valid. This won't be a post filled with positives to raise your
+expectation of NYU CS. Before reading this, I would suggest reading
+[this
+post](https://blog.torchnyu.com/2020/11/12/goto-nyu-cs-considered-harmful.html)
+first and keeping it in mind.
 
-I transfer from University of Maryland, College Park CS to NYU CS. Hence, I would like to provide
-my perspective as a transfer student and someone who started programming in college.
+I transferred from University of Maryland, College Park to NYU. Hence,
+I would like to provide my perspective as a transfer student and
+someone who started programming in college.
 
 Many who are familiar with both CS departments would wonder "Why the hell did you transfer?". On paper,
 UMD CS is a lot stronger. The [courses](https://app.testudo.umd.edu/soc/search?courseId=CMSC&sectionId=&termId=202101&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on) offered are more abundant and interesting. The student body has a stronger
@@ -18,10 +21,14 @@ programming skills and the recruiting scene is decent. I agree. But here's a few
 
 # Class Size
 
-There are 250 kids in my introductory courses. They are weed-out classes so the size makes sense. However,
-it left less room for help from TA and professor. Usually, there's a long line to get help on projects. Luckily,
-I usually came super early to avoid the crowds and am able to get help on difficult projects. Those who came 30 minutes later are not fortunate. Additionally, it leaves less room to ask questions during classes as the professor needs to go through lectures with
-250 people in the lecture hall.
+There are 250 kids in my introductory courses. They are weed-out
+classes so the size makes sense. However, it left less room for help
+from TA and professor. Usually, there's a long line to get help on
+projects. Luckily, I usually came super early to avoid the crowds and
+was able to get help on difficult projects. Students who came 30 minutes
+later were not so fortunate. Additionally, it left less room to ask
+questions during class as the professor needed to go through lectures
+with 250 people in the lecture hall.
 
 # Waitlisting
 
