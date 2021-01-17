@@ -1,3 +1,9 @@
+---
+title:  "Negotiation: A Quick Primer"
+date:   2021-01-13 10:00:00 -0700
+---
+
+
 I love to negotiate. Some people don't. I guess they see it as
 nervewracking or even rude. I find it fun. When else can you make
 $5,000 simply by taking a few meetings and making a few points?
@@ -159,5 +165,5 @@ sometimes I wonder about the money, but the enjoyment and learning
 I've gotten from my work has far outweighed the money.
 
 I won't say that money doesn't matter. It does. But it's only one
-aspect in a much more nuanced discussion of how you plan on spending
-40 hours a week.
+aspect in a much larger, much more nuanced discussion of how you plan
+on spending 40 hours a week.
