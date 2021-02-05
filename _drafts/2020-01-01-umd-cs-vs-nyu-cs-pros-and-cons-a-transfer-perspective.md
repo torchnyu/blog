@@ -35,26 +35,25 @@ All of this contributes to my transfer decision. Even though I enjoyed the CS co
 # CS education
 NYU CS curriculum is lackluster. The department doesn't even require students to take Calculus II[^1], probability/stats, and programming languages. However, if you are familiar with a decent CS curriculum, you can plan your to take courses with more challenging professor at NYU.
 
-I enjoy the class size at NYU since each class usually has 30-80 students. It allows me to attend office hours more easily and get to know my professors on a personal level. Before the pandemic, sometimes I would go to office hours without having specific questions in mind and discuss different topics with them. I think everyone should take avantage of the professors at NYU. They are top of their fields and really knowledgeable. I find that professors here tend to be on the friendlier side. Some even have lots of industry connections so definitely attend their office hours to know them better. They might also be the [founder](https://cs.nyu.edu/~korth/) of [hackNY](https://hackny.org/)! or [cryptographic algorithm inventor](https://en.wikipedia.org/wiki/Cramer%E2%80%93Shoup_cryptosystem). 
+I enjoy the class size at NYU since each class usually has 30-80 students. It allows me to attend office hours more easily and get to know my professors on a personal level. Before the pandemic, sometimes I would go to office hours without having specific questions in mind and discuss different topics with them. Everyone should take avantage of the professors at NYU. They are top of their fields and really knowledgeable. I find that professors here tend to be on the friendlier side. Some even have lots of industry connections so definitely attend their office hours to know them better. They might also be the [founder](https://cs.nyu.edu/~korth/) of [hackNY](https://hackny.org/)! or [cryptographic algorithm inventor](https://en.wikipedia.org/wiki/Cramer%E2%80%93Shoup_cryptosystem). 
 
 [^1]: In Shoup's Algorithm course, there were complaints about how the first assignment requires Calculus II knowledge but the department never requires the course.
 
 # Job
-NYU's [CS career fair](https://www.reddit.com/r/nyu/comments/k90h5t/cas_cs_is_going_from_bad_to_worse/) is known to be bad[^2]. Surprisingly, I found myself more employable here than at UMD.
+NYU's [CS career fair](https://www.reddit.com/r/nyu/comments/k90h5t/cas_cs_is_going_from_bad_to_worse/) is known to be bad[^2]. Surprisingly, I find myself more employable here than at UMD.
 
 [^2]: Interestingly enough, I got an interview at Microsoft through NYU and also an internship offer from a hedge fund through On-Campus Interview at Wasserman. 
 
 My first and current job is a grader. I applied through NYU handshake before arriving on campus. This provides me some income to spend on grocery and entertainment.
 
-For my sophomore year, I was able to land a SWE internship at Rent the Runway, which was eventually cancelled due to the pandemic. Thanks to the NYU opportunities mailing list, I landed another one in June. I'm not sure if it can be attributed to NYU. But I think it is being at the right place at the right time. I don't think I would know what Rent the Runway is if I'm not in NYC. 
+For my sophomore year, I was able to land a SWE internship at Rent the Runway, which was eventually cancelled due to the pandemic. Thanks to the NYU opportunities mailing list, I landed another one in June. I'm not sure if it can be attributed to NYU. But being at the right place at the right time certainly helps. I wouldn't know what Rent the Runway is if I'm not in NYC. 
 
-If internships are your biggest concerns and you are applying to college, I don't think you should go here. There are better and cheaper schools with better outreach for these things. However, if you are already at NYU, you can still succeed. It might take more work but keep in mind that the market is competitive so you have to play the game either through networking, problem solving or cold emailing.
+If internships are your biggest concerns and you are applying to college, you shouldn't go here. There are better and cheaper schools with better outreach for these things. However, if you are already at NYU, you can still succeed. It might take more work but keep in mind that the market is competitive so you have to play the game either through networking, problem solving or cold emailing.
 
 Wasserman often hosts coffee chats with employers and alumni[^3]. Attend these
 events and talk to as many people as you can. These events are set up to network so remember to ask for people's contact information and reach out. They can help mentor you or put you in touch with recruiters. They are also often hosted by student organizations such as [WinC](https://nyuwinc.org/upcoming-events) or [Tech@NYU](https://techatnyu.org/events).
 
-[^3]: Before the pandemic, I have attended coffee chats with companies such as 
-PDT Partners, GrubHub, Microsoft, Chewy, Splunk, Credit Suisse and Goldman Sachs  and some smaller firms in NYC. The alumni events usually consist of SWEs working at FAANG companies. 
+[^3]: Before the pandemic, I have attended coffee chats with companies such as PDT Partners, GrubHub, Microsoft, Chewy, Splunk, Credit Suisse and Goldman Sachs  and some smaller firms in NYC. The alumni events usually consist of SWEs working at FAANG companies. 
 
 If you start programming in college, I suggest finding paid internships as soon as possible since you are behind in terms of programming ability. Don't be afraid of applying with no experience. If you are lucky, you might land your first offer. If not, you can have some practice interviews or you may receive recruiters' emails, which you should save for the following internship cycle. 
 
@@ -66,7 +65,7 @@ questions. So code, learn, apply and do your best. NYU CS might not have the
 greatest recruiting scene but that doesn't mean you can't succeed!
 
 # Social Life
-NYU is notoriously known for not having a traditional social life. I found it to be the opposite. I don't have a crazy or wild social life, where I go to bars or clubs often. But I found more people at NYU, who I vibe better with. I also find most people in NYC more interesting conversationalists. I think it stems from the fact that everyone comes from different backgrounds and interacts with one another.
+NYU is notoriously known for not having a traditional social life. I found it to be the opposite. I don't have a crazy or wild social life, where I go to bars or clubs often. But I found more people at NYU, who I vibe better with. I also find most people in NYC more interesting conversationalists. It most likely stems from the fact that everyone comes from different backgrounds and interacts with one another.
 
 NYC is a great city for food. I enjoy having access to good restaurants, specifically Asian ones. Now, on the weekends, instead of sitting in my dorm, I usually go out and try food at new restaurants or another cuisine. NYC is also great cities for other activities such as museums or shopping. Being a student means that you can have free access to the MET, MoMa or MoMath, which is a perk I use heavily during the break.
 
