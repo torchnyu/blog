@@ -3,6 +3,8 @@ title: "UMD CS vs NYU CS, Pros and Cons: A Transfer Perspective"
 date: 2020-01-01 6:30:00 -0700
 ---
 
+By [Khanh Nguyen](https://github.com/Kn99HN).
+
 NYU CS is [bad](https://blog.torchnyu.com/2020/11/12/goto-nyu-cs-considered-harmful.html). It lacks resources and a good curriculum. Many students complain about the lack of recruitment on campus and support from professors. Browsing recent Reddit posts or Discord messages, most responses about NYU CS CAS are criticisms.
 
 I transferred from University of Maryland, College Park, where I was a CS major. I would like to provide my comparison of the 2 CS departments that I noticed after my time here.
