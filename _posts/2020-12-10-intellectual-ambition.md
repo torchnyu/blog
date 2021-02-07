@@ -254,7 +254,7 @@ isn't a community that encourages intellectual ambition.
 A lot of the CS professors at NYU are disconnected from the
 undergraduate community. Part of that may be because the professors
 wish to focus on research. But part of that is because it's really
-disappointing and really hard to train and teach students who aren't
+disappointing and really hard to teach and train students who aren't
 intellectually ambitious.
 
 Let me be clear. I'm not *that* intellectually ambitious. Compared to

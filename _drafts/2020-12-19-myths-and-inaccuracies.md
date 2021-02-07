@@ -78,3 +78,25 @@ or Haskell. They're using all of them and more.
 Learn what you think is neat. If you can gain a degree of depth in
 whatever tech you like to use, then you'll be hireable.
 
+* I should take as many CS classes as possible
+
+I've seen a few people do this. A few things happen. The best case
+scenario is that you simply run out of courses. Now there are graduate
+CS courses, but even then it's possible to exhaust all the good ones.
+
+The second possibility is that you suffer through a very painful
+workload and possibly burn out. Indeed I've seen people who just
+switched into the major or desperately need to complete requirements
+to graduate attempt this move. That's a very bad idea. You're putting
+a lot of pressure onto yourself. Yes, graduating late is not
+good. Neither is taking incompletes and having to redo a course. And
+wrecking your mental health is especially not great.
+
+Another problem with taking courses as quickly as possible is that you
+could easily end up with a subpar professor. By going through the
+curriculum slowly, you can wait until a specific professor teaches the
+course. Comparing notes with friends, it's remarkable how large of a
+difference professor choice makes. In many cases we've effectively
+taken different classes.
+
+

@@ -38,3 +38,5 @@ most stagnant of the stagnant require some self teaching. Even if you
 decide to learn COBOL and spend your life maintaining 50 year old
 codebases, you'll still have to teach yourself COBOL! I'm pretty sure
 NYU doesn't offer a class in it.
+
+
