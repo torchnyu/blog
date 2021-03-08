@@ -1,3 +1,8 @@
+---
+title:  "Learn Imperfectly"
+date:   2021-01-20 10:00:00 -0700
+---
+
 I'd like to confess something. I've talked about the joys of reading
 on this blog
 [before](https://blog.torchnyu.com/2020/02/10/how-much-do-you-read.html). I've
@@ -56,9 +61,8 @@ turns at random? It's quite nice. You don't have to complete any
 journey or reach any destination. There's no stressing over subway
 delays. You can just discover.
 
-Imagine how stupid it'd be if you had to walk exactly ten blocks along
-Broadway, then exactly three avenues across on 23rd, then two up on
-8th avenue? Why bother?
+Imagine how stupid it'd be if you tried to use Google Maps directions
+to wander. What's the point?
 
 # Depth First
 
@@ -77,7 +81,7 @@ week and recall [that blog
 post](https://www.joelonsoftware.com/2008/11/26/exploding-offer-season/)
 by Joel Spolsky that you glossed over.
 
-[^1]: A hilarious title, but also surprisingly readable Knuth.
+[^1]: A hilarious title, but also surprisingly readable.
 
 Put in lingua patria, learning imperfectly is a depth first
 search. You can gain a lay of the land, then come back to the relevant
@@ -99,7 +103,7 @@ The side effect of that tiny puncture is that it's really impossible
 to form a complete picture. Learning is about managing to form some
 sort of comprehension out of an imperfect set of data.
 
-So go read a couple pages of CLRS and get bored. Go try to read Knuth
+Go read a couple pages of CLRS and get bored. Go try to read Knuth
 and fail (I currently have a copy of TAOCP: Volume 3 on my desk of
 which I've read maybe 3 pages). Skim a few blog posts. It'll only help
 you.

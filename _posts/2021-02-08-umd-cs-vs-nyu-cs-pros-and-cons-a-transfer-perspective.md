@@ -1,6 +1,6 @@
 ---
 title: "UMD CS vs NYU CS, Pros and Cons: A Transfer Perspective"
-date: 2020-01-01 6:30:00 -0700
+date: 2021-02-08 0:15:00 -0500
 ---
 
 By [Khanh Nguyen](https://github.com/Kn99HN).
