@@ -1,14 +1,20 @@
+---
+title:  "The Value of Niches"
+date:   2021-03-18 00:00:36 -0700
+---
+
 I've hesitated to write this post. Not because it'd be controversial
 or because it'd get me in trouble. But because I'm concerned that
 people might misconstrue or exaggerate the message.
 
 Let me be unambiguous here:
 
-### You should keep learning all aspects of computer science
+## You should keep learning all aspects of computer science
 
-### You shouldn't feel obligated to stick to a particular area
+## You shouldn't feel obligated to stick to a particular area
 
-### There is no one magical area that will get you hired. No, not even ML.
+## There is no one magical area that will get you hired. No, not even ML.
+<br/>
 
 With that out of the way, let's get on with the post.
 
@@ -21,9 +27,9 @@ I became interested in programming languages in my freshman year of
 college. I stumbled upon [Crafting
 Interpreters](https://craftinginterpreters.com/), started coding along
 and got hooked. Since then I've attended [workshops on programming
-languages](https://school.racket-lang.org/), tried to work on the Ruby
-interpreter, (slowly) built my own compiler and finally got a job
-working on a compiler. In short, I found a niche.
+languages](https://school.racket-lang.org/), tried (and kinda failed)
+to work on the Ruby interpreter, (slowly) built my own compiler and
+finally got a job working on a compiler. In short, I found a niche.
 
 My niche has helped me a lot. I've gotten good at an area, moreso than
 your average undergrad. I've managed to connect with people in my
@@ -39,7 +45,7 @@ gritty bits of compilers like closure conversion.
 Of course, gaining this knowledge takes work. I had to learn from
 different sources, work on side projects, bang my head against the
 wall (proverbally), etc. But it's not an impossible amount of
-work. Indeed, I've met other college students who have done the same
+work. I've met other college students who have done the same
 or more. It's the focus and specificity of the work that makes it
 unusual.
 
@@ -92,6 +98,13 @@ embedded operating systems or a lecture on zero-knowledge proofs. One
 you have that interest, you can go off and do some research. Ask
 professors, read papers, skim some textbooks.
 
+The next most organic way is to look at your existing interests and
+see if you can parlay them into niches. Did you like tinkering with
+electronics? Maybe embedded systems is your thing. Do you like dance?
+Maybe wearable electronics and human computer interaction is your
+area. Are you into a sport? Maybe you could use computer vision to
+analyze it.
+
 If you can't find a niche organically, then you can still explore
 different areas. First, ignore all the web/iOS/systems,
 whatever. That's still too broad. Get very very very specific. Learn
@@ -104,3 +117,13 @@ It's okay if you make slow progress. I've inched along in PL for
 years. I've gone weeks, months without touching my compiler. What's
 mattered is that I came back to it and kept working. Even if it took
 me 3 years when someone else took 3 months, I still made it.
+
+What a niche demonstrates is an ability to choose a topic and
+persist. It demonstrates that you can teach yourself, as your
+knowledge should go deeper than any course. It demonstrates that you
+find something genuinely interesting within CS and took the time to
+explore it. All of these are really great signs to a potential
+employer.
+
+Oh also the [Niche Zero](https://www.nichecoffee.co.uk/) is a pretty
+awesome espresso grinder. Not related to anything CS, just saying.

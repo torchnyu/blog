@@ -1,6 +1,6 @@
 ---
 title:  "Grades Don't Matter"
-date:   2021-02-21 10:00:00 -0700
+date:   2021-03-13 10:00:00 -0700
 ---
 
 Grades don't matter. I've beaten around this bush before in my [prior
@@ -105,7 +105,13 @@ There are an elite few places that care about grades, such as hedge
 funds and other financial institutions. However, they too put a lot of
 emphasis on prior work experience and technical ability. I suppose
 some effort put into grades would be worthwhile in that case, but the
-grades are still meaningless unless you have work experience.
+grades are still meaningless unless you have work experience. Truth be
+told, it's probably not your grades that prevent you from getting that
+Jane Street internship.
+
+You may notice that I'm omitting masters. That's cause you probably
+[do not need to get a
+masters](https://blog.torchnyu.com/2020/04/01/is-masters-worth-it.html).
 
 # Please Care
 
@@ -114,3 +120,12 @@ and not learn anything? God no. Seriously, please don't do that. You
 should keep learning, but approach it as a genuine interest. The
 problem I see with so many NYU students is that they focus too much on
 the grades and not on the learning.
+
+If you're a CS major, I'd hope that you like CS. If that is the case,
+then you should learn because you enjoy it, and coincidentally get
+decent grades. If you don't like CS, well grades can be a decent
+indicator of whether you're putting in enough work, but they're not a
+sufficient indicator of whether you'll be an employable CS
+graduate. Either way, you shouldn't use grades as your metric
+for success. I suppose that's a more accurate way of phrasing this
+post, but hey, it isn't as eyecatching.

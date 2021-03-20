@@ -1,6 +1,6 @@
 Here's how to fix NYU CS.
 
-1. Get the right people in charge.
+1. Get the right people.
 
 Find someone who can lead the charge. This person needs to be a
 tenured faculty. Non-tenured faculty will not have the political power
