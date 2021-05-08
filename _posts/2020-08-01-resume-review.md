@@ -67,7 +67,7 @@ team on API design. </div>
 
 This looks a lot cleaner.
 
-Never combine bold, italics or underline in the same word.
+Never combine bold, italics or underline in the same line.
 
 ## Margins
 
