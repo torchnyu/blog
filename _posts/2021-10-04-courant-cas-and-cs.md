@@ -1,6 +1,6 @@
 ---
 title:  "Courant, CAS and CS: How Do They Relate?"
-date:   2020-12-24 10:00:00 -0700
+date:   2021-10-04 10:00:00 -0700
 ---
 
 
@@ -8,16 +8,16 @@ Surprisingly, this isn't another complaining post. Instead, let's
 answer an incredibly common question: how the heck do Courant, CAS,
 the CS department relate to each other?
 
-**NOTE**: This is correct as of December 2020. Except it might not
+**NOTE**: This is correct as of October 2021. Except it might not
 be. This is convoluted and confusing enough that it's unlikely to be
 fully correct. Please verify this info on your own.
 
 Let's start with Courant. The Courant Institute of Mathematical
 Sciences is, well, an institute of mathematical sciences. Courant is
 primarily known for its applied and theoretical math, but it also
-contains computer science.
+contains computer science[^0].
 
-<div style="display: none"> In the same way the McDonalds menu technically contains salads. </div>
+[^0]: Like how the McDonalds menu contains Filet O'Fish
 
 The director of Courant, Russ Caflisch, is effectively a dean. He
 reports to the NYU president directly.
@@ -77,7 +77,7 @@ tacked on. There's a few reasons. For one, Tandon is a relatively new
 part of NYU, having joined in 2014. The other reason is that Tandon
 makes money off of their programs. Again, funding is tied to students
 in each respective program. If Tandon were to nix programs, it would
-lose money.
+lose money or have to negotiate a money-sharing scheme with Courant.
 
 If you want a confusing summary, *technically* Courant doesn't have
 students and CAS doesn't have a CS department.
