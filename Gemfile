@@ -34,3 +34,4 @@ end
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 gem "jekyll-remote-theme", "~> 0.4.1"
 gem "rexml", "~> 3.2.4"
+gem "webrick", "~> 1.7.0"

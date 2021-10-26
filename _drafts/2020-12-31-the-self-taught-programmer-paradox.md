@@ -70,3 +70,11 @@ know when not to teach. I took a software development course in high
 school. The teacher would give us lessons on some core concepts, but
 he also would teach by showing us where we could find information, and
 letting us figure it out ourselves.
+
+So when I advocate to do [side
+projects](https://blog.torchnyu.com/2019/12/21/side-projects.html) or
+[read about
+programming](https://blog.torchnyu.com/2020/02/10/how-much-do-you-read.html),
+it's not out of some abstract notion of work ethic. It's because
+reading about a new language and using it to write a web server is as
+close as you can get to real world programming.

@@ -5,8 +5,8 @@ have. They're worrying about applying to internships because they also
 want to do research and undergrad research programs have applications
 that open much later than internships. They're worrying about how
 they'll move to a different city if they get the job. They're worrying
-about whether or not they're prepared for the interview when they
-apply.
+about whether or not they're prepared for the interview before they
+even apply.
 
 These are all wonderful problems to have. If you end up having to
 decide between an offer and a potential research position, that's a
@@ -31,16 +31,17 @@ decision point, cloning itself into a bunch of other machines, each of
 which go down a path. If one of the clones succeeds, then the machine
 succeeds.
 
-Anyways, this is looking a little too much like actual computer
-science and we wouldn't want that, would we. My point is that it's
-good to have options. Too often we see choices as either/or. You
-either stay at the same school or you transfer. You choose the
-research position or the job. That may be true in the end, but that
-doesn't mean you should cut off these options early.
+Anyways, I digress. My point is that it's good to have options. Too
+often we see choices as either/or. You either stay at the same school
+or you transfer. You choose the research position or the job. That may
+be true in the end, but that doesn't mean you should cut off these
+options early.
 
 Another non-problem that I see some students talk about is working in
 boring or unappealing areas. Sure, that can suck. But it's also a
 problem that you can tackle once you're sitting in front of the job
-offers.
-
+offers. Besides, this might be the topic of an entirely different
+post, but it's not a matter of *if* but *when* you will be saddled
+with boring work. Better to have it be during an internship than
+during a full-time job.
 

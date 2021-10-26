@@ -317,4 +317,43 @@ Note that writing `Some(T)` is a way to have a variant take a field
 without naming it, something called tuple structs in Rust.
 
 Because we can express null with sum types, we can actually remove
-null from the language entirely and substitute it with
+null from the language entirely and substitute it with `Option`. This
+may seem weird, but it's a massive improvement. If you've written code
+at a place with code quality standards or if you're familiar with
+defensive programming, you'll have written a lot of `assert(foo !=
+null)`.
+
+We have to write this preamble because in most languages `foo` can
+always be `null`. The only way to confirm is to read through the
+codebase and double check that `foo` is never assigned to `null`. Even
+then, if the codebase is a library, a user could pass in
+`null`. Therefore, any field access, any method call could cause a
+`NullPointerException` or a segfault. In functional languages, we know
+that any field access, any method call can **never** cause a
+`NullPointerException` or a segfault.
+
+Instead, if a value can be null, we wrap it in `Option`:
+`Option<String>`, `Option<AbstractDataManager>`. Then, when we need to
+use it, we can use what's called pattern matching. Pattern matching is
+when you take a value and depending on the structure of the value, you
+execute different branches of code. It's kind of like a case/switch
+but significantly more powerful. In Rust, we use the `match` keyword
+to pattern match:
+
+```
+match foo {
+  Some(f) => {
+    println!("foo is not null: {}", f);
+  },
+  None => {
+    println!("foo is null");
+  }
+}
+```
+
+This code takes a variable `foo`, and depending on whether it's `Some`
+or `None`, it executes different code. You can think of this as
+"unwrapping" `foo` from `Option<T>` to `T`, while also handling the
+case where `foo` could be `None`.
+
+Pattern matching is incredibly useful 
