@@ -221,4 +221,43 @@ naming changed multiple times and the remnants were left in the
 codebase, how nobody knew all the different features and aspects of
 the product. But that'd take an entire book.
 
-Instead, let's talk about the worst part.
+Instead, let's talk about the most annoying aspect of working on the
+codebase. You see, I'd come across some terrible aspect of the code,
+maybe a horribly designed component, and I'd ask around about how the
+component came to be, who wrote it, etc.
+
+And nobody would know! They'd all shrug and claim ignorance. And yet
+the bad code kept pilling up. There wasn't any sense of ownership in
+the codebase. Nobody felt responsible for the mess, so nobody was
+willing to clean it up.
+
+In fairness, it was an extremely daunting mess to clean up. I tried at
+several points to refactor, but I had neither the skill in JavaScript
+nor the tactical awareness necessary to pull it off. Refactors are
+worth a blog post in of themselves, but in short, they're not as easy
+to do as people think. A good refactor needs to be scoped, accessible
+to the rest of the team and not introduce any regressions. Otherwise
+you run the risk of breaking more than you fix, which isn't great for
+the product and lowers your credibility with the team. In especially
+sub-par environments, the team may take this as a lesson to not
+refactor or to ignore your advice.
+
+Not to mention, refactors benefit from having the original author
+around. Otherwise you run the risk of repeating the same mistakes.
+
+So why did nobody know? For one, there was a lot of turn-over on the
+team. After all, with that codebase and that management, why would you
+stick around? Not to mention, the pay was pretty awful. I was paid
+20/hr, a decent salary for a high school graduate living with his
+parents. Y'know what one of my fellow developers was paid? Also
+20/hr[^2]! That's an utterly insulting amount for a full time
+developer in New York. Sure, he started out as an intern after a
+bootcamp, but 20/hr is bad.
+
+[^2]: Actually 40k/year but translated to hourly it's about 20/hr
+
+- Team
+  - Kevin: Underpaid
+  - Akhil: Deliverables
+  - New guys
+- Trenches
