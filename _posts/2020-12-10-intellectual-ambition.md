@@ -67,9 +67,9 @@ state with stellar public schools, we aren't anybody's automatic pick.
 
 Third, NYU is expensive. We're really really expensive. CS majors tend
 to be numbers people. $70,000 is a very large number. Not to mention,
-CS majors from Stanford to community college manage to make it into
-Google. Why pay $70,000 a year to end up in the same place as the kid
-who went to Stony Brook?
+CS majors from Stanford as well as from community colleges manage to
+make it into Google. Why pay $70,000 a year to end up in the same
+place as the kid who went to Stony Brook?
 
 # Intellectual Ambition
 
